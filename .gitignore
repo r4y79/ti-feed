@@ -1,0 +1,6 @@
+# Nothing from project_TI belongs here.
+config.yaml
+*.db
+*.env
+.venv/
+__pycache__/

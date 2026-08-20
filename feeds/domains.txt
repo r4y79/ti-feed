@@ -1,5 +1,5 @@
 # TI-Collector public feed — domains.txt
-# Generated: 2026-08-20 09:36:30 UTC | window: 24h | entries: 302
+# Generated: 2026-08-20 09:54:30 UTC | window: 24h | entries: 302
 # TLP:CLEAR — see SOURCES.md for upstream attribution and licence
 22nbxu1y.eng-usa-goldalign.com
 2301amarilloa.kozow.com

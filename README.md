@@ -2,7 +2,7 @@
 
 Machine-readable indicators of compromise, refreshed automatically. Each publish covers the **last 24 hours** of activity.
 
-**Last updated:** 2026-08-20 09:36 UTC — **2,002 indicators** · TLP:CLEAR
+**Last updated:** 2026-08-20 09:54 UTC — **2,002 indicators** · TLP:CLEAR
 
 | Type | Count |
 |---|---:|
@@ -18,18 +18,18 @@ Machine-readable indicators of compromise, refreshed automatically. Each publish
 `feeds/` holds rolling files, overwritten on every publish, so these URLs are stable:
 
 ```
-<add a GitHub remote to populate these URLs>/feeds/ips.txt
-<add a GitHub remote to populate these URLs>/feeds/domains.txt
-<add a GitHub remote to populate these URLs>/feeds/urls.txt
-<add a GitHub remote to populate these URLs>/feeds/hashes.txt
-<add a GitHub remote to populate these URLs>/feeds/iocs-latest.csv
-<add a GitHub remote to populate these URLs>/feeds/iocs-latest.json
+<non-GitHub remote>/feeds/ips.txt
+<non-GitHub remote>/feeds/domains.txt
+<non-GitHub remote>/feeds/urls.txt
+<non-GitHub remote>/feeds/hashes.txt
+<non-GitHub remote>/feeds/iocs-latest.csv
+<non-GitHub remote>/feeds/iocs-latest.json
 ```
 
 The plain-text lists are one indicator per line with `#` comments, ready for a firewall, proxy, or SIEM watchlist:
 
 ```bash
-curl -s <add a GitHub remote to populate these URLs>/feeds/ips.txt | grep -v '^#' > blocklist.txt
+curl -s <non-GitHub remote>/feeds/ips.txt | grep -v '^#' > blocklist.txt
 ```
 
 ## Archive

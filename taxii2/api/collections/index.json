@@ -8,7 +8,8 @@
       "can_write": false,
       "media_types": [
         "application/stix+json;version=2.1"
-      ]
+      ],
+      "object_count": 2539
     },
     {
       "id": "b0959dd1-db13-5431-ba4d-bbc866a2cf22",
@@ -18,7 +19,8 @@
       "can_write": false,
       "media_types": [
         "application/stix+json;version=2.1"
-      ]
+      ],
+      "object_count": 3
     }
   ]
 }

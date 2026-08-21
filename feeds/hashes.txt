@@ -1,5 +1,5 @@
 # TI-Collector public feed — hashes.txt
-# Generated: 2026-08-21 04:26:34 UTC | window: 24h | entries: 688
+# Generated: 2026-08-21 04:26:54 UTC | window: 24h | entries: 688
 # TLP:CLEAR — see SOURCES.md for upstream attribution and licence
 0006b238a6f699adf20a9d6400f6a415
 001130e083029d90783c95a5fc57688e

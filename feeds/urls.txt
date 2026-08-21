@@ -1,5 +1,5 @@
 # TI-Collector public feed — urls.txt
-# Generated: 2026-08-21 04:26:34 UTC | window: 24h | entries: 502
+# Generated: 2026-08-21 04:26:54 UTC | window: 24h | entries: 502
 # TLP:CLEAR — see SOURCES.md for upstream attribution and licence
 ftp://185.93.89.72/ftpget
 http://101.108.7.49:39084/bin.sh

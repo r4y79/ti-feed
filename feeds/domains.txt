@@ -1,5 +1,5 @@
 # TI-Collector public feed — domains.txt
-# Generated: 2026-08-21 02:51:23 UTC | window: 24h | entries: 404
+# Generated: 2026-08-21 02:57:27 UTC | window: 24h | entries: 404
 # TLP:CLEAR — see SOURCES.md for upstream attribution and licence
 1hvnc.duckdns.org
 41csh0wo.en-usa-sugarmute.us

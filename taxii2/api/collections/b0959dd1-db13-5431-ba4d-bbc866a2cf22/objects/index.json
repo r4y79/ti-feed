@@ -16,7 +16,7 @@
       "spec_version": "2.1",
       "id": "vulnerability--0faa0875-a0bc-548a-b969-9de7c249f8b6",
       "created": "2026-08-19T00:00:00Z",
-      "modified": "2026-08-21T02:51:23Z",
+      "modified": "2026-08-21T02:57:27Z",
       "created_by_ref": "identity--e0883e43-75f4-4c99-a142-ti-collector01",
       "name": "CVE-2026-64849",
       "description": "MLflow Server-Side Request Forgery Vulnerability",

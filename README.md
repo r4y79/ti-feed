@@ -2,22 +2,20 @@
 
 Machine-readable indicators of compromise, refreshed automatically. Each publish covers the **last 24 hours** of activity.
 
-**Last updated:** 2026-08-21 04:26 UTC — **2,538 indicators** · TLP:CLEAR
+**Last updated:** 2026-08-21 22:00 UTC — **2,012 indicators** · TLP:CLEAR
 
 | Type | Count |
 |---|---:|
-| Malicious Domains | 570 |
-| Malicious SSL Certificates (SHA1) | 518 |
-| Malicious URLs | 502 |
-| Malware Hashes (MD5) | 344 |
-| Malware Hashes (SHA256) | 344 |
-| Malicious IPs | 260 |
+| Malicious SSL Certificates (SHA1) | 513 |
+| Malicious Domains | 411 |
+| Malicious URLs | 348 |
+| Malicious IPs | 255 |
+| Malware Hashes (MD5) | 244 |
+| Malware Hashes (SHA256) | 241 |
 
 ## Consume it
 
-Two ways in: flat files under `feeds/`, or the TAXII 2.1 tree under `taxii2/`. Both are regenerated on every publish and both are overwritten in place, so every URL below is stable.
-
-### Flat files — `feeds/`
+`feeds/` holds rolling files, overwritten on every publish, so these URLs are stable:
 
 ```
 https://raw.githubusercontent.com/r4y79/ti-feed/main/feeds/ips.txt
@@ -33,28 +31,6 @@ The plain-text lists are one indicator per line with `#` comments, ready for a f
 ```bash
 curl -s https://raw.githubusercontent.com/r4y79/ti-feed/main/feeds/ips.txt | grep -v '^#' > blocklist.txt
 ```
-
-### TAXII 2.1 — `taxii2/`
-
-The same indicators as STIX 2.1 objects, arranged as a TAXII 2.1 document tree. Walk it the way a client would:
-
-```
-discovery    https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/index.json
-api root     https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/index.json
-collections  https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/index.json
-```
-
-| Collection | Objects | Endpoint |
-|---|---:|---|
-| IOCs — last 24 hours | 2,539 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json) |
-| CISA Known Exploited Vulnerabilities | 3 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/b0959dd1-db13-5431-ba4d-bbc866a2cf22/objects/index.json) |
-
-```bash
-curl -s https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json \
-  | jq -r '.objects[] | select(.type=="indicator") | .pattern'
-```
-
-> **This is a static export, not a live TAXII server.** GitHub serves it as `text/plain` rather than `application/taxii+json;version=2.1`, and query parameters (`added_after`, `limit`) are ignored — every fetch returns the full collection. Strict clients will reject it; see [`taxii2/README.md`](taxii2/README.md).
 
 ## Archive
 

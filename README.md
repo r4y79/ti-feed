@@ -2,16 +2,16 @@
 
 Machine-readable indicators of compromise, refreshed automatically. Each publish covers the **last 24 hours** of activity.
 
-**Last updated:** 2026-08-20 09:55 UTC — **2,002 indicators** · TLP:CLEAR
+**Last updated:** 2026-08-21 02:51 UTC — **1,986 indicators** · TLP:CLEAR
 
 | Type | Count |
 |---|---:|
-| Malicious SSL Certificates (SHA1) | 503 |
-| Malicious URLs | 350 |
-| Malware Hashes (MD5) | 309 |
-| Malware Hashes (SHA256) | 309 |
-| Malicious Domains | 302 |
-| Malicious IPs | 229 |
+| Malicious SSL Certificates (SHA1) | 518 |
+| Malicious Domains | 404 |
+| Malicious URLs | 388 |
+| Malicious IPs | 226 |
+| Malware Hashes (MD5) | 225 |
+| Malware Hashes (SHA256) | 225 |
 
 ## Consume it
 
@@ -34,7 +34,7 @@ curl -s https://raw.githubusercontent.com/r4y79/ti-feed/main/feeds/ips.txt | gre
 
 ## Archive
 
-`daily/YYYY/MM/` keeps every past run — a dated report and the matching CSV. Newest: [`daily/2026/08/report_20260820.md`](daily/2026/08/report_20260820.md).
+`daily/YYYY/MM/` keeps every past run — a dated report and the matching CSV. Newest: [`daily/2026/08/report_20260821.md`](daily/2026/08/report_20260821.md).
 
 ## Scope and limitations
 

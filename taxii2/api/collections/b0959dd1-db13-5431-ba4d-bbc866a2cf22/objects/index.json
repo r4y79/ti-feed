@@ -1,0 +1,45 @@
+{
+  "more": false,
+  "objects": [
+    {
+      "type": "identity",
+      "spec_version": "2.1",
+      "id": "identity--e0883e43-75f4-4c99-a142-ti-collector01",
+      "created": "2025-01-01T00:00:00Z",
+      "modified": "2025-01-01T00:00:00Z",
+      "name": "TI-Collector",
+      "identity_class": "system",
+      "description": "Automated Threat Intelligence Aggregator"
+    },
+    {
+      "type": "vulnerability",
+      "spec_version": "2.1",
+      "id": "vulnerability--0faa0875-a0bc-548a-b969-9de7c249f8b6",
+      "created": "2026-08-19T00:00:00Z",
+      "modified": "2026-08-21T02:51:23Z",
+      "created_by_ref": "identity--e0883e43-75f4-4c99-a142-ti-collector01",
+      "name": "CVE-2026-64849",
+      "description": "MLflow Server-Side Request Forgery Vulnerability",
+      "labels": [
+        "vulnerability"
+      ],
+      "external_references": [
+        {
+          "source_name": "cve",
+          "external_id": "CVE-2026-64849",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-64849"
+        }
+      ],
+      "extensions": {
+        "extension-definition--ti-collector": {
+          "extension_type": "property-extension",
+          "cisa_kev_date_added": "2026-08-19",
+          "cisa_kev_due_date": "2026-09-02",
+          "severity": "",
+          "vendor": "MLflow",
+          "product": "MLflow"
+        }
+      }
+    }
+  ]
+}

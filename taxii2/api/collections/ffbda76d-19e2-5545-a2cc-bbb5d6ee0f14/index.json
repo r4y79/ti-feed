@@ -1,0 +1,10 @@
+{
+  "id": "ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14",
+  "title": "IOCs \u2014 last 24 hours",
+  "description": "Indicators observed in the last 24 hours, republished from abuse.ch (CC0). Refreshed on every publish.",
+  "can_read": true,
+  "can_write": false,
+  "media_types": [
+    "application/stix+json;version=2.1"
+  ]
+}

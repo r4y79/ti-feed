@@ -1,0 +1,24 @@
+{
+  "collections": [
+    {
+      "id": "ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14",
+      "title": "IOCs \u2014 last 24 hours",
+      "description": "Indicators observed in the last 24 hours, republished from abuse.ch (CC0). Refreshed on every publish.",
+      "can_read": true,
+      "can_write": false,
+      "media_types": [
+        "application/stix+json;version=2.1"
+      ]
+    },
+    {
+      "id": "b0959dd1-db13-5431-ba4d-bbc866a2cf22",
+      "title": "CISA Known Exploited Vulnerabilities",
+      "description": "Vulnerability objects for CVEs added to the CISA KEV catalog in the window. US Government public domain.",
+      "can_read": true,
+      "can_write": false,
+      "media_types": [
+        "application/stix+json;version=2.1"
+      ]
+    }
+  ]
+}

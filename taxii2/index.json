@@ -1,0 +1,8 @@
+{
+  "title": "TI-Collector TAXII",
+  "description": "Static TAXII 2.1 export of the TI-Collector public feed. Read-only; see taxii2/README.md for the limitations of a statically hosted endpoint.",
+  "default": "https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/",
+  "api_roots": [
+    "https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/"
+  ]
+}

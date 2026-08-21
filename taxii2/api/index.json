@@ -1,0 +1,8 @@
+{
+  "title": "TI-Collector API Root",
+  "description": "Single API root. All collections are read-only.",
+  "versions": [
+    "application/taxii+json;version=2.1"
+  ],
+  "max_content_length": 104857600
+}

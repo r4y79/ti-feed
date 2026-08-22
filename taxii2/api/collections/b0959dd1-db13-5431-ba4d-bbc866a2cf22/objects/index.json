@@ -16,7 +16,7 @@
       "spec_version": "2.1",
       "id": "vulnerability--5c67c3b8-addb-5d48-a9be-325db747f51b",
       "created": "2026-08-21T00:00:00Z",
-      "modified": "2026-08-22T09:37:52Z",
+      "modified": "2026-08-22T22:00:00Z",
       "created_by_ref": "identity--e0883e43-75f4-4c99-a142-ti-collector01",
       "name": "CVE-2026-73570",
       "description": "Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability",

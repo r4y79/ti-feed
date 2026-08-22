@@ -2,16 +2,16 @@
 
 Machine-readable indicators of compromise, refreshed automatically. Each publish covers the **last 24 hours** of activity.
 
-**Last updated:** 2026-08-22 09:37 UTC — **1,683 indicators** · TLP:CLEAR
+**Last updated:** 2026-08-22 22:00 UTC — **2,088 indicators** · TLP:CLEAR
 
 | Type | Count |
 |---|---:|
-| Malicious SSL Certificates (SHA1) | 500 |
-| Malicious URLs | 266 |
-| Malware Hashes (MD5) | 239 |
-| Malware Hashes (SHA256) | 236 |
-| Malicious Domains | 232 |
-| Malicious IPs | 210 |
+| Malicious SSL Certificates (SHA1) | 508 |
+| Malicious Domains | 364 |
+| Malware Hashes (SHA256) | 350 |
+| Malware Hashes (MD5) | 333 |
+| Malicious URLs | 303 |
+| Malicious IPs | 230 |
 
 ## Consume it
 
@@ -46,7 +46,7 @@ collections  https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/col
 
 | Collection | Objects | Endpoint |
 |---|---:|---|
-| IOCs — last 24 hours | 1,684 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json) |
+| IOCs — last 24 hours | 2,089 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json) |
 | CISA Known Exploited Vulnerabilities | 2 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/b0959dd1-db13-5431-ba4d-bbc866a2cf22/objects/index.json) |
 
 ```bash

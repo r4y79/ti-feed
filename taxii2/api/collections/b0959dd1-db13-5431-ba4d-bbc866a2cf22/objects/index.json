@@ -10,36 +10,6 @@
       "name": "TI-Collector",
       "identity_class": "system",
       "description": "Automated Threat Intelligence Aggregator"
-    },
-    {
-      "type": "vulnerability",
-      "spec_version": "2.1",
-      "id": "vulnerability--5c67c3b8-addb-5d48-a9be-325db747f51b",
-      "created": "2026-08-21T00:00:00Z",
-      "modified": "2026-08-22T22:00:00Z",
-      "created_by_ref": "identity--e0883e43-75f4-4c99-a142-ti-collector01",
-      "name": "CVE-2026-73570",
-      "description": "Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability",
-      "labels": [
-        "vulnerability"
-      ],
-      "external_references": [
-        {
-          "source_name": "cve",
-          "external_id": "CVE-2026-73570",
-          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-73570"
-        }
-      ],
-      "extensions": {
-        "extension-definition--ti-collector": {
-          "extension_type": "property-extension",
-          "cisa_kev_date_added": "2026-08-21",
-          "cisa_kev_due_date": "2026-08-24",
-          "severity": "",
-          "vendor": "Synacor",
-          "product": "Zimbra Collaboration Suite (ZCS)"
-        }
-      }
     }
   ]
 }

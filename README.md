@@ -2,16 +2,16 @@
 
 Machine-readable indicators of compromise, refreshed automatically. Each publish covers the **last 24 hours** of activity.
 
-**Last updated:** 2026-08-22 22:00 UTC — **2,088 indicators** · TLP:CLEAR
+**Last updated:** 2026-08-23 22:00 UTC — **1,961 indicators** · TLP:CLEAR
 
 | Type | Count |
 |---|---:|
-| Malicious SSL Certificates (SHA1) | 508 |
-| Malicious Domains | 364 |
-| Malware Hashes (SHA256) | 350 |
-| Malware Hashes (MD5) | 333 |
-| Malicious URLs | 303 |
-| Malicious IPs | 230 |
+| Malicious SSL Certificates (SHA1) | 500 |
+| Malicious Domains | 423 |
+| Malware Hashes (MD5) | 364 |
+| Malware Hashes (SHA256) | 363 |
+| Malicious URLs | 225 |
+| Malicious IPs | 86 |
 
 ## Consume it
 
@@ -46,8 +46,8 @@ collections  https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/col
 
 | Collection | Objects | Endpoint |
 |---|---:|---|
-| IOCs — last 24 hours | 2,089 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json) |
-| CISA Known Exploited Vulnerabilities | 2 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/b0959dd1-db13-5431-ba4d-bbc866a2cf22/objects/index.json) |
+| IOCs — last 24 hours | 1,962 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json) |
+| CISA Known Exploited Vulnerabilities | 1 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/b0959dd1-db13-5431-ba4d-bbc866a2cf22/objects/index.json) |
 
 ```bash
 curl -s https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json \
@@ -58,7 +58,7 @@ curl -s https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collecti
 
 ## Archive
 
-`daily/YYYY/MM/` keeps every past run — a dated report and the matching CSV. Newest: [`daily/2026/08/report_20260822.md`](daily/2026/08/report_20260822.md).
+`daily/YYYY/MM/` keeps every past run — a dated report and the matching CSV. Newest: [`daily/2026/08/report_20260823.md`](daily/2026/08/report_20260823.md).
 
 ## Scope and limitations
 

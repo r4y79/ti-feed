@@ -10,6 +10,36 @@
       "name": "TI-Collector",
       "identity_class": "system",
       "description": "Automated Threat Intelligence Aggregator"
+    },
+    {
+      "type": "vulnerability",
+      "spec_version": "2.1",
+      "id": "vulnerability--567955e6-999e-5385-9e4c-2cdcb50493ec",
+      "created": "2026-08-24T00:00:00Z",
+      "modified": "2026-08-25T22:00:00Z",
+      "created_by_ref": "identity--e0883e43-75f4-4c99-a142-ti-collector01",
+      "name": "CVE-2026-21962",
+      "description": "Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Improper Access Control Vulnerability",
+      "labels": [
+        "vulnerability"
+      ],
+      "external_references": [
+        {
+          "source_name": "cve",
+          "external_id": "CVE-2026-21962",
+          "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-21962"
+        }
+      ],
+      "extensions": {
+        "extension-definition--ti-collector": {
+          "extension_type": "property-extension",
+          "cisa_kev_date_added": "2026-08-24",
+          "cisa_kev_due_date": "2026-08-27",
+          "severity": "",
+          "vendor": "Oracle",
+          "product": "HTTP Server and Oracle Weblogic Server Proxy Plug-in"
+        }
+      }
     }
   ]
 }

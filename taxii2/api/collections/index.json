@@ -12,7 +12,7 @@
     },
     {
       "id": "b0959dd1-db13-5431-ba4d-bbc866a2cf22",
-      "title": "CISA Known Exploited Vulnerabilities",
+      "title": "CISA KEV (30days)",
       "description": "Vulnerability objects for CVEs added to the CISA KEV catalog in the last 30 days. US Government public domain.",
       "can_read": true,
       "can_write": false,
@@ -22,7 +22,7 @@
     },
     {
       "id": "c6715fd0-21b8-50c5-85bd-bfba36bce52f",
-      "title": "CISA KEV \u2014 actively discussed",
+      "title": "CVE (30days)",
       "description": "Known-exploited CVEs (CISA KEV) that also appear in AlienVault OTX pulses seen in the last 30 days. Every field is CISA KEV data, US Government public domain; OTX is used only to select which KEV entries are listed, and no OTX-authored content is republished.",
       "can_read": true,
       "can_write": false,

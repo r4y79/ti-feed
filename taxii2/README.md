@@ -23,7 +23,7 @@ metadata  https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collec
 objects   https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json
 ```
 
-### CISA Known Exploited Vulnerabilities
+### CISA KEV (30days)
 
 `b0959dd1-db13-5431-ba4d-bbc866a2cf22`
 
@@ -34,7 +34,7 @@ metadata  https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collec
 objects   https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/b0959dd1-db13-5431-ba4d-bbc866a2cf22/objects/index.json
 ```
 
-### CISA KEV — actively discussed
+### CVE (30days)
 
 `c6715fd0-21b8-50c5-85bd-bfba36bce52f`
 

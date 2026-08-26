@@ -27,7 +27,7 @@ objects   https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collec
 
 `b0959dd1-db13-5431-ba4d-bbc866a2cf22`
 
-Vulnerability objects for CVEs added to the CISA KEV catalog in the window. US Government public domain.
+Vulnerability objects for CVEs added to the CISA KEV catalog in the last 30 days. US Government public domain.
 
 ```
 metadata  https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/b0959dd1-db13-5431-ba4d-bbc866a2cf22/index.json

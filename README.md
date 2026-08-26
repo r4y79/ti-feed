@@ -2,7 +2,7 @@
 
 Machine-readable indicators of compromise, refreshed automatically. Each publish covers the **last 24 hours** of activity.
 
-**Last updated:** 2026-08-26 03:23 UTC — **2,002 indicators** · TLP:CLEAR
+**Last updated:** 2026-08-26 03:26 UTC — **2,002 indicators** · TLP:CLEAR
 
 | Type | Count |
 |---|---:|
@@ -47,7 +47,7 @@ collections  https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/col
 | Collection | Objects | Endpoint |
 |---|---:|---|
 | IOCs — last 24 hours | 2,003 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json) |
-| CISA Known Exploited Vulnerabilities | 2 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/b0959dd1-db13-5431-ba4d-bbc866a2cf22/objects/index.json) |
+| CISA Known Exploited Vulnerabilities | 23 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/b0959dd1-db13-5431-ba4d-bbc866a2cf22/objects/index.json) |
 | CISA KEV — actively discussed | 14 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/c6715fd0-21b8-50c5-85bd-bfba36bce52f/objects/index.json) |
 
 ```bash

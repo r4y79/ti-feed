@@ -1,5 +1,5 @@
 # TI-Collector public feed — ips.txt
-# Generated: 2026-08-25 22:00:00 UTC | window: 24h | entries: 282
+# Generated: 2026-08-26 03:12:47 UTC | window: 24h | entries: 282
 # TLP:CLEAR — see SOURCES.md for upstream attribution and licence
 1.13.179.86
 102.117.163.61

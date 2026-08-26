@@ -1,8 +1,8 @@
-# TI-Collector — Public Threat Intelligence Feed
+# TI-Collector — CTAC MY Threat Intelligence Feed
 
 Machine-readable indicators of compromise, refreshed automatically. Each publish covers the **last 24 hours** of activity.
 
-**Last updated:** 2026-08-25 22:00 UTC — **2,002 indicators** · TLP:CLEAR
+**Last updated:** 2026-08-26 03:12 UTC — **2,002 indicators** · TLP:CLEAR
 
 | Type | Count |
 |---|---:|
@@ -58,7 +58,7 @@ curl -s https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collecti
 
 ## Archive
 
-`daily/YYYY/MM/` keeps every past run — a dated report and the matching CSV. Newest: [`daily/2026/08/report_20260825.md`](daily/2026/08/report_20260825.md).
+`daily/YYYY/MM/` keeps every past run — a dated report and the matching CSV. Newest: [`daily/2026/08/report_20260826.md`](daily/2026/08/report_20260826.md).
 
 ## Scope and limitations
 

@@ -1,5 +1,5 @@
 # TI-Collector public feed — urls.txt
-# Generated: 2026-08-26 03:12:47 UTC | window: 24h | entries: 460
+# Generated: 2026-08-26 03:23:15 UTC | window: 24h | entries: 460
 # TLP:CLEAR — see SOURCES.md for upstream attribution and licence
 http://103.157.210.26:37655/i
 http://103.203.210.102:53995/i

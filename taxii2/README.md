@@ -34,6 +34,17 @@ metadata  https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collec
 objects   https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/b0959dd1-db13-5431-ba4d-bbc866a2cf22/objects/index.json
 ```
 
+### CISA KEV — actively discussed
+
+`c6715fd0-21b8-50c5-85bd-bfba36bce52f`
+
+Known-exploited CVEs (CISA KEV) that also appear in AlienVault OTX pulses seen in the last 30 days. Every field is CISA KEV data, US Government public domain; OTX is used only to select which KEV entries are listed, and no OTX-authored content is republished.
+
+```
+metadata  https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/c6715fd0-21b8-50c5-85bd-bfba36bce52f/index.json
+objects   https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/c6715fd0-21b8-50c5-85bd-bfba36bce52f/objects/index.json
+```
+
 ## What this is not
 
 This is static hosting, so it is **not** a conformant TAXII server:

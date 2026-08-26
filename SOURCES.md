@@ -16,13 +16,20 @@ CISA KEV entries in the reports come from the
 [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog),
 a US Government work in the public domain.
 
+The `kev-exploited-otx` TAXII collection lists KEV entries that are also being
+discussed in AlienVault OTX pulses. Every field in it is CISA KEV data; OTX is
+used *only* to select which KEV entries are listed. No OTX-authored content —
+pulse names, adversary attribution or scores — is republished, so the exclusion
+below still holds.
+
 ## Deliberately excluded
 
 These feeds are collected internally but **not** republished here:
 
 - **OpenPhish** — the free Community Feed prohibits redistribution.
 - **AlienVault OTX** — user-contributed pulse content; bulk republication is
-  not covered by the API terms.
+  not covered by the API terms. Used as a *selector* only, for the
+  `kev-exploited-otx` collection described above.
 - **Community Zeek intel feeds** — mixed and often unstated upstream licences.
 - **blocklist.de** — free to use, but redistribution is not expressly granted.
 - **VirusTotal, AbuseIPDB, URLScan.io, Hybrid Analysis, GreyNoise** — per-indicator

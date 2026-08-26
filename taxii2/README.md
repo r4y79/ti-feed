@@ -58,6 +58,42 @@ This is static hosting, so it is **not** a conformant TAXII server:
 Point a static file server that resolves directories to `index.json` (nginx: `index index.json;`) at this tree and it becomes a working
 read-only TAXII 2.1 endpoint, provided the server also sets the media type.
 
+## Using a TAXII client
+
+A spec-compliant client (`taxii2-client`, OpenCTI, MISP) will **fail against these URLs**, and the failure reads like an auth problem when it is not:
+
+```
+HTTPError: 404 Client Error: Not Found for url:
+  https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/index.json/
+```
+
+The client normalises every URL with a trailing `/` and expects the server to resolve a directory to its index document.
+raw.githubusercontent.com serves exact file paths only, so `/taxii2/`, `/taxii2` and `/taxii2/index.json/` all return 404.
+
+**No credentials are involved.** These endpoints return `200` anonymously and send no `WWW-Authenticate` header; the repository is public.
+Supplying a username and password produces the *identical* 404 — a password cannot fix a path that does not exist, and static hosting has nowhere to
+configure one. Fetch the documents by exact path instead:
+
+```python
+import requests
+B = "https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2"
+g = lambda p: requests.get(f"{B}{p}", timeout=20).json()
+
+g("/index.json")                                  # discovery
+for c in g("/api/collections/index.json")["collections"]:
+    objs = g(f"/api/collections/{c['id']}/objects/index.json")["objects"]
+```
+
+To make real TAXII clients work, serve this tree yourself. Both the directory resolution and the media type have to be right:
+
+```nginx
+location /taxii2/ {
+    types { }                                          # drop the .json -> application/json map
+    default_type "application/taxii+json;version=2.1"; # spec-required media type
+    try_files $uri $uri/index.json =404;               # directory -> index.json
+}
+```
+
 ## Fetching it directly
 
 ```bash

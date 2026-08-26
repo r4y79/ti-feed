@@ -2,15 +2,15 @@
 
 Machine-readable indicators of compromise, refreshed automatically. Each publish covers the **last 24 hours** of activity.
 
-**Last updated:** 2026-08-26 03:56 UTC — **2,002 indicators** · TLP:CLEAR
+**Last updated:** 2026-08-26 04:03 UTC — **2,307 indicators** · TLP:CLEAR
 
 | Type | Count |
 |---|---:|
+| Malicious URLs | 531 |
 | Malicious SSL Certificates (SHA1) | 508 |
-| Malicious URLs | 460 |
+| Malware Hashes (SHA256) | 386 |
+| Malware Hashes (MD5) | 385 |
 | Malicious IPs | 282 |
-| Malware Hashes (SHA256) | 269 |
-| Malware Hashes (MD5) | 268 |
 | Malicious Domains | 215 |
 
 ## Consume it
@@ -26,6 +26,7 @@ https://raw.githubusercontent.com/r4y79/ti-feed/main/feeds/urls.txt
 https://raw.githubusercontent.com/r4y79/ti-feed/main/feeds/hashes.txt
 https://raw.githubusercontent.com/r4y79/ti-feed/main/feeds/iocs-latest.csv
 https://raw.githubusercontent.com/r4y79/ti-feed/main/feeds/iocs-latest.json
+https://raw.githubusercontent.com/r4y79/ti-feed/main/feeds/stellarcyber.tsv
 ```
 
 The plain-text lists are one indicator per line with `#` comments, ready for a firewall, proxy, or SIEM watchlist:
@@ -33,6 +34,10 @@ The plain-text lists are one indicator per line with `#` comments, ready for a f
 ```bash
 curl -s https://raw.githubusercontent.com/r4y79/ti-feed/main/feeds/ips.txt | grep -v '^#' > blocklist.txt
 ```
+
+`stellarcyber.tsv` is the same 24h window in the Stellar Cyber *Custom Feed / TSV* schema (`TYPE`, `VALUE`, `SOURCE`, `SCORE`, tab-separated, no header).
+It carries only the `url`, `ip` and `domain` indicators — that format has no representation for file hashes or SSL certificates.
+Stellar Cyber requires a username and password on every custom feed; this host ignores them, so any non-empty pair works.
 
 ### TAXII 2.1 — `taxii2/`
 
@@ -46,8 +51,8 @@ collections  https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/col
 
 | Collection | Objects | Endpoint |
 |---|---:|---|
-| IOCs — last 24 hours | 2,003 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json) |
-| CISA KEV (30days) | 23 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/b0959dd1-db13-5431-ba4d-bbc866a2cf22/objects/index.json) |
+| IOCs — last 24 hours | 2,308 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json) |
+| CISA KEV (30days) | 24 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/b0959dd1-db13-5431-ba4d-bbc866a2cf22/objects/index.json) |
 | CVE (30days) | 14 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/c6715fd0-21b8-50c5-85bd-bfba36bce52f/objects/index.json) |
 
 ```bash

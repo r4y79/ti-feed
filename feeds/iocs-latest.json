@@ -1,8 +1,8 @@
 {
-  "generated": "2026-08-26 03:56:04",
+  "generated": "2026-08-26 04:03:04",
   "window_hours": 24,
   "tlp": "CLEAR",
-  "count": 2002,
+  "count": 2307,
   "sources": [
     "feodotracker",
     "malwarebazaar",
@@ -12,6 +12,3396 @@
   ],
   "notice": "Derived from CC0 abuse.ch feeds. No third-party enrichment verdicts are included. See SOURCES.md.",
   "iocs": [
+    {
+      "type": "hash_md5",
+      "value": "00a267d0209056a38862aa55ff209357",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "01b139332e355ac19ba941eaa37b69d8",
+      "source": "malwarebazaar",
+      "threat_type": "jse",
+      "tags": "jse",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "040ec7ee91043828cd3c1fb0cadc3af7",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "0635bb7074b691e34052ef45c0ec0f9b",
+      "source": "malwarebazaar",
+      "threat_type": "SilentNet",
+      "tags": "exe,SilentNet",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "0741bde0425e06f4b6cb7ebe726ca11d",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "08ca0ab7b1b29b1b45a42a8eb757c9fd",
+      "source": "malwarebazaar",
+      "threat_type": "CoinMiner",
+      "tags": "CoinMiner,exe,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "0bf67dad9ba857181782e4bc1c7edf00",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "0d283862963461444636fb7b11b901c2",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "12bf2ed240d9d6a674600ff8af4d61b5",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "156457ebb313ec1ea841b5a21013ffd6",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "1630708ef4928557867db5449a383e81",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "1b13e58b3dab822e80196b9c5d9349d7",
+      "source": "malwarebazaar",
+      "threat_type": "py",
+      "tags": "Astaroth,download,meusorcamentos-cfd,py",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "1bdeee1c431524b729e47cb248321a92",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "1cf642bc38b530d44ac1c50de844c6a2",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "1db2cbc9f0c99ec64558e694e9561bd3",
+      "source": "malwarebazaar",
+      "threat_type": "apk",
+      "tags": "apk,banker,signed,websolution-br-com",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "1ecd4858dfaf3246e03fb0cfa7453e36",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "ClickFraud,exe,GCleaner,RemusStealer,sfx,unluckytool-com",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "2b7482504147976501675f330dbce29d",
+      "source": "malwarebazaar",
+      "threat_type": "js",
+      "tags": "colombia,js,lure",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "2b9e481bef677e723f64568a395308b5",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "2f6a6b679c239bedec5af84797c9fef7",
+      "source": "malwarebazaar",
+      "threat_type": "elf",
+      "tags": "elf",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "3075bb5c042ac43da27c4ad0f366f38c",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "374199fd7203225126bbd4ae72fddedf",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "3a64867412272290684821ddf2218a07",
+      "source": "malwarebazaar",
+      "threat_type": "elf",
+      "tags": "elf,wraith",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "3b4f5f7d230b26a7d6a25bbaf37ccb33",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "ClickFraud,exe,GCleaner,RemusStealer,sfx,unluckytool-com",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "3ca8f68e23631c0487a17bc6e4f4c5d5",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "3ce1e3ad517955b5c4b0355338bada7c",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "3e709dd34a47de401100fda631ffded8",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "4116f5e8940f1eeda985660102f8cc18",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "ACRStealer,exe,patch-granitespan-cc,unluckytool-com",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "459d17755ebae6e382061cfc9ade04df",
+      "source": "malwarebazaar",
+      "threat_type": "sh",
+      "tags": "sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "47209aafceb3519e43d7dfa1fff19012",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,exe,upx,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "488d3324b6745baa2f52ea9d65900dfb",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "4cec393639168d9cf0ae057815d23f88",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "exe,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "4d207f0210d2b15cd79f47f913b218ec",
+      "source": "malwarebazaar",
+      "threat_type": "pdf",
+      "tags": "pdf",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "4d5dbad2df1522f02534c5c5737df6b7",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "4fcc9f903bb83901cc75a99061ed4c4d",
+      "source": "malwarebazaar",
+      "threat_type": "elf",
+      "tags": "elf",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "550d5316917dd9480919fae759bac723",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "5644e07d151d4aafbe77cdc21d9f2fe3",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "582f432c5364ab14156ea274d0d3fa8b",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "59a21de70a5c1cb3fb683abb5cb3a6b3",
+      "source": "malwarebazaar",
+      "threat_type": "unknown",
+      "tags": "unknown",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "5bc2d9443b25301943a59707ac76a5aa",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "5e3c0f6038314b2c9edd26e890890d50",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "exe,upx,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "5eac859771660c6a1390a6a0575f73eb",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "5fbb735415636689f598e39d4d339f56",
+      "source": "malwarebazaar",
+      "threat_type": "sh",
+      "tags": "sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "6074fb302f3bccc8ed02678be6588f6f",
+      "source": "malwarebazaar",
+      "threat_type": "ValleyRAT",
+      "tags": "exe,RAT,ValleyRAT",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "630f4df4929b1cb2c80dfc16ddffc334",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "63c07d12aeb81dc487c88352cc2381e1",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "65c6484ae72fa0c93dde94385914b517",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "662a5124e4f0c32556f4ea34fdaaad25",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "6687dd664de431f791424c0b506bf082",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "696ef5528c56d01e65e61daa0ca3adc8",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "6c8103eba76e45df3dce42d06647bc33",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "6d4c167a665688a9ee444028234df4ad",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "6e7e648b1a973893ab87fbac67323a46",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "6f161f07cf638a8f70d06defa71a7588",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "ClickFraud,exe,GCleaner,RemusStealer,sfx,systemformating-rest,unluckytool-com",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "716810698420bf19b6e658d3c5f2e7a2",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "71c51604c8a74307231e4e6b3238d0e0",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "735cda5521fe8b13168a40da6bbe2036",
+      "source": "malwarebazaar",
+      "threat_type": "DCRat",
+      "tags": "DCRat,exe,RAT",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "79ca8de9c9b118c11bb86558b423321f",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "7d3b1a55c62b100d7ef7242278c2a1c3",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "7df589d5eaa276b2d4e25adec7969e9c",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "7e9ce437986ca028d113edeb7ae39b18",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "7ed3b64340adce134dac011ab1750e30",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "7fe1788c1480611ad77ec2a8d570a330",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "831fe481886b35b4d439e8a8f757f2f2",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "84f681a1ce98cf32cebc86d2ad3cc9a1",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "875ca7eff1c71539ae902bb7591813ad",
+      "source": "malwarebazaar",
+      "threat_type": "unknown",
+      "tags": "unknown",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "8c57612116927c54c0848bec59bbf56d",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "8d42df49a4c44ef0c8eefbbf479d8cda",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "8db375f9d70cc439f7d8b66b2b3a5236",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,exe,upx,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "8fefa362daa74650055d791ead1a8ba0",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "92917a222a904a29e937433bd0440f00",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "54e64e,dropped-by-Amadey,exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "9400064ee3062b2a9bdae86d20faf74f",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "95273e58b0b19ecd3f80f2628e866719",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "96cdc545937687177a5d6d1aa4882406",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "97364a342dcccbbade69d9642a4b8874",
+      "source": "malwarebazaar",
+      "threat_type": "AgentTesla",
+      "tags": "AgentTesla,rar",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "a47365c301951c9fe6a9ace9fbfcba35",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,exe,Mirai,upx,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "a5fd3f9dbd69e896ffca0177a57edae3",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "a8e48fab8e9a7f009ead4b2bd524a10a",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "afabafa18898b872368413cea3db8907",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "b07d4f03ef27e9b319075b7dcadfff92",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "54e64e,dropped-by-Amadey,exe,signed",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "b0ca596808a19499109405a3e671e5ec",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "b0dedca22277d75afd198dc37e500a7a",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "b470f58c0c9473bfbd421e277fb79729",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "b69d3e02a10683561e93757c6b942f5d",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "exe,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "b7321901326394b6d78d54a279ecf1f1",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "exe,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "b73f2187f6d57ed96434e41d558afec6",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "b815b0b04c6b5e70da18f4f9394a523e",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "b893229701e74d19a2b269a390c24629",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "b8ba2c2e6c2dc891bf84d632a7fdad77",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "b9909d763cbaeccf8add876ea48abed2",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "c1146b700029c334523c2c1bdfcf0f51",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "c347ca26e35efda4edd8c8a3a1afd24d",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "c3a02f09fa79c34761688379e7a0c3b6",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "c6d105e76189d31b7f4fd5e445806c07",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "c72757b9aab3b4bae43c26d07e683d59",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,exe,Mirai,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "c9b839ff87ede61eb21fe90c19a50449",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "ca1c4ecd825daf96cc15fcfb0319a08f",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "ca6c0e0c28b24b1019fc31c2e4ad1372",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "cddace86dbc1ef4de9bd053f480b1c8e",
+      "source": "malwarebazaar",
+      "threat_type": "sh",
+      "tags": "sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "ce5112771d0a756f2a21815f6c7f38d7",
+      "source": "malwarebazaar",
+      "threat_type": "zip",
+      "tags": "Astaroth,banker,meusorcamentos-cfd,zip",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "cee61ab4bca470b8ad09d3eb83c02eae",
+      "source": "malwarebazaar",
+      "threat_type": "dll",
+      "tags": "dll",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "cee6789d9a1e821c975a0a2d1369f06e",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "exe,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "d69feb545f6d4ba6a6a75e5fa27f5341",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "dbd97dcdc9ddb7ea844115a2314e5ed9",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "dcd9e924e9a72e437efaab549c158d50",
+      "source": "malwarebazaar",
+      "threat_type": "ConnectWise",
+      "tags": "ConnectWise,exe,signed,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "e0ce31f42872f97cba1b79f41b7b96d4",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "e0fdb9172c62e88305fdd30d7dd8415c",
+      "source": "malwarebazaar",
+      "threat_type": "zip",
+      "tags": "aydljd-gotdns-ch,banker,Plugonn,receita-fazenda-com,zip",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "e1321938ab2b267b3e02ecc9badb58dd",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "e1658143dbd923b8619c06930637f729",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,exe,Mirai,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "e6fc770ee455cdd13529a836cc3eea6a",
+      "source": "malwarebazaar",
+      "threat_type": "unknown",
+      "tags": "unknown",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "e83571d90c0dbb848624795b4bc0b467",
+      "source": "malwarebazaar",
+      "threat_type": "sh",
+      "tags": "enthec,sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "f194946d286c1f5778bf5bcc4feb80fa",
+      "source": "malwarebazaar",
+      "threat_type": "unknown",
+      "tags": "176-65-144-164,binance-idexchange-com,gojirotomiodid-com",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "f19ed339a03d0d0b95e1c442b1cef89d",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,exe,upx,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "f247bff42a4109fdca38c1a052769116",
+      "source": "malwarebazaar",
+      "threat_type": "njrat",
+      "tags": "njrat,zip",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "f6f2269e6397e76e64ce58b17fb149ce",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "exe,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "f868cab38efec9136897169ad44e0ee5",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "fb15d10dd08da685af31a45939e71584",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "exe,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_md5",
+      "value": "ffc00a9c9fa0f0cbb45a683ad1b3d1bf",
+      "source": "malwarebazaar",
+      "threat_type": "sh",
+      "tags": "enthec,sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "023fc9e49bca10e5d39539a199553d7899484f329bd9b7120e63a735e1e0ef3e",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "02e3fad4ff84e80b387a30498768e8bc18431ae2299bfe05b049a467bd3e3c1b",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "0398098b2c44c48a936b884b4e3fc8f85c60ec71181f7d92f1edf17712964919",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "03c1a932ee59cf97ca66760fbd64d5ff7ac9598113a3aea82d2a7a9cb486c64d",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "0484dc1c63d66c55553ecc86cd23fabe850fa6a8569afc86948451000e350927",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "54e64e,dropped-by-Amadey,exe,signed",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "04c01403ad7475b62702df25481eca153516ea44220edf862e52146498d1d631",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "079773c24b5ec1a11017b52b079b0620b475d8c78bc03310f5a94dcf0c97b869",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,exe,Mirai,upx,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "07a541c30527e45003e8890003af527215e0439d7a6ddce050a3117b2c749cf5",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "08857d2641cf6fd71856e83789e3a577ff991e66e59923ba951dabdd0583c7bc",
+      "source": "malwarebazaar",
+      "threat_type": "unknown",
+      "tags": "unknown",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "0dfece8dd16373921b2f08e068954375904d01421055aab076d801b74befe81e",
+      "source": "malwarebazaar",
+      "threat_type": "AgentTesla",
+      "tags": "AgentTesla,rar",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "0e47825b38a8b078af16722ff4f49e6988cd2dd1e1faf8062934e3970d13f5eb",
+      "source": "malwarebazaar",
+      "threat_type": "unknown",
+      "tags": "unknown",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "13d253c14c9456f3056f2e1afba2ef838a0e16abff0511fa17b15ddc3c86ab94",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "16e9f421f92f894dabc3e41e6d16c39b3cb6f3bedcdac27cef523799d7c055bb",
+      "source": "malwarebazaar",
+      "threat_type": "elf",
+      "tags": "elf",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "18d31c7a027f8dd95e8e75bc9b2dfd25a79d7311ae55977ab8cb55b86d5dd7bf",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "1a6468d392019ff6b3335fb6427b7621cfa5858982a556fbd90b58c5b27541c6",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "exe,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "1abe6dd23b0045d8f8ee25587315063673f7075b96767fd28004346db3e8d749",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "1b25019515f53e931ab5674c97fbe2dcb109a3e4226b9cf2b93bf4aa4ccaddc5",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "1b31ce2dc9f700aaf2765e44abf263f6a71a4e1630f4c57fdbbba6f6d57f5010",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "1d70972c44664eb6f4b3f4a4fa11e44eaed32913a8cb4c02a11c27d70eef1edc",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "ACRStealer,exe,patch-granitespan-cc,unluckytool-com",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "1f94437d559fb268a5a784f04fc95485c090e2662788aa3c61595084b13b505f",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "21908cd9b2741237f34532d95b5ec0acf19d1b9f805955c08966682718998c18",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "223b572c10f3b361959d74c5c59bf2868bcf63e49c0b2679f4df5528035331a4",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "2391101de95f7fbca63837051ca6928f7c1b0bf8734c0827d6a9fd96a89d1ac6",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "265ff3e568105a01f8c6d52912715be58f550096b12332fdc86c7c4e80746323",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "exe,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "2853cdaa2ab6448c1161473e3ffe9a3c8fbe6a349a3cc435705683c9932dd1af",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "2d0fd92ec27d3ca45834545d8d461e856a0d75d293b51d31232f79b25214e0f3",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "2eedc3c49fdb653ef525b6dba00e7736d8a80f7ebc225b98838d43fcdb8bbb7e",
+      "source": "malwarebazaar",
+      "threat_type": "elf",
+      "tags": "elf,wraith",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "30ddcc99e3c4380ca21df1c0b92e7867abe1657b42f4b86f35064ff394ae6575",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "3109e78741814f36689a0c465c40f22bd4d7cca4e9cc51f8c40f07684a513273",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "333db99631505673075e34107d9ef805facee207e42db9fdef89caae25d8a28a",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "361cb8d273f677f336eb453700717d4ef85744354112a43a8d89f3e1d7126bc8",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "37bc2f4d0d039136784a35a6024e706d1acca00a3966c45dd476cbb7c10a89cf",
+      "source": "malwarebazaar",
+      "threat_type": "jse",
+      "tags": "jse",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "38bd63774386da85e90fd08507c12663247449d65eeca5cc5d180db6ad0a296a",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "3c7203606976f78adfa02c808e4173758999cf372ecc19d0d356e2e7c278be76",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "4726abf9608a8384d8448d06ea2a9c0ffc990597f770567efb4418168dfdc090",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "47cb792ed05c37eccef6ec861fb38f56722a8f4cd2e504faa8d8678e92bfda72",
+      "source": "malwarebazaar",
+      "threat_type": "njrat",
+      "tags": "njrat,zip",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "4bbaa96f250b623409f6f7ee921a6558725fe86a7a9ca6535696dca17fdc6f62",
+      "source": "malwarebazaar",
+      "threat_type": "sh",
+      "tags": "enthec,sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "4e3e766423891ef7c8b09f7c2d02636ea15aac18ef5c028acc3ef08e2643b1ab",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "53b6ea73b3e5be8a53f1f52c5b7bf2fc61e4a88107f7647df05508e21cf03936",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "54e5d84aee4855a9439ce57f0785d89d640e4d56976d4890feda43883bfee9c4",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "56ffd2771ef463a8b67ff3dcc8528e78b78e4a2ce9234ae941695118a73b3543",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "ClickFraud,exe,GCleaner,RemusStealer,sfx,unluckytool-com",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "57c6a7d728e2add09333753a42e39becc210158a53205f9b8a41ae529810bd4e",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "5c46b5f8d67b0a1a32fcb7a6168df2314a0212687f939b14c0a152876082a278",
+      "source": "malwarebazaar",
+      "threat_type": "zip",
+      "tags": "aydljd-gotdns-ch,banker,Plugonn,receita-fazenda-com,zip",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "5e0093897ad69a9c8c9078512a48810548c3daa0e383ca6ac66e92b3976a3d04",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "6437fefc7962e6ad12dd2aa700a86b26f8a2536eb8752c550f5465067d0f4261",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,exe,Mirai,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "671bc7f66ab714f660cb553bcda96f342a3f833a73ef268b4f33e08c457deae4",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "677c58be0bb7fc7acae4e47856b27eab1b8d1742034d7ba0f0d378c6b0c90f36",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "67894fbd7e52ca06776fcf7a5704753beddac6d2e9a67bcd6b8488ae7766b77d",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "67b35d82ffff3d8259181bd22f251686f778ffce66395c4f12d04c77f3ace44c",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "6b4afe2d853d455f80a3e254a9dbb0aff9fde1bbf2b188d1e0e8f4d14be29ffb",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "6b5591d2cec085683d2087267c655dc9d9bfe75b86f7c014cf956ca8722672c4",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "6c7fc234ac22ff244dfd220abdf1de3e987a4e785f65dd5a0bff1c639521a10b",
+      "source": "malwarebazaar",
+      "threat_type": "unknown",
+      "tags": "176-65-144-164,binance-idexchange-com,gojirotomiodid-com",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "6d1980264ad50a9b13c9e2cf632118a686004f6c806d53023b200ade50eefc42",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,exe,upx,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "73438ca34020990dc5e7733e4802e223b61338e26c33ea32376d6de7e1c85ee3",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "736daa65bb88e35cac8c90385140722da1b074032f4de319a0e2682ceb6f0aa5",
+      "source": "malwarebazaar",
+      "threat_type": "ValleyRAT",
+      "tags": "exe,RAT,ValleyRAT",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "736e842dca761175a060d3351f71edb076bf8b2067d2070542258782ba5c84da",
+      "source": "malwarebazaar",
+      "threat_type": "SilentNet",
+      "tags": "exe,SilentNet",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "7532bde42c51869a938632486cd20040dd8506721b3698d196810b72754bae88",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "7588028c6e70a5b69715d0a9b2ccc03d6e985e767e018d433cd826415a035b83",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "7e9021ac82cbaefd4f3916d788e68b3fd9e479239511d9e2e5ca87016cb720b2",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "82bb90e27bfa33e74e9f0f4871e2ef16799a71f07d038d4a7ec7e82ff132cc40",
+      "source": "malwarebazaar",
+      "threat_type": "pdf",
+      "tags": "pdf",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "82d75976bb4947e9da7e3e8f4bbeefa33cf4ed2eceba40a255875e74c82e81b8",
+      "source": "malwarebazaar",
+      "threat_type": "js",
+      "tags": "colombia,js,lure",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "89b88362f3f92d7e732ca80f1a50e8cd8edf9898d527ea3a0e3d3f32dc6af165",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "8b18851bcddc710ef0849fa8230e28c815b6d59081b3b786568b7bc0eef773f1",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "915da068a86c7958157f5e3bde3f8545ad61cd101dd25cda907871cb6c4f63c5",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "91fa1ef98caaf8740e666935ffdcfbe93085a6a02398b5fecb188a02031b393c",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "92cdb958563751c3d0aafb083f1be5e52d7cdb7209282db6c7d573d4b60b0d1e",
+      "source": "malwarebazaar",
+      "threat_type": "sh",
+      "tags": "sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "9306bedaba887d94f7c1af4036f350a6ad4cf1228449fdb52a158691e33788b8",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "9461ce465a3b0fa41aab50948190501d1574143daed369cd910de6d26b54afa1",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "94eafdd65b213502396db5d9f7f6571984bd9cff62fc608b603475b28eb093d9",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "9f95d0c61e08c7f2de608fac68b15349d8cae6d9e33c1976290c121190c1a30b",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "54e64e,dropped-by-Amadey,exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "9fe74b2b6d0a3b3166f1707cb4bd697e17f9dabbac8e30e7f12818fc0b1140e1",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "a13546c08b4ce0aacceb4072bac254f21570da977bb0077387756e76b1cb9dd9",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "a248d97387d19b49b6b074d23d97e656305391aedd866d2fa0dd0477d315c074",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "a40276f0b320d2b0ccc63c3811c3894916f01e9da4ea7fcd52f0cad69e6d520d",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "a67d3eb948471ee21ee86c03eb76217c98a44d903109bb8d61ecab0289626352",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "a70a66a4530d9913f65f5d40945e03a2441ac077c62edc1b4e3f4343555c6943",
+      "source": "malwarebazaar",
+      "threat_type": "DCRat",
+      "tags": "DCRat,exe,RAT",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "a96860a8a4653e1f59620c443d05f006cc7049e0f9c216f2cb7a7e32fc21d3ff",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "aaf4e8b47462c7631297f47a6da2e589741d69417bd601b6a6d68dc0a085dce9",
+      "source": "malwarebazaar",
+      "threat_type": "apk",
+      "tags": "apk,banker,signed,websolution-br-com",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "aba358640bb22278bedb810bd3bdf43a501ddf66f7d74a4903b326cb96495fe9",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "exe,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "acf8e056e284ec144dabd9cc2bd05f374c887b76f85f1bbb02d5796d85831ef1",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "af1762c75e7da96ca5bc1181e2cdb343b4b4309366e16aec1fe4bc0ff39d26fa",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "ClickFraud,exe,GCleaner,RemusStealer,sfx,unluckytool-com",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "afecb4714ccff78f49a77be2ec0b8a92e7115f5cc19a4fe8e249141d2e0362d8",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "b5909f3325234e39e826c63b7424690c09800280f8b313e5ba71eee3c25ec99e",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "b5de902c316598edaf6ee7592468afcf53cd73733e3f9b10996c9dedc0a3b5f7",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "b6f906161b11079d7c95def676c01ddd95fd1bb7d377f6ac6bd664933085a0bc",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "b81997acd717908963b017db4ad274c5ae1ca7f39497e8c1d6304616c53a9374",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "ba02e4117514e7d69bb19c9f96c01d5b69b530a9bbdd93be45b97d4a9f502be8",
+      "source": "malwarebazaar",
+      "threat_type": "unknown",
+      "tags": "unknown",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "bdce90157466413c3f70c0ab5f8249748fc831588c6206dc40e47af9190e124a",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,exe,upx,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "be887c3115fc69c9d5698771ebfafcf68a324c880a44c350d76365794b9ba4d4",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "c191cba2b5246213a4078d613e839dbdc47c9663d021afc0093f0ecc6f5a3168",
+      "source": "malwarebazaar",
+      "threat_type": "dll",
+      "tags": "dll",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "c216bd9d1ae0e9fbebc60c9c87f6278b71fb3a1bd8797ca3280aa3ca276ffd6f",
+      "source": "malwarebazaar",
+      "threat_type": "elf",
+      "tags": "elf",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "cae7bbc30857ad80290fb669a27bec6061a05fc6c9211d97ada2d505b06dc96a",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "cc197bc63d32839d1af25ae093e34b81111b6c77361bf3b7273ca539fccb645b",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "cc6e4b971695ce08fb2dae289e148b95e09cd3b807ab242fede1f0a347f2f598",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "exe,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "cc83aaa6ffc335bda7548aeabf6af25f81d5d8ed8d70fe29e99493610b1abc9f",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "ce14241750eefd81b13122df631a1d1da55e3ebff0493bd9865a07bde883ae7e",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,exe,upx,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "cf052a2c00dce756f16d06db530723c6e9d9384063a70aeb1ee23af3cbd83b57",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "d10340985d49d95b4ad19f1d98b01ce9e9d31e0b348caa88ae77aca04f522153",
+      "source": "malwarebazaar",
+      "threat_type": "sh",
+      "tags": "sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "d1d9597444b95eaeb30845f08763a9eb4fd3d34be13ba9e1b0795c9fd7ec391a",
+      "source": "malwarebazaar",
+      "threat_type": "sh",
+      "tags": "enthec,sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "d256d5c55de076203b3ff997ca2dca466f72d97ee5d3ae6666717cee4baa7c1b",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "ClickFraud,exe,GCleaner,RemusStealer,sfx,systemformating-rest,unluckytool-com",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "d441b20bb397bcfa6d0d62634cec198e6e83e73b57513bcadcbd9e0f785aee99",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "d44926b66c423b7549793823ee63d19d6bff13ed503c8a01e7048dbeebc40e79",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "d594184a06faa8d0efe4a128989c48f00bbeeff36387c92fdc3145c3fe2ccb79",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "d76f26d8876a17edfa9efccfccc10a1648b08fa69dbc70756b20b13ef3918333",
+      "source": "malwarebazaar",
+      "threat_type": "RemusStealer",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "dc02857e1b8947c47d537697fdd2f2caa8d96c0e8aa0384b8a033fab5468cf24",
+      "source": "malwarebazaar",
+      "threat_type": "ConnectWise",
+      "tags": "ConnectWise,exe,signed,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "dd2c22752ad053325c2bce124c0984128bba7ed3148022e271f7827df65a81f6",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "e83ee79f9419395234a70b758b1295c5e73cb1be0357370a3d56e429b936f8d9",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "exe",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "ea4015a2296ff237aa2c88face657791d556fb38939868186881f698c485ad44",
+      "source": "malwarebazaar",
+      "threat_type": "CoinMiner",
+      "tags": "CoinMiner,exe,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "ebbb9c3cc42ab9028336da01176293ede39a3f611829728d1a86e4b08d67263d",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "exe,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "ec835cd312cae9098a758a834efbb46c4c1f06758e90ad7647a5b0da970d5c5b",
+      "source": "malwarebazaar",
+      "threat_type": "py",
+      "tags": "Astaroth,download,meusorcamentos-cfd,py",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "ecd0130c4aa323bb1710bc51e61c57cc9ebe7b04427d2fd61db4bed18826e5c8",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,Mirai,upx-dec",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "f33bbad90383d616860314f2627ae7369430cddbf48a747126c8b4e00eb06903",
+      "source": "malwarebazaar",
+      "threat_type": "zip",
+      "tags": "Astaroth,banker,meusorcamentos-cfd,zip",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "f403a488986b6dac214defc0ce00105994cefc11616de347df9c5e9faa6bfa56",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,upx",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "f454fb057a70c17d31188a53caa79c1a6c559d409e63e7c2d5f0025a0c8686f0",
+      "source": "malwarebazaar",
+      "threat_type": "sh",
+      "tags": "sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "f671079505d427051ffd07feb8a7d9662c857c2a8b547e341e1823ad0673ad6a",
+      "source": "malwarebazaar",
+      "threat_type": "Mirai",
+      "tags": "elf,exe,Mirai,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "f8ee5d309bc538246658d50194898f87261e6a8dd8f5e645eb8e504cfdddb687",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "exe,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "hash_sha256",
+      "value": "fc02692a98927272e200e01eb80007cc03aedbdec8acfb68aa9730dabaa8fce1",
+      "source": "malwarebazaar",
+      "threat_type": "exe",
+      "tags": "exe,upx,whack.sh",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "ip",
+      "value": "162.243.103.246",
+      "source": "feodotracker",
+      "threat_type": "Emotet",
+      "tags": "c2,botnet,port:8080",
+      "first_seen": "2026-04-11 03:35:43",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 90
+    },
+    {
+      "type": "ip",
+      "value": "178.62.3.223",
+      "source": "feodotracker",
+      "threat_type": "QakBot",
+      "tags": "c2,botnet,port:443",
+      "first_seen": "2026-04-11 03:35:43",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 90
+    },
+    {
+      "type": "ip",
+      "value": "27.133.154.218",
+      "source": "feodotracker",
+      "threat_type": "QakBot",
+      "tags": "c2,botnet,port:443",
+      "first_seen": "2026-03-10 22:13:04",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 90
+    },
+    {
+      "type": "ip",
+      "value": "34.204.119.63",
+      "source": "feodotracker",
+      "threat_type": "QakBot",
+      "tags": "c2,botnet,port:443",
+      "first_seen": "2026-04-11 03:35:43",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 90
+    },
+    {
+      "type": "ip",
+      "value": "50.16.16.211",
+      "source": "feodotracker",
+      "threat_type": "QakBot",
+      "tags": "c2,botnet,port:443",
+      "first_seen": "2026-04-11 03:35:43",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 90
+    },
+    {
+      "type": "url",
+      "value": "http://103.249.199.5:39552/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,arm,elf,mirai,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://109.171.67.100:18713/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://109.171.67.100:18713/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://112.109.205.48:35136/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,arm,elf,mirai,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://112.109.205.48:35136/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,arm,elf,mirai,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://112.198.186.249:60485/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,arm,elf,mirai,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://112.198.186.249:60485/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,arm,elf,mirai,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://112.248.188.197:43330/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://115.50.224.166:50810/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://115.55.238.97:40942/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://115.55.238.97:40942/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://115.55.54.253:54557/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://115.56.161.197:48934/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://115.56.161.197:48934/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://115.56.67.128:48264/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://115.56.67.128:48264/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://115.57.60.24:40928/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://115.57.60.24:40928/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://115.61.18.207:50219/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://115.61.18.207:50219/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://116.138.107.198:36190/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://116.138.107.198:36190/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://117.223.141.189:43389/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://117.223.141.189:43389/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://119.179.236.207:55846/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://119.179.236.207:55846/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://122.241.8.175:37163/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://123.10.70.54:56681/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,arm,elf,mirai,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://123.10.70.54:56681/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,arm,elf,mirai,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://123.12.225.30:60239/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://125.40.39.65:60395/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://125.41.5.177:44402/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://125.41.8.60:36872/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://150.241.65.250:889/venv/bin/python3",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "",
+      "first_seen": "2026-08-24 04:00:08",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://150.241.65.250:889/venv/lib/python3.12/site-packages/_cffi_backend.cpython-312-x86_64-linux-gnu.so",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "",
+      "first_seen": "2026-08-24 04:00:08",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://150.241.65.250:889/venv/lib/python3.12/site-packages/bcrypt/_bcrypt.abi3.so",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "",
+      "first_seen": "2026-08-24 04:00:08",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://150.241.65.250:889/venv/lib/python3.12/site-packages/pip/_vendor/urllib3/fields.py",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "",
+      "first_seen": "2026-08-24 04:00:08",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://150.241.65.250:889/venv/lib64/python3.12/site-packages/cryptography/hazmat/bindings/_rust.abi3.so",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "",
+      "first_seen": "2026-08-24 04:00:08",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://150.241.65.250:889/venv/lib64/python3.12/site-packages/pip/_vendor/urllib3/__pycache__/fields.cpython-312.pyc",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "",
+      "first_seen": "2026-08-24 04:00:08",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://172.86.114.3/wepu/crypted.ps1",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "ascii,opendir,powershell,ps1,rat,RemcosRAT",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://172.86.114.3/wepu/cryptedd.ps1",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "ascii,opendir,powershell,ps1",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://175.146.244.227:57019/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://175.146.244.227:57019/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://175.148.76.63:43235/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://175.165.76.134:43930/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://180.115.74.175:32843/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,arm,elf,mirai,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://182.114.250.133:60170/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://182.116.72.222:57147/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,arm,elf,mirai,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://182.119.13.119:44968/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://182.119.13.119:44968/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://183.23.135.203:54790/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,arm,elf,mirai,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://193.221.200.26:5001/odens.exe",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "SalatStealer,stealer",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://196.189.35.172:34687/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "mirai",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://200.115.102.2:40835/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,arm,elf,mirai,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://210.208.111.100:60334/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,arm,elf,mirai,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://212.164.115.235:53007/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://212.164.115.235:53007/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://219.155.209.50:45888/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://219.157.23.252:47875/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://219.157.23.252:47875/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://220.158.234.4/arm7",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "elf,mirai,ua-wget",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://220.158.234.4/mips",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "elf,mirai,ua-wget",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://220.158.234.4/ppc",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "elf,mirai,ua-wget",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://220.158.234.4/sh4",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "elf,mirai,ua-wget",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://220.158.234.4/spc",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "elf,mirai,ua-wget",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://220.158.234.4/x86",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "elf,mirai,ua-wget",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://220.158.234.4/x86_64",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "elf,mirai,ua-wget",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://222.141.141.133:42626/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://223.151.72.214:44130/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,arm,elf,mirai,Mozi",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://223.151.72.214:44130/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,arm,elf,mirai,Mozi",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://27.202.161.162:51956/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://27.219.44.37:46482/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://27.219.44.37:46482/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://27.37.100.83:50864/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://27.37.100.83:50864/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://36.84.112.102:54365/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,arm,elf,mirai,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://42.227.135.249:48039/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://42.230.43.100:49444/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://42.231.64.103:58110/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://42.231.64.103:58110/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://42.233.138.140:60584/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://42.233.138.140:60584/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://42.239.231.76:37945/i",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://60.18.214.19:38553/bin.sh",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "32-bit,elf,mips,Mozi",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://91.92.242.236/files-129312398/files/file_124c8c2143039ea5.exe",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "54e64e,dropped-by-amadey",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://91.92.242.236/files-129312398/files/file_2dedd67a4922be21.exe",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "54e64e,dropped-by-amadey,rustystealer",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "http://91.92.242.236/files-129312398/files/file_31233e915ca34d9f.exe",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "c2-monitor-auto,dropped-by-amadey",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "http://91.92.242.236/files-129312398/files/file_6d132da8983cd728.exe",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "54e64e,dropped-by-amadey",
+      "first_seen": "2026-08-26 04:00:06",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 0
+    },
+    {
+      "type": "url",
+      "value": "https://540239621396215402.raymelo.vu/en/ScreenConnect.ClientSetup.msi",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "https://architekten-schreiner.de/modules/mod_login/tocvpyg/aijontc/osefrak/OJcrypted.ps1",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "ascii,powershell,ps1,SnakeKeylogger,VIPKeylogger",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "https://authowareinc1.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "https://final-aura.top/f1",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "https://kolpa.lol/d/049e625ea690455ba545c97cf546fd8d",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "IRAHook,rat,stealer",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "https://kolpa.lol/d/3c547dbeb28c4b8d937a771d0debff39",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "IRAHook,rat,stealer",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "https://kolpa.lol/d/9077ca9a63a44186add67faed923847e",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "IRAHook,rat,stealer",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "https://kolpa.lol/d/fb2232aa883b4a33ac3877a402c0126c",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "IRAHook,rat,stealer",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "https://paretandassociates.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest&c=Eye%20Clinic&c=&c=Surgery&c=Personal&c=&c=&c=&c=",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "",
+      "first_seen": "2026-08-20 16:00:12",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "https://plutotvshow.biz/exe/backup_svc-release.exe",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": " exe, MicroClip, stealer,ClickFix",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "https://pub-5188043a98ed4134bdbf1227691455ca.r2.dev/ScreenConnect.ClientSetup",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "screenconnect",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
+    {
+      "type": "url",
+      "value": "https://wordtax.ink/down/setup.aac",
+      "source": "urlhaus",
+      "threat_type": "malware_download",
+      "tags": "",
+      "first_seen": "2026-08-25 16:00:10",
+      "last_seen": "2026-08-26 04:00:06",
+      "confidence": 85
+    },
     {
       "type": "domain",
       "value": "2hc0b19k.en-us-en-darkreset.com",
@@ -3644,16 +7034,6 @@
     },
     {
       "type": "ip",
-      "value": "162.243.103.246",
-      "source": "feodotracker",
-      "threat_type": "Emotet",
-      "tags": "c2,botnet,port:8080",
-      "first_seen": "2026-04-11 03:35:43",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 90
-    },
-    {
-      "type": "ip",
       "value": "162.35.106.245",
       "source": "threatfox",
       "threat_type": "Overlord RAT",
@@ -3751,16 +7131,6 @@
       "first_seen": "2026-08-25 16:07:37",
       "last_seen": "2026-08-25 17:02:14",
       "confidence": 85
-    },
-    {
-      "type": "ip",
-      "value": "178.62.3.223",
-      "source": "feodotracker",
-      "threat_type": "QakBot",
-      "tags": "c2,botnet,port:443",
-      "first_seen": "2026-04-11 03:35:43",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 90
     },
     {
       "type": "ip",
@@ -4014,16 +7384,6 @@
     },
     {
       "type": "ip",
-      "value": "27.133.154.218",
-      "source": "feodotracker",
-      "threat_type": "QakBot",
-      "tags": "c2,botnet,port:443",
-      "first_seen": "2026-03-10 22:13:04",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 90
-    },
-    {
-      "type": "ip",
       "value": "3.238.106.234",
       "source": "threatfox",
       "threat_type": "Unknown malware",
@@ -4101,16 +7461,6 @@
       "first_seen": "2026-08-25 16:07:37",
       "last_seen": "2026-08-25 17:02:14",
       "confidence": 85
-    },
-    {
-      "type": "ip",
-      "value": "34.204.119.63",
-      "source": "feodotracker",
-      "threat_type": "QakBot",
-      "tags": "c2,botnet,port:443",
-      "first_seen": "2026-04-11 03:35:43",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 90
     },
     {
       "type": "ip",
@@ -4281,16 +7631,6 @@
       "first_seen": "2026-08-25 16:07:37",
       "last_seen": "2026-08-25 17:02:14",
       "confidence": 85
-    },
-    {
-      "type": "ip",
-      "value": "50.16.16.211",
-      "source": "feodotracker",
-      "threat_type": "QakBot",
-      "tags": "c2,botnet,port:443",
-      "first_seen": "2026-04-11 03:35:43",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 90
     },
     {
       "type": "ip",
@@ -9574,26 +12914,6 @@
     },
     {
       "type": "url",
-      "value": "http://109.171.67.100:18713/bin.sh",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "http://109.171.67.100:18713/i",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
       "value": "http://113.221.74.1:57844/i",
       "source": "urlhaus",
       "threat_type": "malware_download",
@@ -9794,16 +13114,6 @@
     },
     {
       "type": "url",
-      "value": "http://123.12.225.30:60239/i",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "32-bit,elf,mips,Mozi",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
       "value": "http://123.14.217.252:58040/bin.sh",
       "source": "urlhaus",
       "threat_type": "malware_download",
@@ -9954,36 +13264,6 @@
     },
     {
       "type": "url",
-      "value": "http://150.241.65.250:889/venv/lib64/python3.12/site-packages/pip/_vendor/urllib3/__pycache__/fields.cpython-312.pyc",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "",
-      "first_seen": "2026-08-24 04:00:08",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "http://172.86.114.3/wepu/crypted.ps1",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "ascii,opendir,powershell,ps1,rat,RemcosRAT",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "http://172.86.114.3/wepu/cryptedd.ps1",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "ascii,opendir,powershell,ps1",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
       "value": "http://175.165.142.242:40832/bin.sh",
       "source": "urlhaus",
       "threat_type": "malware_download",
@@ -9998,16 +13278,6 @@
       "source": "urlhaus",
       "threat_type": "malware_download",
       "tags": "",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "http://175.165.76.134:43930/bin.sh",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "32-bit,elf,mips,Mozi",
       "first_seen": "2026-08-25 16:00:10",
       "last_seen": "2026-08-25 17:02:14",
       "confidence": 85
@@ -10038,26 +13308,6 @@
       "source": "urlhaus",
       "threat_type": "malware_download",
       "tags": "Mozi",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "http://182.119.13.119:44968/bin.sh",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "32-bit,elf,mips,Mozi",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "http://182.119.13.119:44968/i",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "32-bit,elf,mips,Mozi",
       "first_seen": "2026-08-25 16:00:10",
       "last_seen": "2026-08-25 17:02:14",
       "confidence": 85
@@ -10134,16 +13384,6 @@
     },
     {
       "type": "url",
-      "value": "http://193.221.200.26:5001/odens.exe",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "SalatStealer,stealer",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
       "value": "http://210.208.110.172:38919/i",
       "source": "urlhaus",
       "threat_type": "malware_download",
@@ -10168,36 +13408,6 @@
       "source": "urlhaus",
       "threat_type": "malware_download",
       "tags": "mirai",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "http://212.164.115.235:53007/bin.sh",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "32-bit,elf,mips,Mozi",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "http://212.164.115.235:53007/i",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "32-bit,elf,mips,Mozi",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "http://219.155.209.50:45888/bin.sh",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "32-bit,elf,mips,Mozi",
       "first_seen": "2026-08-25 16:00:10",
       "last_seen": "2026-08-25 17:02:14",
       "confidence": 85
@@ -10264,16 +13474,6 @@
     },
     {
       "type": "url",
-      "value": "http://222.141.141.133:42626/i",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "32-bit,elf,mips,Mozi",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
       "value": "http://222.141.36.152:36990/i",
       "source": "urlhaus",
       "threat_type": "malware_download",
@@ -10288,26 +13488,6 @@
       "source": "urlhaus",
       "threat_type": "malware_download",
       "tags": "32-bit,elf,mips,Mozi",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "http://223.151.72.214:44130/bin.sh",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "32-bit,arm,elf,mirai,Mozi",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "http://223.151.72.214:44130/i",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "32-bit,arm,elf,mirai,Mozi",
       "first_seen": "2026-08-25 16:00:10",
       "last_seen": "2026-08-25 17:02:14",
       "confidence": 85
@@ -10374,16 +13554,6 @@
     },
     {
       "type": "url",
-      "value": "http://42.230.43.100:49444/i",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "32-bit,elf,mips,Mozi",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
       "value": "http://42.231.182.127:42828/i",
       "source": "urlhaus",
       "threat_type": "malware_download",
@@ -10438,16 +13608,6 @@
       "source": "urlhaus",
       "threat_type": "malware_download",
       "tags": "Mozi",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "http://91.92.242.236/files-129312398/files/file_31233e915ca34d9f.exe",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "c2-monitor-auto,dropped-by-amadey",
       "first_seen": "2026-08-25 16:00:10",
       "last_seen": "2026-08-25 17:02:14",
       "confidence": 85
@@ -10894,16 +14054,6 @@
     },
     {
       "type": "url",
-      "value": "https://540239621396215402.raymelo.vu/en/ScreenConnect.ClientSetup.msi",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
       "value": "https://66.154.103.144/",
       "source": "threatfox",
       "threat_type": "Overlord RAT",
@@ -11054,26 +14204,6 @@
     },
     {
       "type": "url",
-      "value": "https://architekten-schreiner.de/modules/mod_login/tocvpyg/aijontc/osefrak/OJcrypted.ps1",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "ascii,powershell,ps1,VIPKeylogger",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "https://authowareinc1.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
       "value": "https://autoconfig.strawxom.org/",
       "source": "threatfox",
       "threat_type": "Overlord RAT",
@@ -11139,16 +14269,6 @@
       "threat_type": "Overlord RAT",
       "tags": "threatfox,Overlord,RAT",
       "first_seen": "2026-08-25 16:07:37",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "https://final-aura.top/f1",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "",
-      "first_seen": "2026-08-25 16:00:10",
       "last_seen": "2026-08-25 17:02:14",
       "confidence": 85
     },
@@ -11229,46 +14349,6 @@
       "threat_type": "Overlord RAT",
       "tags": "threatfox,Overlord,RAT",
       "first_seen": "2026-08-25 16:07:37",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "https://kolpa.lol/d/049e625ea690455ba545c97cf546fd8d",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "IRAHook,rat,stealer",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "https://kolpa.lol/d/3c547dbeb28c4b8d937a771d0debff39",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "IRAHook,rat,stealer",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "https://kolpa.lol/d/9077ca9a63a44186add67faed923847e",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "IRAHook,rat,stealer",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "https://kolpa.lol/d/fb2232aa883b4a33ac3877a402c0126c",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "IRAHook,rat,stealer",
-      "first_seen": "2026-08-25 16:00:10",
       "last_seen": "2026-08-25 17:02:14",
       "confidence": 85
     },
@@ -11374,31 +14454,11 @@
     },
     {
       "type": "url",
-      "value": "https://plutotvshow.biz/exe/backup_svc-release.exe",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": " exe, MicroClip, stealer,ClickFix",
-      "first_seen": "2026-08-25 16:00:10",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
       "value": "https://policy.igc-technologies.com/",
       "source": "threatfox",
       "threat_type": "Overlord RAT",
       "tags": "threatfox,Overlord,RAT",
       "first_seen": "2026-08-25 16:07:37",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "https://pub-5188043a98ed4134bdbf1227691455ca.r2.dev/ScreenConnect.ClientSetup",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "screenconnect",
-      "first_seen": "2026-08-25 16:00:10",
       "last_seen": "2026-08-25 17:02:14",
       "confidence": 85
     },
@@ -11539,16 +14599,6 @@
       "threat_type": "Overlord RAT",
       "tags": "threatfox,Overlord,RAT",
       "first_seen": "2026-08-25 16:07:37",
-      "last_seen": "2026-08-25 17:02:14",
-      "confidence": 85
-    },
-    {
-      "type": "url",
-      "value": "https://wordtax.ink/down/setup.aac",
-      "source": "urlhaus",
-      "threat_type": "malware_download",
-      "tags": "",
-      "first_seen": "2026-08-25 16:00:10",
       "last_seen": "2026-08-25 17:02:14",
       "confidence": 85
     },

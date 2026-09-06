@@ -2,16 +2,16 @@
 
 Machine-readable indicators of compromise, refreshed automatically. Each publish covers the **last 24 hours** of activity.
 
-**Last updated:** 2026-09-05 22:00 UTC — **1,985 indicators** · TLP:CLEAR
+**Last updated:** 2026-09-06 22:00 UTC — **2,001 indicators** · TLP:CLEAR
 
 | Type | Count |
 |---|---:|
-| Malicious SSL Certificates (SHA1) | 500 |
-| Malware Hashes (SHA256) | 377 |
-| Malicious URLs | 301 |
-| Malware Hashes (MD5) | 300 |
-| Malicious IPs | 282 |
-| Malicious Domains | 225 |
+| Malicious SSL Certificates (SHA1) | 520 |
+| Malicious Domains | 450 |
+| Malware Hashes (SHA256) | 333 |
+| Malware Hashes (MD5) | 285 |
+| Malicious URLs | 243 |
+| Malicious IPs | 170 |
 
 ## Consume it
 
@@ -60,7 +60,7 @@ collections  https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/col
 
 | Collection | Objects | Endpoint |
 |---|---:|---|
-| IOCs — last 24 hours | 1,986 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json) |
+| IOCs — last 24 hours | 2,002 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json) |
 | CISA KEV (30days) | 35 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/b0959dd1-db13-5431-ba4d-bbc866a2cf22/objects/index.json) |
 | CVE (30days) | 17 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/c6715fd0-21b8-50c5-85bd-bfba36bce52f/objects/index.json) |
 
@@ -73,7 +73,7 @@ curl -s https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collecti
 
 ## Archive
 
-`daily/YYYY/MM/` keeps every past run — a dated report and the matching CSV. Newest: [`daily/2026/09/report_20260905.md`](daily/2026/09/report_20260905.md).
+`daily/YYYY/MM/` keeps every past run — a dated report and the matching CSV. Newest: [`daily/2026/09/report_20260906.md`](daily/2026/09/report_20260906.md).
 
 ## Scope and limitations
 

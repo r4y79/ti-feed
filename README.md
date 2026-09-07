@@ -2,16 +2,16 @@
 
 Machine-readable indicators of compromise, refreshed automatically. Each publish covers the **last 24 hours** of activity.
 
-**Last updated:** 2026-09-06 22:00 UTC — **2,001 indicators** · TLP:CLEAR
+**Last updated:** 2026-09-07 22:00 UTC — **2,182 indicators** · TLP:CLEAR
 
 | Type | Count |
 |---|---:|
-| Malicious SSL Certificates (SHA1) | 520 |
-| Malicious Domains | 450 |
-| Malware Hashes (SHA256) | 333 |
-| Malware Hashes (MD5) | 285 |
-| Malicious URLs | 243 |
-| Malicious IPs | 170 |
+| Malicious Domains | 598 |
+| Malicious SSL Certificates (SHA1) | 506 |
+| Malicious URLs | 352 |
+| Malware Hashes (SHA256) | 288 |
+| Malware Hashes (MD5) | 267 |
+| Malicious IPs | 171 |
 
 ## Consume it
 
@@ -26,7 +26,6 @@ https://raw.githubusercontent.com/r4y79/ti-feed/main/feeds/urls.txt
 https://raw.githubusercontent.com/r4y79/ti-feed/main/feeds/hashes.txt
 https://raw.githubusercontent.com/r4y79/ti-feed/main/feeds/iocs-latest.csv
 https://raw.githubusercontent.com/r4y79/ti-feed/main/feeds/iocs-latest.json
-https://raw.githubusercontent.com/r4y79/ti-feed/main/feeds/stellarcyber.tsv
 ```
 
 The plain-text lists are one indicator per line with `#` comments, ready for a firewall, proxy, or SIEM watchlist:
@@ -34,19 +33,6 @@ The plain-text lists are one indicator per line with `#` comments, ready for a f
 ```bash
 curl -s https://raw.githubusercontent.com/r4y79/ti-feed/main/feeds/ips.txt | grep -v '^#' > blocklist.txt
 ```
-
-`stellarcyber.tsv` is the same 24h window in the Stellar Cyber *Custom Feed / TSV* schema (`TYPE`, `VALUE`, `SOURCE`, `SCORE`, tab-separated, no header).
-It carries only the `url`, `ip` and `domain` indicators — that format has no representation for file hashes or SSL certificates.
-
-Paste this exact string into the feed's **Collection URL** field:
-
-```
-https://raw.githubusercontent.com/r4y79/ti-feed/main/feeds/stellarcyber.tsv
-```
-
-It has to be the `raw.githubusercontent.com` host. The `github.com/…/blob/…` address the browser gives you serves an HTML page under HTTP 200, so the feed reports **Success** and ingests **nothing** — rows that do not match the schema are discarded without an error. `github.com/…/raw/…` answers with a redirect, and a trailing slash 404s.
-
-Stellar Cyber requires a username and password on every custom feed; this host ignores them, so any non-empty pair works.
 
 ### TAXII 2.1 — `taxii2/`
 
@@ -60,9 +46,9 @@ collections  https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/col
 
 | Collection | Objects | Endpoint |
 |---|---:|---|
-| IOCs — last 24 hours | 2,002 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json) |
-| CISA KEV (30days) | 35 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/b0959dd1-db13-5431-ba4d-bbc866a2cf22/objects/index.json) |
-| CVE (30days) | 17 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/c6715fd0-21b8-50c5-85bd-bfba36bce52f/objects/index.json) |
+| IOCs — last 24 hours | 2,183 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json) |
+| CISA KEV (30days) | 34 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/b0959dd1-db13-5431-ba4d-bbc866a2cf22/objects/index.json) |
+| CVE (30days) | 18 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/c6715fd0-21b8-50c5-85bd-bfba36bce52f/objects/index.json) |
 
 ```bash
 curl -s https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json \
@@ -73,7 +59,7 @@ curl -s https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collecti
 
 ## Archive
 
-`daily/YYYY/MM/` keeps every past run — a dated report and the matching CSV. Newest: [`daily/2026/09/report_20260906.md`](daily/2026/09/report_20260906.md).
+`daily/YYYY/MM/` keeps every past run — a dated report and the matching CSV. Newest: [`daily/2026/09/report_20260907.md`](daily/2026/09/report_20260907.md).
 
 ## Scope and limitations
 

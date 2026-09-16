@@ -2,16 +2,16 @@
 
 Machine-readable indicators of compromise, refreshed automatically. Each publish covers the **last 24 hours** of activity.
 
-**Last updated:** 2026-09-16 07:26 UTC — **1,319 indicators** · TLP:CLEAR
+**Last updated:** 2026-09-16 22:00 UTC — **1,933 indicators** · TLP:CLEAR
 
 | Type | Count |
 |---|---:|
 | Malicious SSL Certificates (SHA1) | 500 |
-| Malicious Domains | 297 |
-| Malicious URLs | 166 |
-| Malware Hashes (SHA256) | 139 |
-| Malware Hashes (MD5) | 136 |
-| Malicious IPs | 81 |
+| Malicious Domains | 394 |
+| Malware Hashes (SHA256) | 310 |
+| Malicious URLs | 309 |
+| Malware Hashes (MD5) | 295 |
+| Malicious IPs | 125 |
 
 ## Consume it
 
@@ -46,9 +46,9 @@ collections  https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/col
 
 | Collection | Objects | Endpoint |
 |---|---:|---|
-| IOCs — last 24 hours | 1,320 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json) |
+| IOCs — last 24 hours | 1,934 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json) |
 | CISA KEV (30days) | 46 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/b0959dd1-db13-5431-ba4d-bbc866a2cf22/objects/index.json) |
-| CVE (30days) | 28 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/c6715fd0-21b8-50c5-85bd-bfba36bce52f/objects/index.json) |
+| CVE (30days) | 29 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/c6715fd0-21b8-50c5-85bd-bfba36bce52f/objects/index.json) |
 
 ```bash
 curl -s https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json \

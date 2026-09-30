@@ -1,7 +1,7 @@
 {
   "id": "ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14",
-  "title": "IOCs \u2014 last 24 hours",
-  "description": "Indicators observed in the last 24 hours, republished from abuse.ch (CC0). Refreshed on every publish.",
+  "title": "IOCs \u2014 new in last 24 hours",
+  "description": "Indicators first seen in the last 24 hours, republished from abuse.ch (CC0). Each indicator appears in one publish only; refreshed daily.",
   "can_read": true,
   "can_write": false,
   "media_types": [

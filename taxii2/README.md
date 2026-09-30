@@ -12,11 +12,11 @@ collections  https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/col
 
 ## Collections
 
-### IOCs — last 24 hours
+### IOCs — new in last 24 hours
 
 `ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14`
 
-Indicators observed in the last 24 hours, republished from abuse.ch (CC0). Refreshed on every publish.
+Indicators first seen in the last 24 hours, republished from abuse.ch (CC0). Each indicator appears in one publish only; refreshed daily.
 
 ```
 metadata  https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/index.json

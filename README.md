@@ -2,16 +2,15 @@
 
 Machine-readable indicators of compromise, refreshed automatically. Each publish lists the indicators **first seen in the last 24 hours** — every indicator appears in exactly one daily publish, and ones still active from earlier days are not repeated. To build a cumulative blocklist, keep the previous days' files (the `daily/` archive has them).
 
-**Last updated:** 2026-10-14 22:00 UTC — **1,645 indicators** · TLP:CLEAR
+**Last updated:** 2026-10-15 22:00 UTC — **1,606 indicators** · TLP:CLEAR
 
 | Type | Count |
 |---|---:|
-| Malicious URLs | 836 |
-| Malware Hashes (SHA256) | 357 |
-| Malware Hashes (MD5) | 303 |
-| Malicious Domains | 80 |
-| Malicious IPs | 67 |
-| Malicious SSL Certificates (SHA1) | 2 |
+| Malicious URLs | 694 |
+| Malware Hashes (SHA256) | 517 |
+| Malware Hashes (MD5) | 278 |
+| Malicious Domains | 64 |
+| Malicious IPs | 53 |
 
 ## Consume it
 
@@ -46,9 +45,9 @@ collections  https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/col
 
 | Collection | Objects | Endpoint |
 |---|---:|---|
-| IOCs — new in last 24 hours | 1,646 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json) |
-| CISA KEV (30days) | 33 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/b0959dd1-db13-5431-ba4d-bbc866a2cf22/objects/index.json) |
-| CVE (30days) | 37 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/c6715fd0-21b8-50c5-85bd-bfba36bce52f/objects/index.json) |
+| IOCs — new in last 24 hours | 1,607 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json) |
+| CISA KEV (30days) | 36 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/b0959dd1-db13-5431-ba4d-bbc866a2cf22/objects/index.json) |
+| CVE (30days) | 42 | [`objects`](https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/c6715fd0-21b8-50c5-85bd-bfba36bce52f/objects/index.json) |
 
 ```bash
 curl -s https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collections/ffbda76d-19e2-5545-a2cc-bbb5d6ee0f14/objects/index.json \
@@ -59,7 +58,7 @@ curl -s https://raw.githubusercontent.com/r4y79/ti-feed/main/taxii2/api/collecti
 
 ## Archive
 
-`daily/YYYY/MM/` keeps every past run — a dated report and the matching CSV. Newest: [`daily/2026/10/report_20261014.md`](daily/2026/10/report_20261014.md).
+`daily/YYYY/MM/` keeps every past run — a dated report and the matching CSV. Newest: [`daily/2026/10/report_20261015.md`](daily/2026/10/report_20261015.md).
 
 ## Scope and limitations
 

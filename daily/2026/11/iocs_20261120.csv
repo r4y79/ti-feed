@@ -1,0 +1,1350 @@
+type,value,source,threat_type,tags,first_seen,last_seen,confidence
+domain,0ln8r6lz.sidar.store,threatfox,ClearFake,"threatfox,ClearFake,mac-0xa07e,macOS",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,147816.us6.myftpupload.com,threatfox,IClickFix,"threatfox,ClickFix,etherhiding,Polygon",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,151.72.140.34.bc.googleusercontent.com,threatfox,php.shin_webshell,"threatfox,gif,PHP,webshell,WordPress,wp-admin",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,169.22.199.104.bc.googleusercontent.com,threatfox,php.shin_webshell,"threatfox,gif,PHP,webshell,WordPress,wp-admin",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,52s8sojv.zalfa.store,threatfox,ClearFake,"threatfox,ClearFake,mac-0x79fa,macOS",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,abosdro-minimum.info,threatfox,Unknown Stealer,"threatfox,ClickFix,RUST,stealer",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,alert.pressweather33.wiki,threatfox,RevStealer,"threatfox,REF2859,RevStealer,SetupCenter",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,app.wavestock.one,threatfox,RevStealer,"threatfox,lab-detonation,RevStealer,VIGIA",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,as6rion.wiki,threatfox,WARDENStealer,"threatfox,lab-detonation,VIGIA,WARDENStealer",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,asiabet303.net,threatfox,Vidar,"threatfox,Vidar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,asiabet777.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,b1pfe9kx.metaphysicsbooks.com,threatfox,ClearFake,"threatfox,ClearFake,mac-0x68dc,macOS",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,belieffield.cfd,threatfox,Unknown Loader,"threatfox,OffLoader",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,c2.rplix.cc,threatfox,Unknown Stealer,"threatfox,SONIC,SonicClient",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,cihiqyhe.workers.dev,threatfox,php.shin_webshell,"threatfox,Cloudflare,gif,PHP,webshell,WordPress,workers.dev,wp-admin",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,clickbeat.co.uk,threatfox,IClickFix,"threatfox,BSC-testnet,ClickFix,etherhiding",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,commercialogs.com,threatfox,Unknown malware,"threatfox,ZigClipper",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,crowpanel.xyz,threatfox,Unknown malware,threatfox,2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,d6au5tb1.zenzy.store,threatfox,ClearFake,"threatfox,ClearFake,mac-0x79fa,macOS",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,ddsdfdsfsd-56363.portmap.host,threatfox,XWorm,"threatfox,mwdb,XWorm",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,dev.gojournal.wiki,threatfox,RevStealer,"threatfox,REF2859,RevStealer,SetupCenter",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,dijitalpencere.com.tr,threatfox,ClearFake,"threatfox,compromised,etherhide",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,docardebiary.blog,threatfox,Unknown Loader,"threatfox,lab-detonation,PavinLoader,VIGIA",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,doublexoxoproject2026.duckdns.org,threatfox,Remcos,"threatfox,remcos",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,duckroad.net,threatfox,Unknown RAT,"threatfox,ConnectWise,rmm,ScreenConnect",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,em.asdselot.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,fallback-c2.rplix.cc,threatfox,Unknown Stealer,"threatfox,SONIC,SonicClient",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,ffffffffffff-36552.portmap.host,threatfox,NjRAT,"threatfox,mwdb,njrat",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,ftp.brightlearning.com.my,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,ftp.freshnest2u.com,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,ftp.hngandpartners.com,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,ftp.hysterille.com,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,ftp.inductusqroup.com,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,ftp.mukosin.cam,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,ftp.pecaprint.rs,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,ftp.siyakhulaadministrators.co.za,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,ftp.viatic.pro,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,gatlex.com,threatfox,XWorm,"threatfox,lab-detonation,VIGIA,XWorm",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,gdedengiskatinaufa.shop,threatfox,Unknown Stealer,"threatfox,Android,apk,EVANGELION,Uzbekistan,wretchedcat",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,gk.asiabet303.net,threatfox,Vidar,"threatfox,Vidar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,gmbjv-169-148-15-193.run.pinggy-free.link,threatfox,XWorm,"threatfox,mwdb,XWorm",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,gpy88.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,highcourt-judiciarys.pages.dev,threatfox,IClickFix,"threatfox,BSC-testnet,ClickFix,etherhiding",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,hjwix773-61426.portmap.host,threatfox,XWorm,"threatfox,mwdb,XWorm",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,id.asiabet303.net,threatfox,Vidar,"threatfox,Vidar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,impairment-carole.tun.ply.gg,threatfox,XWorm,"threatfox,mwdb,XWorm",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,iq.asiabet303.net,threatfox,Vidar,"threatfox,Vidar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,jacksons.mlbfan.org,threatfox,Grandoreiro,"threatfox,geo,Grandoreiro,MEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,jx.asiabet303.net,threatfox,Vidar,"threatfox,Vidar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,ke.gp11.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,kickzorggroep.nl,threatfox,StrelaStealer,"threatfox,StrelaStealer",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,kuxuta.workers.dev,threatfox,php.shin_webshell,"threatfox,Cloudflare,gif,PHP,webshell,WordPress,workers.dev,wp-admin",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,l50j1wge.zayce.store,threatfox,ClearFake,"threatfox,ClearFake,mac-0x79fa,macOS",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,leaoartefatosdeconcreto.com.br,threatfox,IClickFix,"threatfox,ClickFix,etherhiding,Polygon",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,lf.asia689.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,losuxufi.workers.dev,threatfox,php.shin_webshell,"threatfox,Cloudflare,gif,PHP,webshell,WordPress,workers.dev,wp-admin",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,lu5ivex.tattoo,threatfox,Remus,"threatfox,RemusStealer",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,m.17taya.com,threatfox,IClickFix,"threatfox,ClickFix,etherhiding,Polygon",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,mallosis.gr,threatfox,ClearFake,"threatfox,compromised,etherhide",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,meatronic.us.com,threatfox,ClearFake,"threatfox,ClearFake",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,meibuhr.com,threatfox,ClearFake,"threatfox,ClearFake",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,metaphysicsbooks.com,threatfox,ClearFake,"threatfox,ClearFake",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,modxza7f-34209.portmap.host,threatfox,NjRAT,"threatfox,mwdb,njrat",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,mohowynu.workers.dev,threatfox,php.shin_webshell,"threatfox,Cloudflare,gif,PHP,webshell,WordPress,workers.dev,wp-admin",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,mph8xnjlbw.localto.net,threatfox,DarkComet,"threatfox,darkcomet,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,muckduck.duckdns.org,threatfox,Unknown malware,threatfox,2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,mysoliq.lat,threatfox,Unknown Stealer,"threatfox,Android,apk,EVANGELION,Uzbekistan,wretchedcat",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,nakiam.com,threatfox,Unknown Stealer,"threatfox,Android,apk,EVANGELION,Uzbekistan,wretchedcat",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,ng.asiabet777.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,nsnosi-39204.portmap.host,threatfox,NjRAT,"threatfox,mwdb,njrat",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,nurfbwrufbrwf-39793.portmap.host,threatfox,XWorm,"threatfox,mwdb,XWorm",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,qj.asiabet303.net,threatfox,Vidar,"threatfox,Vidar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,rivat-47332.portmap.host,threatfox,XWorm,"threatfox,mwdb,XWorm",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,rivuk.com,threatfox,Agent Tesla,"threatfox,agent tesla,lab-detonation,VIGIA",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,rp54mimk.meibuhr.com,threatfox,ClearFake,"threatfox,ClearFake,mac-0x68dc,macOS",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,rplix.cc,threatfox,Unknown Stealer,"threatfox,SONIC,SonicClient",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,s3ojzej3.sishi.store,threatfox,ClearFake,"threatfox,ClearFake,mac-0xa07e,macOS",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,secure-verify.sonic-c2-front.workers.dev,threatfox,Unknown Stealer,"threatfox,SONIC,SonicClient",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,servicios778899.duckdns.org,threatfox,Unknown malware,threatfox,2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,soliq-qaytarish.pro,threatfox,Unknown Stealer,"threatfox,Android,apk,EVANGELION,Uzbekistan,wretchedcat",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,strategiesconsultingfirm.com,threatfox,ClearFake,"threatfox,compromised,etherhide",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,sy3theo.tattoo,threatfox,Remus,"threatfox,RemusStealer",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,systemexe444-48662.portmap.host,threatfox,XWorm,"threatfox,mwdb,XWorm",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,th.gp11.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,ug.asiabet303.net,threatfox,Vidar,"threatfox,Vidar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,valru-53692.portmap.host,threatfox,Quasar RAT,"threatfox,mwdb,quasar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,vang0.wiki,threatfox,Remus,"threatfox,RemusStealer",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,vaw3b.wiki,threatfox,Remus,"threatfox,RemusStealer",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,vf.asdselot.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,vmi3767928.contaboserver.net,threatfox,Grandoreiro,"threatfox,geo,Grandoreiro,MEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,vmi3767938.contaboserver.net,threatfox,Grandoreiro,"threatfox,geo,Grandoreiro,MEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,w.gpy88.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,www.doublexoxoproject2026duckdns.com,threatfox,Remcos,"threatfox,remcos",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,www.doublexoxoproject2026duckdns1.com,threatfox,Remcos,"threatfox,remcos",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,www.dpdreijatim.com,threatfox,ClearFake,"threatfox,compromised,etherhide",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,www.nutriliciousme.com,threatfox,ClearFake,"threatfox,BSC-testnet,ClickFix,etherhiding",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,www.prasannatherapy.com,threatfox,ClearFake,"threatfox,compromised,etherhide",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,www.zbavseauta.cz,threatfox,ClearFake,"threatfox,compromised,etherhide",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,xaj3wrcu4f.localto.net,threatfox,XWorm,"threatfox,mwdb,XWorm",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,xmt.mya.mybluehost.me,threatfox,IClickFix,"threatfox,ClickFix,etherhiding,Polygon",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+domain,yellow-monkey.cfd,threatfox,ClearFake,"threatfox,ClearFake,ClickFix,ErrTraffic,etherhiding",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,034f9c7105448f79fd3b7ff8f9ccef6513793170a316d9370100510514c6e9b1,threatfox,Mirai,"threatfox,elf,Mirai",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,06c9db8f18d7deeab189c2e5f0825761492c9640f1b65092418f1572b1ce813f,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,07ed89158c1dc6d95b6b47e69eeeff3ccbd3d8f81489b84e6cdbfdc226b50c1f,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,080e3b5e8faeab3bf998ce31f52066b2dc6be53e8e034bfc8bfa11a47874ad8e,threatfox,RevStealer,"threatfox,REF2859,RevStealer,SetupCenter",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,0df18a4cc9dff53641f9308a90401198c53242c06ce430dbdee0d89e9d25c7f6,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,0e75cbd2825e00c21c83af0624a1107a7fee00fa66c79418f1651d819fb26602,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,10c8800cf0c8b774f30622ce8435e44deaa6c922794b80165e18fba7516ecaa8,threatfox,SalatStealer,"threatfox,exe,SalatStealer,stealer,upx",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,15aa4f29e0c8306262c55f8bcb6c1d4bae0d19ecd9e4368289581b7da9868d5b,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,1677d8f887614d4a3cda7e81221fa295c1cd186721a14997efed5aa4333df591,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,16b5979fca5819bc8c1c39690ad5d84ba66de6f93dca5271e6efc179b4eede35,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,1aa218a4c6118390796c0ad5053a20c01b7e6c57a6799196bd668fb2a8c8b97a,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,24a9d2ff8b45f59fe61ae99c5fa7aba398234310603e9c754225a83c7985a16b,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,281af3669e09b641a31ae5645295c568fb554f21a3d383f0af6bc1266c0f06b7,threatfox,RevStealer,"threatfox,REF2859,RevStealer,SetupCenter",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,2cf73d6ed481e65eb92080adeea4897f3bf402cab63455bc3ac4fdb6b9b975ef,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,32fdb3ed8e69c9ab0bd385decdc8d486db8b75df681e978d80c9ea5430ecbef5,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,3f0fb31a0ba36c4febc765393980f49dece192e72d850e284ca1f2587b6a0063,threatfox,Mirai,"threatfox,elf,Mirai",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,446205b6c0302ec738b18e027d9343bf454bee9fc2c11672c80fd9d999c423a5,threatfox,IClickFix,"threatfox,ClickFix,EFIMER,exe,IClickFix",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,44f08e83abd27fb12e0bc636835e04407ee06adbf292b26bab8f7b65424bfde3,threatfox,WannaCryptor,threatfox,2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,474142e3a1cb34ed9ddbfd35b4f95d10df426aee1beb745ba4f5ac5cbabe402a,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,491a01d47c2ab2276705eac6b684c8c15d01071957c2875fb5e2282c934e443a,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,4d92504e0218b627ae662a2bbb9bcebff7e6f5f05b0ff6a0dda2826608882e85,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,4f8e1033ca98846714ad250081291cb0f9058dc4e237603a6a71501365bebf25,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,52cd3a921f7ffc39a78eb2b32e5181f3a132ee7be360740dd49e395ed4080587,threatfox,Formbook,"threatfox,Formbook,ps1",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,55212fdfd4e9b5082338f3dd2c9194305fb34afcad3d2212b331e8419043791c,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,66058a5061f9c34ab7c2887b69041e3d1967006dd10b3b7987af02fa947e68f1,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,6b97a797aca10540353c5b68c052d3f3807075ca0258442648fd369d00c0f4ea,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,76c24a549d40435e09aae9ad5b053c5f6c5441ec91ef841b0d9c5d1352b8cbe7,threatfox,RevStealer,"threatfox,REF2859,RevStealer,SetupCenter",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,799cc837f33e43f73c5abc8b6abbae5a32f3f2e2752f5302ad45ae57ac401581,threatfox,RevStealer,"threatfox,REF2859,RevStealer,SetupCenter",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,79d82cc4c8bd34033cce4c8cb41169d7babeed660a54feed8187d2745482dbf0,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,85fdd0a29d621ca66968a4309400b359380f98bee064c224d0127363b8b968b2,threatfox,Mirai,"threatfox,elf,Mirai",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,868aae1c652cb479842ccd6b18472328c7edf5d191ad6195c6d81770af89c4a6,threatfox,RevStealer,"threatfox,REF2859,RevStealer,SetupCenter",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,8762c66f47f5e562d974430e1548f9672deb7e1acbea010a6717313f4ea2c244,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,87c58d10b30ca81ee9a5b1fc504a9106dda6c2876661d739a2d8db3658a4c698,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,898e912e9a9e076d52ebd08841ee7980b4fef9de2cc1fd843dbd0dfb367a5676,threatfox,Mirai,"threatfox,elf,Mirai",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,8ba3a702f8eab1692fe3717ad8d547525761d7643000517d2b54ed2f797b9b4b,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,8d0ea0037229d6b20a03931b5c083cfb41474c453e3037f5d8b358c60672b1b7,threatfox,RevStealer,"threatfox,REF2859,RevStealer,SetupCenter",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,902c6941c017ecb9723ac8ab8ef0aff606ba4e1bfca0949f27f6d3a39f58398a,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,9062a77124083a58f19fb6e37e8005f2e07794913607510e7206d4f3fffb6423,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,916fe1e211d03231ce5588c408317ea110baf55a1cfb2940083e490b235de3bf,threatfox,AdaptixC2,"threatfox,AdaptixC2,exe,opendir",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,9c91546bb4612e0a728d7f336fd8e18c515982e19f7e886f38bc53808b9ce7d7,threatfox,Prometei,threatfox,2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,a1d2220ef61333d321d60fde3eca6c51ea790987c57610b93f6d5be6bfacc856,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,a2491bb939b3df29ead93e077cafd825ff38e7fea1a64fc736a1c236b4f478ee,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,a7935d5ce2560714c06cce3b82ffb8356326d84028f28cbf1bb979cb233fc8ab,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,a83dec4fcfd23b7d3b4c03362469719202d74c2b99b1c4affd4706a272d248b5,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,a8d1f9666d0b2684e06aa7a19f3e15662fcda9ebdd68e014c6dde57f22cf905c,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,abbe5568587f5cac7ed9f64fe3e08c432229efc9f3918da4573d824acc93fceb,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,b7c788bf01d5053513512c3264fe32a5a818d668155167c31e400c29cd345da3,threatfox,Mirai,"threatfox,cowrie,elf,honeypot,Mirai",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,c1775c990853c4631afa0d6e82ce864ccab084c94abcf0ccd304073b9c7f77de,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,c4576d3d75425f9aef7dd432cad482c74c2c0b93195f162d827a69103a3618a2,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,c4d7b8c3667bf7877a0bbd82a6f2d444b18b776116edd1efdc43b798adbae519,threatfox,SalatStealer,"threatfox,exe,SalatStealer,stealer,upx",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,cab6ab8f9e05daf027de1670e3e4c970e9bfae2c07b956d29d73d5d09f3a5ec8,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,d89574cdc0e16f2136ca73e42519666712bfb8f970b523985ca1d89aa125ee9a,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,dc06d62ee95062e714f2566c95b8edaabfd387023b1bf98a09078b84007d5268,threatfox,LaZagne,"threatfox,exe,LaZagne",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,e708d2ae124ff86e4e4c8b8e9c5a0afc7dcdc94a1044bdc4ee7d4777109b1311,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,e730b5c87978f67e0b5aee81d867834b079f3bf5bc90991ea84df9d1a3088ba0,threatfox,Mirai,"threatfox,cowrie,elf,honeypot,Mirai",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,e7549b8ba65fa99a8df3a905a1d963e2de1fae688b7869a94f931335039e4e44,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,ec1104f754226c660c4478d7fd04d540e18d81f6849b9d791b7d9718938b2e5c,threatfox,Grandoreiro,"threatfox,geo,Grandoreiro,MEX,zip",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,efebdd4a5b7eee1e45f683ac1a6a9d73ef7a0638e84ad20d935f914f5c585217,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,f71aad2ece5d4eabe5c6de2ae542331d9a4e475bd60f05cc54035d64b1728460,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,fc8eff6ebcd92a9dc5a5c72feeb649883c4e86b24c104024fc6e6706695b618e,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+hash_sha256,fff1cb6ccfe5a06838b7e4f01586173f7fd9077cdfdd203bf3bfef077c93c453,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,1.13.183.49,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,101.47.30.91,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,104.168.7.211,threatfox,Remcos,"threatfox,mwdb,remcos",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,105.103.167.134,threatfox,XWorm,"threatfox,mwdb,XWorm",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,107.175.206.100,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,113.20.6.135,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,115.159.212.22,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,116.203.127.47,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,116.204.131.95,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,116.62.172.147,threatfox,VShell,"threatfox,static-config,VIGIA,Vshell",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,117.72.171.229,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,117.72.34.10,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,118.145.245.42,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,119.3.237.224,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,119.42.146.174,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,120.55.186.125,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,121.40.122.186,threatfox,Unknown malware,"threatfox,CyberStrikeAI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,121.41.121.251,threatfox,VShell,"threatfox,Vshell",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,124.222.115.171,threatfox,DCRat,"threatfox,dcrat,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,124.223.104.170,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,124.223.197.135,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,129.212.176.39,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,129.225.118.96,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,13.207.76.82,threatfox,VShell,"threatfox,static-config,VIGIA,Vshell",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,130.12.182.172,threatfox,Unknown malware,threatfox,2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,130.94.29.226,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,132.243.225.28,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,136.65.83.23,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,138.197.148.88,threatfox,Mirai,"threatfox,Mirai,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,138.2.70.5,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,139.5.202.180,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,139.5.202.181,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,139.5.202.182,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,143.110.165.208,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,148.251.120.62,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,149.104.105.125,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,149.88.76.187,threatfox,DCRat,"threatfox,dcrat,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,15.218.17.190,threatfox,Meterpreter,"threatfox,Meterpreter",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,151.241.154.93,threatfox,Unknown malware,"threatfox,Hvnc",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,151.241.99.88,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,151.247.219.145,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,154.212.112.196,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,154.212.112.207,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,155.138.255.240,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,156.225.25.222,threatfox,Unknown malware,"threatfox,CyberStrikeAI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,156.234.168.48,threatfox,VShell,"threatfox,Vshell",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,157.173.113.230,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,157.55.194.172,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,159.195.32.152,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,159.89.54.66,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,162.141.167.33,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,162.243.121.117,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,162.35.47.19,threatfox,Evilginx,"threatfox,c2,EvilGinx",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,163.7.4.61,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,164.90.144.17,threatfox,Mirai,"threatfox,Mirai,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,164.92.205.50,threatfox,Unknown malware,"threatfox,CyberStrikeAI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,165.227.201.128,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,167.104.105.131,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,167.86.93.226,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,167.86.95.233,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,168.110.211.241,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,169.58.115.94,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,172.203.32.240,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,172.232.34.164,threatfox,Unknown RAT,"threatfox,DeskPilot Stealer,RAT",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,173.212.215.22,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,174.138.29.169,threatfox,AsyncRAT,"threatfox,asyncrat,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,176.65.149.156,threatfox,Mirai,"threatfox,Mirai,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,178.104.197.218,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,178.173.235.94,threatfox,Quasar RAT,"threatfox,mwdb,quasar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,180.178.57.230,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,182.136.121.239,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,185.106.93.76,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,185.141.216.103,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,185.205.244.151,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,185.224.129.52,threatfox,Unknown malware,threatfox,2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,185.242.235.141,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,185.7.243.235,threatfox,Quasar RAT,"threatfox,mwdb,quasar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,185.91.126.147,threatfox,Remcos,"threatfox,mwdb,remcos",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,185.91.126.164,threatfox,Remcos,"threatfox,mwdb,remcos",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,185.91.126.94,threatfox,Remcos,"threatfox,mwdb,remcos",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,186.240.199.69,threatfox,Unknown malware,"threatfox,Viper",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,186.240.199.73,threatfox,Unknown malware,"threatfox,Viper",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,186.241.74.27,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,188.127.224.248,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,189.24.81.71,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,192.210.215.5,threatfox,Mirai,"threatfox,Mirai,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,192.236.151.249,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,192.255.230.190,threatfox,Unknown malware,"threatfox,CyberStrikeAI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,193.26.115.30,threatfox,AsyncRAT,"threatfox,asyncrat,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,194.163.170.136,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,194.180.157.11,threatfox,XWorm,"threatfox,XWorm",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,194.49.68.209,threatfox,Remcos,"threatfox,mwdb,remcos",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,195.123.217.196,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,195.72.191.242,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,195.72.191.40,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,198.13.158.199,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,198.199.82.188,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,198.251.85.85,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,2.237.112.234,threatfox,Quasar RAT,"threatfox,mwdb,quasar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,2.31.125.213,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,2.56.118.218,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,20.205.153.116,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,202.61.160.182,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,202.61.160.187,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,202.61.160.188,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,206.189.227.150,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,207.148.67.69,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,208.98.41.18,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,212.232.23.73,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,217.182.92.79,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,23.140.244.83,threatfox,Unknown malware,"threatfox,CyberStrikeAI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,23.150.4.24,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,27.124.20.130,threatfox,Unknown malware,threatfox,2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,31.57.37.147,threatfox,Remcos,"threatfox,mwdb,remcos",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,34.171.40.53,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,34.217.56.3,threatfox,Grandoreiro,"threatfox,geo,Grandoreiro,MEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,34.45.70.128,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,37.252.14.141,threatfox,Remcos,"threatfox,mwdb,remcos",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,37.49.226.174,threatfox,Mirai,"threatfox,Mirai,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,38.127.244.14,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,38.180.54.195,threatfox,Unknown malware,threatfox,2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,38.242.150.215,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,38.39.26.137,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,38.55.215.36,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,39.107.45.43,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,41.72.130.93,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,42.1.65.197,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,43.132.121.32,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,43.134.48.96,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,43.142.103.54,threatfox,VShell,"threatfox,Vshell",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,43.153.201.251,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,43.173.12.105,threatfox,Unknown malware,threatfox,2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,43.242.130.130,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,43.242.130.3,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,43.242.130.97,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,43.254.30.204,threatfox,Prometei,"threatfox,Dropper,honeypot,prometei",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,45.127.32.126,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,45.137.98.9,threatfox,NjRAT,"threatfox,mwdb,njrat",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,45.138.24.135,threatfox,Mirai,"threatfox,Mirai,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,45.138.24.16,threatfox,Mirai,"threatfox,Mirai,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,45.138.24.185,threatfox,Mirai,"threatfox,Mirai,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,45.199.130.245,threatfox,Unknown malware,"threatfox,AntiFox",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,45.199.130.250,threatfox,Unknown malware,"threatfox,AntiFox",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,45.204.71.199,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,45.204.71.211,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,45.225.135.140,threatfox,Remcos,"threatfox,mwdb,remcos",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,45.76.58.98,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,45.77.24.71,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,47.100.37.52,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,47.104.129.179,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,47.239.68.243,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,47.243.170.27,threatfox,Unknown malware,"threatfox,CyberStrikeAI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,47.79.123.155,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,47.84.13.187,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,49.233.199.129,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,51.81.92.176,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,60.183.90.254,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,60.204.173.235,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,62.171.168.236,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,62.238.13.47,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,66.212.21.213,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,67.43.156.23,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,69.121.96.117,threatfox,Quasar RAT,"threatfox,mwdb,quasar",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,74.0.42.199,threatfox,Unknown RAT,"threatfox,ConnectWise,rmm,ScreenConnect",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,74.125.141.188,threatfox,Unknown malware,threatfox,2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,75.119.137.232,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,77.237.97.184,threatfox,DanaBot,"threatfox,DanBot,drb-ra",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,78.47.158.111,threatfox,Mirai,"threatfox,Mirai,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,78.47.205.87,threatfox,Mirai,"threatfox,Mirai,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,8.133.217.112,threatfox,Cobalt Strike,"threatfox,CobaltStrike,cs-watermark-/submit.php",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,8.140.228.202,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,8.148.186.182,threatfox,VShell,"threatfox,Vshell",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,8.148.27.125,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,8.210.44.247,threatfox,Unknown malware,"threatfox,CyberStrikeAI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,8.218.218.84,threatfox,Unknown malware,"threatfox,CyberStrikeAI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,80.66.66.37,threatfox,Meterpreter,"threatfox,Meterpreter",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,82.22.146.177,threatfox,Unknown malware,"threatfox,nimbus",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,84.247.152.233,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,84.32.220.87,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,85.155.15.11,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,87.199.195.71,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,88.233.47.199,threatfox,AsyncRAT,"threatfox,asyncrat,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,91.148.134.108,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,91.219.239.251,threatfox,Unknown malware,threatfox,2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,91.219.62.84,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,95.111.228.145,threatfox,Unknown malware,threatfox,2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,95.85.237.156,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,98.159.102.212,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ip,98.159.102.213,threatfox,Unknown malware,"threatfox,PentAGI",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,ftp://ftp.brightlearning.com.my,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,ftp://ftp.dankely.org,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,ftp://ftp.freshnest2u.com,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,ftp://ftp.hngandpartners.com,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,ftp://ftp.hysterille.com,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,ftp://ftp.inductusqroup.com,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,ftp://ftp.jetinno.mom,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,ftp://ftp.mukosin.cam,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,ftp://ftp.pecaprint.rs,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,ftp://ftp.siyakhulaadministrators.co.za,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,ftp://ftp.viatic.pro,threatfox,Agent Tesla,"threatfox,AgentTesla,ftp-exfiltration,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://101.53.228.165:57743/Mozi.m,threatfox,Mozi,"threatfox,elf,IoT,Mozi",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://103.244.172.178:43796/Mozi.m,threatfox,Mozi,"threatfox,elf,IoT,Mozi",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://120.24.184.107:8000/static/js/vendor.4f2a1c.js,threatfox,Cobalt Strike,"threatfox,CobaltStrike,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://120.28.163.158:34959/Mozi.m,threatfox,Mozi,"threatfox,elf,IoT,Mozi",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://172.232.34.164:8080/cloud/5bqet.dll,threatfox,Unknown RAT,"threatfox,DeskPilot Stealer,RAT",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://172.232.34.164:8080/cloud/agent.bin,threatfox,Unknown RAT,"threatfox,DeskPilot Stealer,RAT",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://172.232.34.164:8080/cloud/um5jxxgo.dll,threatfox,Unknown RAT,"threatfox,DeskPilot Stealer,RAT",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://178.83.188.141/fvbig/zerobot.arc,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://178.83.188.141/fvbig/zerobot.arm,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://178.83.188.141/fvbig/zerobot.arm5,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://178.83.188.141/fvbig/zerobot.arm6,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://178.83.188.141/fvbig/zerobot.arm64,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://178.83.188.141/fvbig/zerobot.arm7,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://178.83.188.141/fvbig/zerobot.i686,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://178.83.188.141/fvbig/zerobot.m68k,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://178.83.188.141/fvbig/zerobot.mips,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://178.83.188.141/fvbig/zerobot.mpsl,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://178.83.188.141/fvbig/zerobot.ppc,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://178.83.188.141/fvbig/zerobot.sh4,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://178.83.188.141/fvbig/zerobot.spc,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://178.83.188.141/fvbig/zerobot.x86_64,threatfox,Mirai,"threatfox,Mirai,netgear",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://23.95.31.196:13467/socket.io/,threatfox,AhMyth,"threatfox,AhMyth,android-lab,VIGIA",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://ffffffffffff-36552.portmap.host:36552,threatfox,NjRAT,"threatfox,mwdb,njrat",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://fun-aktion.de/gast/LijHgs3_3829008.php,threatfox,Pony,"threatfox,mwdb,Pony",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://modxza7f-34209.portmap.host:34209,threatfox,NjRAT,"threatfox,mwdb,njrat",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://nsnosi-39204.portmap.host:39204,threatfox,NjRAT,"threatfox,mwdb,njrat",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://svcrystal.ru/tkan/LijHgs3_3829008.php,threatfox,Pony,"threatfox,mwdb,Pony",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,http://www.karl-koller.at/application/LijHgs3_3829008.php,threatfox,Pony,"threatfox,mwdb,Pony",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,https://114.134.187.54:60445/Qhp4,threatfox,Cobalt Strike,"threatfox,CobaltStrike,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,https://activation-tunnel.cc/b/clickfix,threatfox,Unknown Stealer,"threatfox,ClickFix,powershell,stego",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,https://activation-tunnel.cc/i/clickfix/a9381c2cd21f99cb.png,threatfox,Unknown Stealer,"threatfox,ClickFix,powershell,stego",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,https://coralreefscience.website/,threatfox,WARDENStealer,threatfox,2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,https://dlyavtorogo.com/,threatfox,WARDENStealer,threatfox,2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,https://gdedengiskatinaufa.shop/webview/loading?buildVersion=marioshdjdjdn,threatfox,Unknown Stealer,"threatfox,Android,apk,EVANGELION,Uzbekistan,wretchedcat",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,https://helptools2.com/,threatfox,WARDENStealer,threatfox,2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,https://marinebiologylab.website/,threatfox,WARDENStealer,threatfox,2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,https://nakiam.com/webview/loading?buildVersion=Soliq-UZ,threatfox,Unknown Stealer,"threatfox,Android,apk,EVANGELION,Uzbekistan,wretchedcat",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,https://nakiam.com/webview/loading?buildVersion=UZ__Qaytarish,threatfox,Unknown Stealer,"threatfox,Android,apk,EVANGELION,Uzbekistan,wretchedcat",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,https://opajfnhu.com/,threatfox,WARDENStealer,threatfox,2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,https://pastebin.com/raw/sFLjiX99,threatfox,AsyncRAT,"threatfox,asyncrat,mwdb",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,https://vmi3767928.contaboserver.net/isJzwgRyAPnAP05H.php,threatfox,Grandoreiro,"threatfox,geo,Grandoreiro,MEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+url,https://vmi3767938.contaboserver.net/,threatfox,Grandoreiro,"threatfox,geo,Grandoreiro,MEX",2026-11-20 16:03:34,2026-11-20 17:30:20,85
+ssl_sha1,09d1e05f957a313204823679e8b23199ddfd85d1,sslbl,Vidar C&C,"sslbl,2026-11-20",2026-11-20 16:03:31,2026-11-20 17:30:20,88
+ssl_sha1,162ae181924c0382ac8c4d1b59bd2a5ab71d68f2,sslbl,Malware distribution,"sslbl,2026-11-20",2026-11-20 16:03:31,2026-11-20 17:30:20,88
+ssl_sha1,311d90972082954ffd0a2da52a40209f4ded4de8,sslbl,RemusStealer C&C,"sslbl,2026-11-20",2026-11-20 16:03:31,2026-11-20 17:30:20,88
+ssl_sha1,391c96cd00389c4b285f60567adb3a3531009fc9,sslbl,Malware C&C,"sslbl,2026-11-20",2026-11-20 16:03:31,2026-11-20 17:30:20,88
+ssl_sha1,3978f94a567a7ef1f78b59b404b3794a724bd7da,sslbl,RemusStealer C&C,"sslbl,2026-11-20",2026-11-20 16:03:31,2026-11-20 17:30:20,88
+ssl_sha1,6e5c85d2f880211cfc2b36d1e5140890c1a26399,sslbl,PureLogsStealer C&C,"sslbl,2026-11-20",2026-11-20 16:03:31,2026-11-20 17:30:20,88
+ssl_sha1,b80e467af83941a4aa1ebfd18d737059e6ade74f,sslbl,Malware C&C,"sslbl,2026-11-20",2026-11-20 16:03:31,2026-11-20 17:30:20,88
+ssl_sha1,c333a3d828305b2a8f6d4f5646774ee30f0be065,sslbl,OffLoader C&C,"sslbl,2026-11-20",2026-11-20 16:03:31,2026-11-20 17:30:20,88
+ssl_sha1,c3c9181f153a966d5e57ac0da2caa02ee0268451,sslbl,Vidar C&C,"sslbl,2026-11-20",2026-11-20 16:03:31,2026-11-20 17:30:20,88
+ssl_sha1,d07fefbb493d25b4e602bd75a5f847a76ce8817a,sslbl,Vidar C&C,"sslbl,2026-11-20",2026-11-20 16:03:31,2026-11-20 17:30:20,88
+ssl_sha1,d41dff333ce19bcd2d80a26d9df47718e65e421a,sslbl,RemusStealer C&C,"sslbl,2026-11-20",2026-11-20 16:03:31,2026-11-20 17:30:20,88
+ssl_sha1,d66a7599fc875b9ca6633470adadfa8cc5b9c04f,sslbl,Malware C&C,"sslbl,2026-11-20",2026-11-20 16:03:31,2026-11-20 17:30:20,88
+domain,cmir.mx,urlhaus,malware_download,"stego,xworm",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+domain,featherswallet.net,urlhaus,malware_download,zip,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+domain,featherwallet.com,urlhaus,malware_download,exe,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+domain,pub-7e21bf5022574a289ca67b5509e84015.r2.dev,urlhaus,malware_download," ConnectWise, screenconnect, zip,rat",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,02f11dd8f8db8f83db4a9753ae1f1b4f,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,0760a4f9db60e7a28f7546665c4d0227,malwarebazaar,WARDENStealer,"exe,stealer,upx,Warden,WARDENStealer",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,086f13496d32e190621aa1d06efe0385,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,08a7d2f6311f285a3b11be1719f262b8,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,0b0f40e4faf97aaa96b619c772902d60,malwarebazaar,Panchan,"elf,enthec,Panchan",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,0b3383003e086b34ee9447c0b3861059,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,0ca4057c42f140370e520d0e303b231a,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,0f0773bbe458efaab30b156ad4704abc,malwarebazaar,DCRat,"DCRat,exe,RAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,10d6763e052db786062bcf978a4ca6e5,malwarebazaar,WARDENStealer,"ClickFix,dll,exe,Rust,WARDENStealer",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,115f9f108d55456a5624af1d7908caf0,malwarebazaar,AsyncRAT,"AsyncRAT,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,13a07983ef5c5a4abce1075bba095d96,malwarebazaar,AgentTesla,"AgentTesla,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,148370d1b50b7b29dc7ede7b7b7aab9a,malwarebazaar,vhdx,vhdx,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,14d53f21aa9e1d44a62093a92ce909de,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,16c278385c6dba69cff6dd93dc24ecb0,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,17706adf4ea032da63cdbcf767ff73a2,malwarebazaar,AsyncRAT,"AsyncRAT,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,1a808b3a592ab9def1010a94739c53aa,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,1e9c930a4f11bfdaa070f26213e39f1a,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,2106ee868e530c19d52bdf4204fbcc8d,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,29906b326f67a6533ee4cca79d262b59,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,2e42888ce74d1b48bafce60d5f3738f2,malwarebazaar,Mirai,Mirai,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,3150b95970c871c20365d731a683a116,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,32163a09acfa8745bf7a4c26dcd41f15,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,326c00c34d1121994d137725323809c0,malwarebazaar,XWorm,"ps1,XWorm",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,33aad68bdbd22d1027194e6f06977a3f,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,39680f11f7f9b5d9ba2eaa8550be275d,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,3e9c0908e9476e7398de2fb49deb438a,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,3fa7ded4a538106e3c028848cf44dba4,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,402bc1971b57d7df642991da05195841,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,4227e67a36fc0f362cbcfbbaeafc8446,malwarebazaar,exe,"exe,upx-dec",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,43f5bbdf8c4311f9fdfd74131a23d432,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,4445288c3f9480bda45fdf439db2f4d5,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,4705b357b8d90e24a4013f7e2e93db51,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,4740e6aecb6490cb2aefa5b059816535,malwarebazaar,WARDENStealer,"ClickFix,exe,injector,loader,WARDENStealer",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,4759c0775273a5479a39d5787065e1ad,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,47b15b52fddd7c4744114c7766262c1f,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,48185d0c5015e9b8bc3d77a1a017224d,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,4bc47434442b63e4b1df06d478b5cdf4,malwarebazaar,AsyncRAT,"AsyncRAT,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,4c824f0bab266b56140bc56d82ed2253,malwarebazaar,AgentTesla,"AgentTesla,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,4ec57d74bdcfa4e754fd7b54467989ae,malwarebazaar,MassLogger,"MassLogger,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,51e760d31442dec5b22bdf5a2c88bcaa,malwarebazaar,AsyncRAT,"AsyncRAT,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,52566bcae8d25bd76dd260da7820d96c,malwarebazaar,vhdx,vhdx,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,53b63f4c59580b1fb93586612a0fbbc9,malwarebazaar,dll,dll,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,56c630ea8c303b030a835f00d38c06b5,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,5d531a599a53dfde3343124d8acfd2dc,malwarebazaar,sh,"cowrie,honeypot,sh",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,5e912475144e82c36e9af32ac95d70c3,malwarebazaar,dll,"Deskpilot Stealer,dll,RAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,61b64a578a42dbb6b13a956e5383d161,malwarebazaar,XWorm,"ps1,XWorm",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,647a106a52ca329e89accf41ff171502,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,65ffddea205aeaec79b69fd9c7a62c68,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,6c9f33305677ec602fc01d8c88fc3e3b,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,6e340ae007a6b54eb265ed8e93868eba,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,6eff0d96bc8e968c2fbc3c0068526441,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,7158fcea6efec593d94b2d4c261944b2,malwarebazaar,Mirai,Mirai,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,71b08b5e843c032b55dd0b1a12aef511,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,7a5b70995c919de2850484d2fb4293bf,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,7da57a566201d3c4437e38a4fc07dbd4,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,7e026493fc36564a6addeab1aad11861,malwarebazaar,exe,"exe,upx",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,7fba95adde67b7b6441b9489324cd123,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,8d4c61f09df67518f26df8f0d040f844,malwarebazaar,vhdx,vhdx,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,8e9000e5f8f3d10774e0ccb7d1e0729f,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,90687a487ff79790e50de7a10f6786f9,malwarebazaar,Mirai,"cowrie,elf,honeypot,Mirai",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,91bbf512d36d4658ddee0e45ddb68361,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,91ef3f467afc33e52be09e30949b9df4,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,93498e482cd84a6fcf9ec79dd5d99bd9,malwarebazaar,dll,"DeskPilot Stealer,dll,RAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,9624db94c1a5eef2844e3e5bb86f252a,malwarebazaar,exe,"exe,Mikedor,signed",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,99de89c6ed62714bae8830b0395715df,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,9f3c70e38d66a416513c64efccbb4b99,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,a0f441824abd0ae544e267607ad30f74,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,a394db395047b2dbfdfbf2d164cd74e7,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,a4d4ede09b204e147aba025658a4f092,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,a63ff57a34d5a57bfe94b02f76fa1bb7,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,a77571d83791da64a99fdc6f58d2f5a6,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,a9d9a844b933969949ce52cb2fbe24c6,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,ae76a6cbea4f8e3270714cfa437e832d,malwarebazaar,LummaStealer,"LummaStealer,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,b19ad5cdb2b2f95461799dd5342a1b80,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,b372d12cb536d14f60feb0bdcd7afef4,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,b40de150e2fc52a83dad24a1bf7f0056,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,b508da47a064ddb993a28f07a8a99761,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,b6bdf345e701b6bfe10d4a9de51f0dda,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,b9d007e595f6363277f3a4c62a3a4725,malwarebazaar,DarkCoreRAT,"DarkCoreRAT,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,ba8842827744c82e306226f1b6255721,malwarebazaar,AgentTesla,"AgentTesla,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,c1a63f87a9e2df558f608ee731f5fee7,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,c485e37f741763855ffb5a5b7cd0bef9,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,c74154c75437d6d01296bb1d58792772,malwarebazaar,Grandoreiro,"geo,Grandoreiro,MEX,zip",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,c8cd2b4e8aacd0b233b168de116541ba,malwarebazaar,WARDENStealer,"exe,HYPERFINEX,stealer,Warden,WARDENStealer",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,cbf254e59facfc69d4b976cab23f4a57,malwarebazaar,WARDENStealer,"exe,upx-dec,WARDENStealer",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,cd2f89f2419586538c0035139a91267c,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,dbddc9ae52fcd6c53ade42b76c00bb21,malwarebazaar,AsyncRAT,"AsyncRAT,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,dd12f5efa5b73fc7baf82747573407f6,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,e2d79d71e6b8e10f6543fa3499067899,malwarebazaar,exe,"ClickFix,dll,exe,injector,process-hollowing",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,e89ab96a68d0cc230635b3a238cecea4,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,ed898b1a895845932edc7e259a437a8f,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,eda1cbff1d94b71fdbb42086749bdc74,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,f3e4b54debff0639adb59338be14df93,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,f796c427733e39a4ac0e0a089b44dea7,malwarebazaar,Formbook,"Formbook,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,f8057a10c4af14a83087bbc0a77395be,malwarebazaar,MassLogger,"MassLogger,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,f816069a4ef5aeb29fa14983b0bd0bd0,malwarebazaar,exe,"exe,signed",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,f8aa622578d0a10816339c615c05df0b,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,fb04a4a76683f76f3b11e8d653f0b872,malwarebazaar,XorDDoS,"blackdome,elf,honeypot,x86,XorDDoS",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,fb376d6f5302c2ee704bbd122e3c2fab,malwarebazaar,ps1,ps1,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_md5,fba0a3ec2f9cdc672636123109f1a3e3,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,0086a399cf7bc599cf5e9cd49c66487cda16c461eb8005fc467e31aa5bc9dbe0,malwarebazaar,XorDDoS,"blackdome,elf,honeypot,x86,XorDDoS",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,01d35166bfe42865f07c0cabfec08484721a285bac5933096b2e04ee52fb96d1,malwarebazaar,XWorm,"ps1,XWorm",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,0236db068193beef0ed7928e3716a681f7e7d7941c336784426fbcb6679b9945,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,034f9c7105448f79fd3b7ff8f9ccef6513793170a316d9370100510514c6e9b1,malwarebazaar,Mirai,Mirai,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,03917e1226e194b70879ecee899db13728391948a2278ecdd5b609b4b0679ab6,malwarebazaar,DCRat,"DCRat,exe,RAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,03f041603b0fee6670db17f6f518a49c9f0febb96b54863054a7d20a959d2973,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,068d84dc6a622a3840aff631ccceb9c5aec2258e4532021926bc73572bf03f8d,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,0a8ad53bc8ab160b87f53a46dbc9fde7de4a012797d82607a109522c2e69956b,malwarebazaar,MassLogger,"MassLogger,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,0d4a4766f4276f1fa50db478960b1c1b3c17af91c2a28b3e3fd5ae33a41a336c,malwarebazaar,AsyncRAT,"AsyncRAT,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,14ae893cf1cca80c132b7776f741bba9642e681d7fa4eb9433e19cee420c9215,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,15273f714070cf77ad61409f754975123eda75a2c727da5b81fe50f865c942a2,malwarebazaar,exe,"ClickFix,dll,exe,injector,process-hollowing",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,1701606feddc2803e207e538025461241d87e3a3665a2d52a2ba9266e72693ea,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,18ac7bad57eb80d47de9a44e8c4810ddca2753adfac67195c94af24962bc15f9,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,1c1704b98641f813b6475e50d8a595849614edf11094af604ca49161a3a5e293,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,1ea3504f1504643ad1cfe61783fe891f49242dd71adff9babc8932ed55d935d1,malwarebazaar,XWorm,"ps1,XWorm",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,1f6d60a69c9a06c91d5af5b6db8648ee23ce59531786287b5a2ba4f14fc75f4a,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,264fa37f61f8bcd1110ca64ef55a2ad58c83024bf58b7f40ec7c0d21897ab42b,malwarebazaar,Mirai,Mirai,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,298f094dd9933c1ef40a13fd863827416269970ec15f7b973e84c880faa6f8e4,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,2c9a9cb61360cbc696df218d9e5ba9e6dc8d3ec6a4bc7bbcb0e9059206c01360,malwarebazaar,sh,"cowrie,honeypot,sh",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,31f541c97638c8e071db516c88bbfd720ffa985d9db01ca2ff7eefaa10658820,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,355ed00e96525e65322104d837f82bbd015d51d3698e0c2cb0265f7eccd7bd85,malwarebazaar,DarkCoreRAT,"DarkCoreRAT,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,37aabc490f9c47c8b323ba4f255e1b4e3099ae544f269b2ee8261a415ca468c6,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,3afbba775a0b07bf7722f7bc1be6fee374f7ce324c660a2966f0848c749fd1a2,malwarebazaar,LummaStealer,"LummaStealer,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,3c37a5b0bd8221ec47d5f4c05344dad72a8aa4f4404862ba496238e893b9483d,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,3c9e34ccffe0ce46bfdf1ad0795e8134cfc4de0dee51fd5aad70ef4589c65f63,malwarebazaar,AgentTesla,"AgentTesla,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,3d22e9c61c2ca7daccee736ddae21bc3a3c7172803c83d1a49eb5437d2828e67,malwarebazaar,AsyncRAT,"AsyncRAT,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,43edc45aee84ab55683e420c10e8e616dd738a70ee61ec8aa4ae0b9f6c745cf2,malwarebazaar,ps1,ps1,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,486a31a2c5222c0019a1bf32bb732b3cd4e5d9671d365eafe37fc5b714923a87,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,486d9f1ab4e4e56771fc3dfe1dbd6737c00f1df56e2036f0b933e6ceb9411fb6,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,49996cd310766c8ca0b683732200e1d0b0a4cb0e21cc0f79541db5be54ca81c4,malwarebazaar,WARDENStealer,"exe,upx-dec,WARDENStealer",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,4bf39f5d7ceacf50179c911d5e5a815fdd234165840caa42e25c127db3565afc,malwarebazaar,dll,"Deskpilot Stealer,dll,RAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,4d78cd5ecf8a207c596db454d06d6afc1143a298c93335636f6a1521b55eaaa6,malwarebazaar,exe,"exe,upx-dec",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,53f7b567a47c4fdeea8e435d772aeaf1bbfc8ec0e6db5d7dd75e828c7eb7f018,malwarebazaar,AsyncRAT,"AsyncRAT,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,56018b4b64b378ca7ce23b27a36fbadb49ac3da03bba77a042fcfbf46e037dbb,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,5611194a638197dc04227be362c89ec5a333c0ffa40b8e6c1e5b88d6990d727a,malwarebazaar,dll,dll,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,596c255e219c6a35bebed84a517d17cd76f6fec82948a951b575fe51adeab5b8,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,5dc0b93b83820e0af88960ee31d669cb5a88459b428d95d00bcf30dac9c733cd,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,6047af8aae1f6f70f8d7a2b526ca19ba741d683a53399fb87ecb39ebd0429688,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,62b4f9297b6054c8c0f9dcbbf3072a1ca5fad17e3f36659c6452b33fc5322949,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,631fc5747dc859d3b060f0d8878cc813e21e260381cbac244c4467b490cbc0d9,malwarebazaar,vhdx,vhdx,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,63ff876ea8936d73702db64496755b91165efef2a0f6c20f7a1f3f067887b121,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,6754205ed5c70bbae860dda20f70e6c5cea13d7a6942a58b4651022367002e99,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,68d8695b70c42059ec1fddba437e29afdf1cbda28022c8a088614732e5d29344,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,6a77d216bfeb055a2cde738b179c0002ce66e0cf9c34009b5c4806491aa95f8a,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,6b2f9c59d768028f6639898f088bcaeb5d65dfb828d71d044b9d178d41e2d0fb,malwarebazaar,AgentTesla,"AgentTesla,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,6b42f258381938945ac9b6e855f9f2bcf8680c5e2b506d4bf94d373c9fd3e903,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,6bea856d590c31a960542826c32c8e87e803427d9f30923832bfb846abd3cc4f,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,6d319a7663b8fe62b6e6d5f54c290216889ebe67938397c9e51048c78d2072a8,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,6e78b3f84453618ec1eab60674e01f36a08a740a95c50b99154ad0552075d924,malwarebazaar,Panchan,"elf,enthec,Panchan",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,734693b2e5395b0a78279a243899233cb026046493014cc94db48a22cd8955eb,malwarebazaar,MassLogger,"MassLogger,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,7babb27fd1b2c9f0794ee6813f6e1d0c6e854bd7a44b0675d4cc701fd6791836,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,83079cf831c17fdad9cce5f5e3be403db257bd9e7f572cbf431b62e68f76dc24,malwarebazaar,exe,"exe,Mikedor,signed",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,8782aebb39b61d99c861d932a88990b442e17de14fe5cadf335c3754579ff63a,malwarebazaar,Formbook,"Formbook,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,8a2bebda49fa67d0110d575feff63a8d305f93e1e486f9bd48e6526e7c3a0d79,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,8ba245e2c7defaff72cd34842002a39cb3ac6961ac491986af18bf5557e58804,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,8cc584b3cb9c91f15d2b40edecd12dc377453f6674e42ce5f9dc0eda37c8d7b3,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,912f5fcf64c6cee1f39c68e44b0afd0a646cfad8f342b6f93783361b25496df3,malwarebazaar,WARDENStealer,"ClickFix,dll,exe,Rust,WARDENStealer",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,968535d1bc1092516d6d31309d6cffcef7ab2785465611c5dbbe0601782e2ca9,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,993b310ef65c0822b9be4350910b465aed6ed128810a569b9fad3c3f14c4de3b,malwarebazaar,WARDENStealer,"exe,HYPERFINEX,stealer,Warden,WARDENStealer",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,9cf9bebad59ae5d1aaa7aeece935c0076eb289194970bbe3caa460d7c0c673aa,malwarebazaar,exe,"exe,signed",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,9e1432982eda0749342d23e5bbdb45854e1c99c33d09092a633729a3af9a9014,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,9ea12195e602fbaae9db8f608f6d20a733d4214e7884522367be9f94e02dc4a4,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,a3494bf9330170124750345a39da646a54eb12088cdb4ff89c0cc9d5e0994da8,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,a73af14bc4b1e5a91a6329fe2f9ad4d971c61894d39ce0ab97bd17e788b4cfa7,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,a93faf2210eff7caba11e97fb7c81ddde942303026f636c8a642b3deeac63fab,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,a9a9b2797c355867cdd170e449f802e961e6f89e722abf46975bd9d5cdab371e,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,aa0a64028c435b665568e162f08b8e9fffa0a2deac7082db109d87778ff453f8,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,aa4f773e9b712d825339f822c0b3511dcb45388a76b4298ef0f7ad85b86a7456,malwarebazaar,WARDENStealer,"ClickFix,exe,injector,loader,WARDENStealer",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,afb71472ce1c07cd6fe49de3d9e91beb275337cf2bbf9c2d885aca3efc145dc8,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,b6be00343055b45d2c3c544aeb0aaf7853cd11905fe3c7de99e8723d7ed7eb17,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,b793c9bb7ff8d8683bef3264ce17e98087e3abb9a09f846f008c735d805967d0,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,b7c788bf01d5053513512c3264fe32a5a818d668155167c31e400c29cd345da3,malwarebazaar,Mirai,"cowrie,elf,honeypot,Mirai",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,b850932fad7e2d0e0dacd2fec42207094a8e9b6bab83c3006dd507324a0c006d,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,bb0e4bb5a6f691438a6e60480c700b4fe7195ec4b13b1d6aaa952e3e651db570,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,bb3822d58ab4fd600ca93560053e1fab9358dbf29b7c561b220aed7d44aed097,malwarebazaar,vhdx,vhdx,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,be36d0824e25afe540f676e5bd3da0859d85930143496ffbe9e636c0fe0e89fd,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,bebbbd1b173847700348d87dd17010af8feb4f1e58b7bfd7a7fcbc35c9c1d7ef,malwarebazaar,vhdx,vhdx,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,c4d7b8c3667bf7877a0bbd82a6f2d444b18b776116edd1efdc43b798adbae519,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,c5983cfc41d9f459cac2b02494ed27d1b75f32d880c2aabb52df7ee40696f8d4,malwarebazaar,WARDENStealer,"exe,stealer,upx,Warden,WARDENStealer",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,c9b93561dc6c628f2ac606d5d6e27cdd25071616ca4ed2a5dddf167b2d86b7cb,malwarebazaar,AsyncRAT,"AsyncRAT,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,d65369f77a33a5ad39e3113aaad4e0536ec9b0e80ba147e46c50892faa5d3470,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,d7d0212a245a4896fa94bc0de0a66e4215e827e241968e14be5a08b69ab49ad0,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,d8dd0511e6ab9f7aeda2d1ecb38961861397449a1680c9e49e06df39f1828a6a,malwarebazaar,AsyncRAT,"AsyncRAT,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,d9701cb1606837e156373304a8b37ca10585c37ac66937fd8bc1afe995db8dc1,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,db67b64fed7939e0c296d9c5f5d25c754dbcd1386dd40eac4052a7da664aa546,malwarebazaar,dll,"DeskPilot Stealer,dll,RAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,dd2926dd445be91fcfb232be389a411240a6721679692fa51baf165e2f2f3aed,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,e7bbd71313b9ae6391c38ec15541ae4bfff502212af27318369a7e26a4f0e83e,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,ea3458aeed6e339ede3f7b3dab63aab3c83ded073212c4486b3513387464cc0e,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,eb36c6cf05f0323778d175b95c142a7960b2810afa8b9d694d47b26f54058341,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,ec1104f754226c660c4478d7fd04d540e18d81f6849b9d791b7d9718938b2e5c,malwarebazaar,Grandoreiro,"geo,Grandoreiro,MEX,zip",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,edd9715fb89beee1825c501e5f1f93cd3486d652b42c192e726c8dc96b8cc48d,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,efcf5fc71f61ccb25ce357bb4f6b1c01619c004657767841e7cc54fcda887462,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,f01cceee80f1952f049b69abcb82beef0196c0bdad4e9d3ff838a841806dc8e0,malwarebazaar,AgentTesla,"AgentTesla,ps1",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,f265d084fb288912bb1e9c1e68a098cab7529d3c66fe870d4fbdf34a283e93f1,malwarebazaar,exe,"exe,upx",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,f3fb2b50ed61c92a11daf8033c2a6b951022564be3081340a1721a65e3a8110d,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,f557cb49c1255e029a7cbef9ba68ff9f817e2a8abc8b8bddf7f22fd68d4c487d,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,f599bf228dc1845df3b5f0652fd5f671b6ad0e4e0b2460df7f23aa75a97c4ad4,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,fa649a2d75141abee18859c18ab7f5c03169530c15bb27e25db16063331d8c8e,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,ff7c360881e3c424b121c40fc566b0d6ab12ccc9d73195f9017e5bf6a4e098c4,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+hash_sha256,ff9db0f01ca982129b34a4558955b83a3c611ffb8a5115e1fc56ff31a6416999,malwarebazaar,exe,"exe,Mikedor",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+ip,106.40.242.75,urlhaus,malware_download,,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+ip,115.55.63.175,urlhaus,malware_download,,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+ip,130.12.209.191,urlhaus,malware_download,"32-bit,arm,elf,Mozi",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+ip,146.70.41.223,urlhaus,malware_download,zip,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+ip,160.177.247.19,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+ip,169.128.70.53,urlhaus,malware_download,"arm,ddos,elf",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+ip,172.232.34.164,urlhaus,malware_download,"Deskpilot,Deskpilot Stealer",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+ip,175.107.21.41,urlhaus,malware_download,,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+ip,182.117.4.63,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+ip,182.127.87.70,urlhaus,malware_download,,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+ip,220.161.100.142,urlhaus,malware_download,elf,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+ip,27.215.181.215,urlhaus,malware_download,,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+ip,37.221.79.4,urlhaus,malware_download,"cowrie,honeypot",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+ip,61.53.133.81,urlhaus,malware_download,,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+ip,72.255.32.170,urlhaus,malware_download,honeypot,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://106.40.242.75:54822/bin.sh,urlhaus,malware_download,,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://115.55.41.116:39590/bin.sh,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://115.55.63.175:38460/bin.sh,urlhaus,malware_download,,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://115.62.34.25:42124/bin.sh,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://130.12.209.191:39733/i,urlhaus,malware_download,"32-bit,arm,elf,Mozi",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://160.177.247.19:43267/i,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://169.128.70.53:8000/bot_armv7l_c,urlhaus,malware_download,"arm,ddos,elf",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://172.232.34.164:8080/cloud/5bqet.dll,urlhaus,malware_download,"Deskpilot Stealer,rat",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://172.232.34.164:8080/cloud/um5jxxgo.dll,urlhaus,malware_download,"Deskpilot,Deskpilot Stealer",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://175.107.21.41:38599/bin.sh,urlhaus,malware_download,,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://182.117.4.63:33692/i,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://182.127.87.70:49877/i,urlhaus,malware_download,,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://196.189.198.108:54336/bin.sh,urlhaus,malware_download,"32-bit,arm,elf,Mozi",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://196.189.198.108:54336/i,urlhaus,malware_download,"32-bit,arm,elf,Mozi",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://220.161.100.142:41142/bin.sh,urlhaus,malware_download,elf,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://27.215.181.215:52315/i,urlhaus,malware_download,,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://37.221.79.4/x86_64,urlhaus,malware_download,"cowrie,honeypot",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://61.53.133.81:58640/bin.sh,urlhaus,malware_download,,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://72.255.32.170:58044/Mozi.m,urlhaus,malware_download,honeypot,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,http://cmir.mx/xwormnovwithstartup.png,urlhaus,malware_download,"stego,xworm",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://146.70.41.223/files/FeatherWalletSetup-2.9.1.exe,urlhaus,malware_download,exe,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://146.70.41.223/files/feather-2.9.1-win.zip,urlhaus,malware_download,zip,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://cdn.discordapp.com/attachments/1573288801898463372/1573289120439214181/4fb26fa730?ex=6b01772c&is=6b0025ac&hm=977e567775a7c396368b344faffd9240db700b7551feb19313357ecf5c2326d9&,urlhaus,malware_download,"discord,ens,EtherHiding,IRAHook,java,minecraft,rat,stealer",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://drive.google.com/uc?export=download&id=19Lagxg3eI4Vu9katvuIQJxzMybl4F91j,urlhaus,malware_download,"ascii,Encoded,GuLoader,rat,RemcosRAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://drive.google.com/uc?export=download&id=1Aez0bJVhJ_dQC15auTJV4uW07NgZClIk,urlhaus,malware_download,"encrypted,GuLoader,rat,RemcosRAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://drive.google.com/uc?export=download&id=1EAOpcfpUB0VLJNToGk49ZpTcl6HXEgsz,urlhaus,malware_download,"ascii,GuLoader",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://drive.google.com/uc?export=download&id=1EUmCJkg_7aW9P9A0KJuyDBzptbB6GxeB,urlhaus,malware_download,"encrypted,GuLoader,rat,RemcosRAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://drive.google.com/uc?export=download&id=1G86bx6_i2NJTlfnk3lIr3-xm8C0nYMEW,urlhaus,malware_download,"ascii,Encoded,GuLoader,rat,RemcosRAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://drive.google.com/uc?export=download&id=1GJZ8qqej9jU5hqHXTM02F29FDGpd_FwG,urlhaus,malware_download,"encrypted,GuLoader,rat,RemcosRAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://drive.google.com/uc?export=download&id=1Ir9j7KvKhM7eMkLDwQzNaYHssELqB_lX,urlhaus,malware_download,"encrypted,GuLoader,rat,RemcosRAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://drive.google.com/uc?export=download&id=1RM27PinOFib4Ba3G19xU5-SPapF0EUdv,urlhaus,malware_download,"encrypted,GuLoader,rat,RemcosRAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://drive.google.com/uc?export=download&id=1Tq261Pi-C3qHA-eoApnuj9bPGmvgcUNn,urlhaus,malware_download,"ascii,Encoded,GuLoader,rat,RemcosRAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://drive.google.com/uc?export=download&id=1V4VjBW1_9w8wuJyx5j2Bry3DZGOgGB6j,urlhaus,malware_download,"ascii,Encoded,GuLoader,rat,RemcosRAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://drive.google.com/uc?export=download&id=1YNjiL0Sg9SrkAWIhSl7QyEj3iU7BioZ6,urlhaus,malware_download,"encrypted,GuLoader,rat,RemcosRAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://drive.google.com/uc?export=download&id=1ZEluLzvPOisMTNbtYXgSE907XMjVi_q-,urlhaus,malware_download,"encrypted,GuLoader,rat,RemcosRAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://drive.google.com/uc?export=download&id=1d0esrhpHBuJgeX9rolIRyDae-paQ4OsY,urlhaus,malware_download,"ascii,Encoded,GuLoader,rat,RemcosRAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://drive.google.com/uc?export=download&id=1fDfY4z7zyuRdNASVvo-IwsSooS87j4aq,urlhaus,malware_download,"ascii,Encoded,GuLoader,rat,RemcosRAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://drive.google.com/uc?export=download&id=1fqMKCmKylZpGHlEA5VqVBPapCWToNe7j,urlhaus,malware_download,"encrypted,GuLoader,rat,RemcosRAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://drive.google.com/uc?export=download&id=1lQKM7cyTT6zG07LSofSEGzBS91z7RENE,urlhaus,malware_download,"ascii,Encoded,GuLoader,rat,RemcosRAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://drive.google.com/uc?export=download&id=1qroY7D44p7twWPf8iSaEW8kYLQJ0wFts,urlhaus,malware_download,"encrypted,GuLoader,rat,RemcosRAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://drive.google.com/uc?export=download&id=1wVhn28DhV8a1xgM6rp4Ea1YG-JvGZJsS,urlhaus,malware_download,"encrypted,GuLoader,rat,RemcosRAT",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://featherswallet.net/download/files/releases/win-installer/FeatherWalletSetup-2.8.1.exe,urlhaus,malware_download,exe,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://featherswallet.net/download/files/releases/win-installer/feather-2.8.1-win.zip,urlhaus,malware_download,zip,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://featherwallet.com/files/FeatherWalletSetup-2.9.1.exe,urlhaus,malware_download,exe,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://featherwallet.com/files/feather-2.9.1-win.zip,urlhaus,malware_download,zip,2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://pub-7e21bf5022574a289ca67b5509e84015.r2.dev/Easy-Service-Optimizer.zip,urlhaus,malware_download," ConnectWise, screenconnect, zip,rat",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://pub-7e21bf5022574a289ca67b5509e84015.r2.dev/mingw-get-setup.zip,urlhaus,malware_download," ConnectWise, screenconnect, zip,rat",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/Mahedihasanimam/Typescript_Assignment-1/refs/heads/main/public/fonts/fa-solid-700.otf,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/Teddybearinu/TeddyBearINU/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/TheDedster/Yii2-Project/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/Theme-Logic/sgim/refs/heads/master/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/Toko-Technologies/amda_global_website_v2/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/Vamshi0111/weatherapp/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/naeemsarker02/backend_node.js/refs/heads/main/uploads/user/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/naeemsarker02/cms_ui/refs/heads/main/src/api/endpoints/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/naeemsarker02/ecommerce_ui/refs/heads/main/src/shared/scripts/config/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/naeemsarker02/ecommerce_ui_static/refs/heads/main/src/scripts/lib/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/naeemsarker02/java_practice/refs/heads/main/lab/1st/ACR/src/operations/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/naeemsarker02/multimodal_skin_disease_dataset/refs/heads/main/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/naeemsarker02/node.js_practice/refs/heads/main/practice/ims1/uploads/brand/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/naeemsarker02/prashad_real-state_erp/refs/heads/main/back/app/Http/Controllers/Api/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/naeemsarker02/quick-job-client/refs/heads/main/src/components/common/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/naeemsarker02/quick-job-server/refs/heads/main/src/config/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/naeemsarker02/quickhire-job-portal/refs/heads/main/quickhire-client/src/components/common/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/naeemsarker02/real_estate_erp-practice/refs/heads/main/real-estate-backend/app/Http/Controllers/Api/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/naeemsarker02/static_agriculture_info/refs/heads/main/assets/images/crops/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/naeemsarker02/static_portfolio/refs/heads/main/assets/images/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/naeemsarker02/task_01/refs/heads/main/client/src/assets/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/naeemsarker02/teamWork_2/refs/heads/main/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/naeemsarker02/teamWork__test/refs/heads/main/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/naeemsarker02/web_prac/refs/heads/main/backend/node.js/3rd/uploads/comment/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/nguyen2770/dau_gia/refs/heads/main/WEB_DAU_GIA/wwwroot/lib/bootstrap/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/nguyen2770/test_mobie/refs/heads/main/src/assets/images/car/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/nhan03bit/CXR-LT/refs/heads/main/public/fonts/fa-solid.lkf,urlhaus,malware_download,"github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/nifad2005/team-social/refs/heads/master/src/assets/images/public/fonts/fa-solid-900.eot,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/nikhilsathe07/skill-bridge/refs/heads/main/backend/config/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/niloytalukde/Hottel_Booking_Web_Client/refs/heads/main/src/Components/Home/public/fonts/fa-solid-900.woff2,urlhaus,malware_download,"DEVPOPPER,github,js,TxDataHiding,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/srosthai/Portfolio/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/srosthai/laravel-real-time-chat/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/srosthai/midterm-project/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/srosthai/modern-dashboard/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/srosthai/my-resume/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/srosthai/pos-caffe/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/srosthai/vendly/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/stingrif/me/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/surics47/notes-documents-portal/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/tejalgandhi/stripe-wave-integration/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/tejalgandhi/tejalgandhi/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/tejalgandhi/uvavino-api/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/tejalgandhi/uvavino-backend/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/tgaye/AnchorExampleContracts/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/tgaye/audio-reactive-shader/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/tgaye/interactive-color-gradient-1747242995235/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/thainquet/flutter-beginner/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/thainquet/nestjs-starter/refs/heads/main/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/tito-github-repos/nitto-mobile-app/refs/heads/master/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/tqcuong84/task-deploy/refs/heads/master/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js,VSCode",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://raw.githubusercontent.com/tranquocbn/ukb-app-api/refs/heads/master/public/fonts/fa-solid-400.woff2,urlhaus,malware_download,"DEVBOX,github,js",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://royal-wood-3c0d.julianosilvasantospiresrosa.workers.dev/jfbyn,urlhaus,malware_download,"ascii,Encoded,xworm",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+url,https://www.mediafire.com/file_premium/9xuxsk9vjb2kwvv/1126Ref_3639007-Aprob9448_RefN7CK.zip/file,urlhaus,malware_download,"Grandoreiro,zip",2026-11-20 16:00:04,2026-11-20 17:30:20,85
+domain,161.7.108.136.bc.googleusercontent.com,threatfox,php.shin_webshell,"threatfox,gif,PHP,webshell,WordPress,wp-admin",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,3iksoaw0.tpdistanbul.com,threatfox,ClearFake,"threatfox,ClearFake,mac-0x79fa,macOS",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,4qktmvoy.pruebasrhglobal.com,threatfox,ClearFake,"threatfox,ClearFake,mac-0xa07e,macOS",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,80vgqnfx.xeros.store,threatfox,ClearFake,"threatfox,ClearFake,mac-0x79fa,macOS",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,83754ka9.ceoinsurancecorp.com,threatfox,ClearFake,"threatfox,ClearFake,mac-0x0f14,macOS",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,90xfksds.americaspadel.com,threatfox,ClearFake,"threatfox,ClearFake,mac-0x68dc,macOS",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,adminbigprint.com,threatfox,ClearFake,"threatfox,ClearFake",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,aez.asia211.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,afrmomn0.livingattheopera.com,threatfox,ClearFake,"threatfox,ClearFake,mac-0x68dc,macOS",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,afsdsa.com,threatfox,ValleyRAT,"threatfox,valleyrat_s2",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,agwe.store,threatfox,ClearFake,"threatfox,ClearFake",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,al06.store,threatfox,ClearFake,"threatfox,ClearFake",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,al07.store,threatfox,ClearFake,"threatfox,ClearFake",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,al08.store,threatfox,ClearFake,"threatfox,ClearFake",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,americaspadel.com,threatfox,ClearFake,"threatfox,ClearFake",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,asdselot.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,asia608.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,asia689.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,aziz-info.epizy.com,threatfox,ClearFake,"threatfox,compromised,etherhide",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,b.asia608.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,baseupdate2798.com,threatfox,IClickFix,"threatfox,ClickFix",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,bcr.asia211.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,c4q.asia211.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,cdn.876553.xyz,threatfox,Unknown malware,"threatfox,CVE-2026-10520,Ivanti,TDGate",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+domain,cj.asia211.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,d65vnso5.adeac.com.mx,threatfox,ClearFake,"threatfox,ClearFake,mac-0x68dc,macOS",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,danieltschumi.com,threatfox,Unknown malware,"threatfox,ClickFix,compromised",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,e2.asia608.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,escuelamarcosana.es,threatfox,ClearFake,"threatfox,compromised,etherhide",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,gp11.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,grokaiagenticattkexp.net,threatfox,Unknown Stealer,"threatfox,FunStealer",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,guj0ufsm5n.workers.dev,threatfox,php.shin_webshell,"threatfox,Cloudflare,gif,PHP,webshell,WordPress,workers.dev,wp-admin",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,instance-mblxfp-relay.screenconnect.com,threatfox,Unknown RAT,"threatfox,ConnectWise,docusign-lure,phishing,rmm,ScreenConnect",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,isflafe0.tucargaseguraceo.com,threatfox,ClearFake,"threatfox,ClearFake,mac-0x79fa,macOS",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,julevoru.workers.dev,threatfox,php.shin_webshell,"threatfox,Cloudflare,gif,PHP,webshell,WordPress,workers.dev,wp-admin",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,ll.gp11.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,lmf.asia608.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,lo.asia689.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,m.gp108.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,mail.danaeng.kz,threatfox,Agent Tesla,"threatfox,AgentTesla,config",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+domain,mail.huynam.net,threatfox,Agent Tesla,"threatfox,AgentTesla,config",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+domain,mamalamakiska.fun,threatfox,Unknown Stealer,"threatfox,FunStealer",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,news.ambisi.co,threatfox,AsyncRAT,"threatfox,asyncrat",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,ns1.yexiaowei.icu,threatfox,Cobalt Strike,"threatfox,CobaltStrike,drb-ra,modat",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,ns2.yexiaowei.icu,threatfox,Cobalt Strike,"threatfox,CobaltStrike,drb-ra,modat",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,o9.asia608.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,ot.ankasanet4drtp.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,party-villa-balloons.pages.dev,threatfox,ClearFake,"threatfox,compromised,etherhide",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,postu.cloud,threatfox,Unknown Stealer,threatfox,2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,qagaqame.workers.dev,threatfox,php.shin_webshell,"threatfox,Cloudflare,gif,PHP,webshell,WordPress,workers.dev,wp-admin",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,r63o8kfc.ceomutual.com.mx,threatfox,ClearFake,"threatfox,ClearFake,mac-0x0f14,macOS",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,rc.asia608.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,sp.asia211.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,startupclaudemain.net,threatfox,Unknown Stealer,"threatfox,FunStealer",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,swiftwatch.duckdns.org,threatfox,Remcos,"threatfox,remcos",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,t7.asia608.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,tepepeja.workers.dev,threatfox,php.shin_webshell,"threatfox,Cloudflare,gif,PHP,webshell,WordPress,workers.dev,wp-admin",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,uidqaxan.libersity.mx,threatfox,ClearFake,"threatfox,ClearFake,mac-0xa07e,macOS",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,va.ankasanet4drtp.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,vw.asdselot.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,winnifred624.workers.dev,threatfox,php.shin_webshell,"threatfox,Cloudflare,gif,PHP,webshell,WordPress,workers.dev,wp-admin",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,www.ati-aca.org,threatfox,ClearFake,"threatfox,compromised,etherhide",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,www.benoitblein.net,threatfox,ClearFake,"threatfox,compromised,etherhide",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,www.ceenux.com,threatfox,IClickFix,"threatfox,ClickFix,etherhiding,Polygon",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,www.chemspecsolutions.com,threatfox,ClearFake,"threatfox,compromised,etherhide",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,www.chicagowushu.com,threatfox,IClickFix,"threatfox,ClickFix,etherhiding,Polygon",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,www.congecar2000.com,threatfox,IClickFix,"threatfox,ClickFix,etherhiding,Polygon",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,www.dayaquest.com,threatfox,IClickFix,"threatfox,ClickFix,etherhiding,Polygon",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+domain,www.egypthologram.com,threatfox,IClickFix,"threatfox,ClickFix,etherhiding,Polygon",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+domain,www.elisirdelbenessere.it,threatfox,ClearFake,"threatfox,BSC-testnet,ClickFix,etherhiding",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,www.exposition-lyon.fr,threatfox,IClickFix,"threatfox,ClickFix,etherhiding,Polygon",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+domain,www.fabriziobiagioli.it,threatfox,ClearFake,"threatfox,BSC-testnet,ClickFix,etherhiding",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,www.isecure-cctv.com,threatfox,ClearFake,"threatfox,BSC-testnet,ClickFix,etherhiding",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,www.modeldent.it,threatfox,ClearFake,"threatfox,BSC-testnet,ClickFix,etherhiding",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,www.pawtage.com.au,threatfox,IClickFix,"threatfox,ClickFix,etherhiding,Polygon",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,zhfa.zhwkr.co.uk,threatfox,Unknown Loader,"threatfox,0ysho,Firefox,ytb-shorts-blocker",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+domain,zm.gp11.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+domain,zt.gp11.org,threatfox,Vidar,"threatfox,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,0ab667fa2b604db9e29e86b6429c92a60633528442a2d70fce83a96d8e7ffef6,threatfox,Mirai,"threatfox,elf,Mirai",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,0abeb85a452add358af126dd87d1a38addd406e911905fbbe9a3856894c07bc8,threatfox,SalatStealer,"threatfox,exe,SalatStealer,stealer,upx",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,104a1804751c1545e1ee563e05bed275359d2c2da9545089ab2fe9fd2d977390,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,10d880a0b91528bd791604f681bdae1dfa405aae7e7118084923e596f6afc4d4,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,11a4913f1926c3142e9e3f591af30193bac8d7be2f43ebc0bc0758e5499820be,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,14cceb54e80e04b16bc7aff71d5dac480a858ff372d83847f3d7a04289b131cb,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,187c25e0604530f5f6a8ee79b0798f89ef0a132dbe69b55b6afb1f2583f84b2b,threatfox,SNOWLIGHT,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,1958d225a674b5f6085df0f50dad66c64efc9b356acf131f3971c5669ce60f64,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,2120cd6aae081063d7f2f3709feaaf9cfc594fb50d3c2cebd431f0b4a03212c4,threatfox,AsyncRAT,"threatfox,asyncrat,exe",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,213c441cc21925f0a241015cd0377313d8a3ebc8f1efa22071a8c63d8ed64227,threatfox,VShell,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,255c834be134ec714ec41b7b97d308019b31965e830eb3e66930ff1afca687d4,threatfox,SalatStealer,"threatfox,exe,SalatStealer,stealer,upx",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,2783748943b7b9dc2218d27434692d8f3acbba532792275b645035adaafd92f6,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,2863367bdbc55eae6605225f6cbb547c7da9ae8f70a0b76b060e03c577144607,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,2c35267958bcb8aaeaf7c3794150b422a8229726247d0e2024951cbb3bfb4973,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,2c69bb222de99b52d72338a5026092d21c00f1c9afe1c670ba3e236747c7cf96,threatfox,Unknown Loader,"threatfox,elf,Loader",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,2c9c1762b78ce6fc6634277fe07ea16cffb6e8ba97b8574aa44fa74b7c4bb743,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,31ee1518da5c18060dbcf259b6e19fc4a2821a8ab011f10f5f623ca3f8606bf5,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,3566e4ecfeeee68d884c602037d70c9570eb376846c2178f7594225267f8ecde,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,387a5539480bad993b4d12314f81c4f70288b5e524f2a151c8fa09a6aa77472f,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,39c7464e745fa846ddd0b386c6893c6ca34ba20a205856f61e055fcb6b0a825e,threatfox,SalatStealer,"threatfox,exe,SalatStealer,stealer,upx",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,3a1d6c25cc101de57145b7fe8f6d98f211ac77490157dbee500b73a8adeb0838,threatfox,VShell,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,3b47193ffb34de4f7dd3a78eab3bf328705e1148621b014d424104337a161c1d,threatfox,SalatStealer,"threatfox,exe,SalatStealer,stealer,upx",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,3ddbb6e922afd643058f62e6bfc6cae728acf344fee8677bd5cf544f474b2f4d,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,407fb53e62d4ed0e2d043b60f0916ff77ef2b8fba3dc0f6594218a4877edb5aa,threatfox,SNOWLIGHT,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,41c282a8c13276e670939eaaaa572e45e2607bb62cf2a94bc875963008805909,threatfox,Mirai,"threatfox,elf,Gafgyt,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,43acd621c1c0db00833e754551656e9550d1a8cc8b13820abf60fe29d6203e7b,threatfox,Mirai,"threatfox,elf,Mirai",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,44b7dfcf55b0ea0f0b47fee7d242a7c47a6dc2c9f068500d9b531dd09a43fa3a,threatfox,Mirai,"threatfox,elf,Mirai",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,485760b18f5ffc956eb21ec4fb83bf3c155aa34e7659a6e9a33811afee5ed7d7,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,492785aa9581f5842a6478b16b216af3aa7207aaf3772fb09c9545e1da5eb0de,threatfox,SalatStealer,"threatfox,exe,SalatStealer,stealer,upx",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,4b943d7b1abf6e24865cfaccc659ad44c952b2cfec0d15ea6317e8ebc6d3fa1a,threatfox,Mirai,"threatfox,elf,Mirai",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,4feed588acc1396e2deeb1fc04f145cfca464ba7617dc3c1c9fe7dcc545d2d1d,threatfox,VShell,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,50f92ee9546fc51acb4fcfb2131eb6632325b687b4e0adbe42b28eaa1fb89329,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,53f936f52e704f01ca5e611809c0a41d9354922114d2c256d95c6270152b7e59,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,58479001308c208550c828ec58114e208a6876e69010296f8ac8d05e64f6f6b3,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,5b6d5d07fa787140e9721228eb615e2773030690b2286c5bcd3b626607f18e93,threatfox,SalatStealer,"threatfox,exe,SalatStealer,stealer,upx",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,5c54ede33db8a4af5c7574eb1cde60444ff3f6c3c742222139abaea3dc6bd6b3,threatfox,SNOWLIGHT,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,5e19775fb8f806d39b76ff1429ce20b73375b58d8fd2ec61c04756af3836dd14,threatfox,VShell,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,5fbd46e376797b75f5455775d0e62dcfdb30e81375c45fb20e0c31593a37da1b,threatfox,SNOWLIGHT,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,60506893295413b2143b10066d30f9b8f3cb13eeb3f90e4702097c30c390bcf0,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,61b39abcba45304694c81611e935bb4a1a196b46bc39bb9e5f77c36caebb19ae,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,62c5b21d57e9d8f77abbdf5b4275d7073bd509ef55a6de3bc52ae0d003674853,threatfox,Bashlite,"threatfox,Bashlite,elf,Gafgyt",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,6e90179c02b4766ffdc7bab877419b05c9a7465e7f01dd1c6795a763522cfd79,threatfox,Unknown Loader,"threatfox,CVE-2026-10520,Ivanti,TDGate",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,6ef27a778205b49344615af4c6983ebe2ac8fe89738eb44c202fdefb0fb40cc9,threatfox,Mirai,threatfox,2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,7061859151afce6026c564af8e6d06567b895912445ae7032c7de3a5fbfb45f4,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,73f27d682eb9dbb3037d1a765450e69a4fbe1b44bbde3b1da54abe4ff47a0464,threatfox,Unknown Loader,"threatfox,elf,Loader",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,753663572cfaad5b320de095c449f064f77d7c06bfddada9c6dd9cd59fd8324b,threatfox,Unknown Loader,"threatfox,Dropper,exe",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,765d78be9c09d393f6fa2d4360f709dd0d14b8f653f9afa48f0cfba63b9bc402,threatfox,Bashlite,"threatfox,Bashlite,elf,Gafgyt,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64,threatfox,Mirai,threatfox,2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,76c95a53067cf99758e11d0b0c7daf566a23de9bc20911c680f0bc83ab01c31a,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,77595ecb7d0b07d4fb335b8662ba2dd982d36c2a113eacdbc8229c2796bcd6ca,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,778c53804cfe3027f4556e866dc8a975845b1118c256c5df098b438a80726803,threatfox,NonEuclid RAT,"threatfox,exe,NonEuclidRAT,SheetRAT",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,7ba10a314348d6d7567a3b3697820d99fbb6d118dd5542a29d5ee97b7888a5fc,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,7bc6b89f89812fc713fe755bb119870035c216b883041a59a1d85e90ffc25491,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,7d34d93be25012c5d66aa1b0613e08e0bbea9dd7eeba3b59990272f95610926c,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,81cb70cc47fba5216f1a9119c1ec91bb0bc1f4c75cc795df909258d3dc1ddd02,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,8852e0016df9f90868ee23d2dfea87e49a0fb89cb925d9e8d9bc0988df819cbb,threatfox,SalatStealer,"threatfox,exe,SalatStealer,stealer,upx",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,8a5bac2c5bfb07b3b2729bc100ac2b62e9bfb277644a1fa6d887d2de952c96c6,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,8a75ab59cf7efbeb980c04db8b87483ed1b8043a6d7f600ad5e0e31608c43d13,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,8b23adb9d7650c82386d68fd0264a70d986dda3f153b5057b9ec964ee9c5a46c,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,8d38b11efa639134649b6819685a4e1ec5235de4ed09778ba11740faddc03b0a,threatfox,VShell,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,8d7be4abcb97d2edb6850501e2ae65dbedb792e77dccd6a14f49aadf9d684c41,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,936ef3da89e0adfdea5dfd61c6ffacd7ddb4e118a3bf95b1f1c96a4cd4fb813f,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,939bacb6e74b920b834f0e3564fcbe860aeabc48cb522d68f34607f656d41813,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,9577941586c842c845d457313240e7997fd8ea8e2eec3ad5569a8feb208263e5,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,95e666690fcdfecc1800c357bd5eb7a7f10311d5055ac994f136be311ab787a8,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,9665a120423fc3a866847375402fac4dcd7fa4efa051e5b6a702ac2497883ef2,threatfox,Mirai,threatfox,2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,993bb703534d027dfe36933822562a15500d943a4a98582d869a7d6261c2749f,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,99647ec802196c42f57b8f8518028592e68c832e081b504cdfad9de69c868fc6,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,99df904a471b2db74f25e17709969e5465b2f04281a6da3e9636bba8d2410c17,threatfox,Mirai,"threatfox,elf,Mirai",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,9ae0bfec6c4c501a05e942f45eb380f0dd2fde676743dd0004c82882c112635d,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,9e5b93d3095f577136717e6aae8b51fea50d66ef9123eedccfc23b8faebf6d6c,threatfox,Coinminer,threatfox,2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,9e99ea23c13fb1f880a9880f05b0e4d9318f631e5bc349c3b2ce306165e15c8c,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,9f6718521add64726fc04d051fa8c7b9a00ea0e9bafcedecd767f2f71454a988,threatfox,SmartLoader,"threatfox,Github,Loader,lua,SmartLoader,zip",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,9f759c8747471600f506cece7acea88c750c8dc37da9777768f6bbe55fc34524,threatfox,VShell,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,a1cdc11d48782ba51311889214e790ad86852f10649a53df0e22d02c696bb9ba,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,a3d67ef808497bf48930be418667da0c2d815431213ff9ca4304be6669f26801,threatfox,CloudEyE,"threatfox,CloudEyE,exe,guloader,Loader",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,a7be54b7ee5b7d69de059800e9eaff5e99f68172fbe9bfdc64d6a4e6db244190,threatfox,SmartLoader,"threatfox,Github,Loader,lua,SmartLoader,zip",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,aeccad91bb2888ff379cb0ab114a5ebc07701660bf6c47927a2a1bae6eb89ee3,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,b248aa11697b6c978c8dfac8be9c441d6aec7f968af2a4c316780ccba96f584d,threatfox,SalatStealer,"threatfox,exe,SalatStealer,stealer,upx",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,b83fbab2c10204040b9f9f8e50d42c2a477ed6fa51febf00f73c5ed8b94c10dd,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,b87cbc10e331d2a9f1265d4d912f2df99d856df1f1a9c4cec2633e86d03476d1,threatfox,VShell,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,c75e88a2e2c754165bcbc1a6edbd99ffbbb5edea85cc4a36ec9ed6a2b9c83f21,threatfox,VShell,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,cacd3bcc5c397d82545b49c22f8f831aee6976893bd977d8a827a67e9781df9b,threatfox,Vidar,"threatfox,exe,upx,Vidar",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,ce23335488686504739da1a00270b71a444ab4165b341fda116ff08d705bf914,threatfox,SNOWLIGHT,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,cf14e20a5221c18e7480bb14e95a522687f6dedd5eb68119fbfb1f2a7ce93e22,threatfox,VShell,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,d7f3d36239a7fa122a2fb49646a12faa16471391f74707407546e202efd1a869,threatfox,SmartLoader,"threatfox,Github,Loader,lua,SmartLoader,zip",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,da61814fb935652f0c7207f3c043162309eb88eb682108a3a3724da19255f7cb,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,dfa33d362a0ad5806ba23fe50d1864117b89ea5bb49a3334c12a6b0b082b6c68,threatfox,SalatStealer,"threatfox,exe,SalatStealer,stealer,upx",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,e11d5220137527a2553482437a120d44a1134b3ee80cda5f125543234ef59bfe,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,e26acaffb6aeab03932614900dc5203c766ecaf90d7d5c92da1b2325bffdad51,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,e83eb1fc0c4d2e1d3062c0e452c317392914acec5d7d9f88a491f001dc2884c1,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,f006aaa1017115b9d41f28b3187671fabfbdbde131c75732348c4276e2f09373,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,f65b95003379ee8e8a6eaeef1405af5d5d7282ab93567b4622d917a5d9f1335d,threatfox,Unknown malware,"threatfox,CVE-2026-10520,Ivanti,TDGate",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,f8813823c64b6221268a2a8941523a9809172a926126136248c5d4bc726e7274,threatfox,Unknown RAT,"threatfox,ConnectWise,docusign-lure,phishing,rmm,ScreenConnect",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+hash_sha256,fe0a48bd4eae2d93f90c1173fccc0e82d4a0ac803f3dc3ea3a0f47b3c714cd66,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,ffe6a805dd7dfb2ba4c5b4280c4971f258d047f11c9772f9eb015237f767bd4d,threatfox,SalatStealer,"threatfox,exe,SalatStealer,stealer,upx",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+hash_sha256,fff5cc6c1015332b484df0576fa9808e91b2a8e9d6bdf758564f33a8dd753d42,threatfox,Mirai,"threatfox,elf,Mirai,Torii",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,102.220.160.24,threatfox,Unknown RAT,"threatfox,ConnectWise,docusign-lure,opendir,phishing,rmm,ScreenConnect",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+ip,103.106.191.29,threatfox,Unknown malware,"threatfox,SnoopyTriage",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,103.12.149.69,threatfox,ValleyRAT,"threatfox,RAT,ValleyRAT",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,103.83.87.3,threatfox,XWorm,"threatfox,XWorm",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,103.85.227.64,threatfox,AdaptixC2,"threatfox,AdaptixC2,drb-ra",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,104.200.72.33,threatfox,PureRAT,"threatfox,drb-ra,PureHVNC,PureRAT,RAT",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,106.12.35.83,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+ip,107.172.92.146,threatfox,AsyncRAT,"threatfox,asyncrat,drb-ra,RAT",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,112.213.108.23,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,112.213.110.225,threatfox,VShell,"threatfox,Vshell",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,114.132.204.165,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,117.55.229.137,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+ip,117.72.26.79,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+ip,128.90.102.151,threatfox,DCRat,"threatfox,dcrat,drb-ra,RAT",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,128.90.105.218,threatfox,AsyncRAT,"threatfox,asyncrat,drb-ra,RAT",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,139.224.202.214,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,139.224.211.87,threatfox,VShell,"threatfox,Vshell",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,139.224.67.151,threatfox,Cobalt Strike,"threatfox,CobaltStrike",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,140.210.15.208,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+ip,140.235.16.223,threatfox,Vjw0rm,"threatfox,Vjw0rm",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,144.172.99.150,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+ip,148.66.19.51,threatfox,ValleyRAT,"threatfox,RAT,ValleyRAT",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,149.104.27.46,threatfox,Cobalt Strike,"threatfox,CobaltStrike,drb-ra,modat",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,149.28.147.172,threatfox,PureRAT,"threatfox,drb-ra,PureHVNC,PureRAT,RAT",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,149.60.21.173,threatfox,Unknown malware,"threatfox,drb-ra,Mythic",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,149.88.94.121,threatfox,Unknown malware,"threatfox,SnoopyTriage",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,151.242.170.26,threatfox,PureRAT,"threatfox,drb-ra,PureHVNC,PureRAT,RAT",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,151.243.176.118,threatfox,AdaptixC2,"threatfox,AdaptixC2,drb-ra",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,151.246.186.15,threatfox,VShell,"threatfox,Vshell",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,154.12.28.138,threatfox,Cobalt Strike,"threatfox,CobaltStrike,drb-ra,modat",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,154.201.68.245,threatfox,Unknown malware,"threatfox,SnoopyTriage",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,154.222.16.172,threatfox,Unknown malware,"threatfox,SnoopyTriage",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,162.35.125.177,threatfox,Evilginx,"threatfox,drb-ra,EvilGinx,EvilGoPhish",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,165.154.227.78,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+ip,170.64.164.97,threatfox,Potassium,"threatfox,botnet,DDoS,Mirai,potassium,woof",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,173.211.106.209,threatfox,Remcos,"threatfox,RAT,RemcosRAT",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,186.240.202.70,threatfox,Unknown malware,"threatfox,SnoopyTriage",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,188.253.28.5,threatfox,Unknown malware,"threatfox,config,ConnectWise,RMM-abuse,ScreenConnect",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+ip,193.24.211.228,threatfox,Unknown malware,"threatfox,drb-ra,Mythic",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,196.251.69.248,threatfox,CECbot,"threatfox,Android,botnet,CECbot,DDoS",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,199.91.221.181,threatfox,PureRAT,"threatfox,drb-ra,PureHVNC,PureRAT,RAT",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,2.27.160.45,threatfox,Unknown RAT,"threatfox,DarkCoreRat,RAT",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+ip,204.194.50.61,threatfox,Sliver,"threatfox,c2,sliver",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,217.69.174.52,threatfox,XWorm,"threatfox,XWorm",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,3.12.57.9,threatfox,Havoc,"threatfox,Havoc",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,31.57.38.232,threatfox,PureRAT,"threatfox,drb-ra,PureHVNC,PureRAT,RAT",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,42.193.142.119,threatfox,Unknown malware,"threatfox,ARTEX",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,45.141.235.60,threatfox,pupy,"threatfox,drb-ra,pupyRat,RAT",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,45.198.224.146,threatfox,CECbot,"threatfox,Android,botnet,CECbot,DDoS",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,49.235.131.10,threatfox,VShell,"threatfox,Vshell",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,54.196.27.211,threatfox,Unknown malware,"threatfox,drb-ra,Mythic",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,64.227.166.223,threatfox,VShell,"threatfox,Vshell",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,8.211.173.252,threatfox,Unknown malware,"threatfox,Covenant,drb-ra",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,82.157.178.75,threatfox,VShell,"threatfox,Vshell",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,82.158.225.237,threatfox,Unknown malware,"threatfox,SnoopyTriage",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+ip,92.119.178.59,threatfox,VShell,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+ip,95.133.167.210,threatfox,AdaptixC2,"threatfox,AdaptixC2,drb-ra",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+url,http://103.244.172.178:44169/Mozi.m,threatfox,Mozi,"threatfox,elf,IoT,Mozi",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+url,http://103.99.196.2:43299/Mozi.a,threatfox,Mozi,"threatfox,elf,IoT,Mozi",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+url,http://183.191.25.118:56014/Mozi.7,threatfox,Mozi,"threatfox,elf,IoT,Mozi",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+url,http://196.189.101.82:44482/Mozi.m,threatfox,Mozi,"threatfox,elf,IoT,Mozi",2026-11-20 04:01:02,2026-11-20 05:22:28,85
+url,http://45.198.224.89/arm7,threatfox,Mirai,"threatfox,ARM,CVE-2024-3721,elf,Mirai,tbk-dvr",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,http://92.119.178.59:8988/?a=a32&h=92.119.178.59&t=ws_&p=8988,threatfox,VShell,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,http://92.119.178.59:8988/?a=a64&h=92.119.178.59&t=ws_&p=8988,threatfox,VShell,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,http://92.119.178.59:8988/?a=l32&h=92.119.178.59&t=ws_&p=8988,threatfox,VShell,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,http://92.119.178.59:8988/?a=l64&h=92.119.178.59&t=ws_&p=8988,threatfox,VShell,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,http://92.119.178.59:8988/?h=92.119.178.59&p=8988&t=ws&a=a32&stage=true,threatfox,SNOWLIGHT,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,http://92.119.178.59:8988/?h=92.119.178.59&p=8988&t=ws&a=a64&stage=true,threatfox,SNOWLIGHT,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,http://92.119.178.59:8988/?h=92.119.178.59&p=8988&t=ws&a=l32&stage=true,threatfox,SNOWLIGHT,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,http://92.119.178.59:8988/?h=92.119.178.59&p=8988&t=ws&a=l64&stage=true,threatfox,SNOWLIGHT,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,http://92.119.178.59:8988/slw,threatfox,SNOWLIGHT,"threatfox,cPanel,CVE-2026-41940,SNOWLIGHT,Vshell",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,http://cdn.876553.xyz/Q1fc8a9OCb7AsC6f/dl/07f3bc3b-859c-46fd-8dcf-86c95205fd2c,threatfox,Unknown malware,"threatfox,CVE-2026-10520,Ivanti,TDGate",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,http://cdn.876553.xyz/Q1fc8a9OCb7AsC6f/dl/c291b941-d316-415c-9dff-66e4896c0bd4,threatfox,XMRIG,"threatfox,CVE-2026-10520,Ivanti,TDGate",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,https://alamosha.homes/,threatfox,WARDENStealer,threatfox,2026-11-20 04:01:02,2026-11-20 05:22:28,85
+url,https://barterry.skin/,threatfox,WARDENStealer,threatfox,2026-11-20 04:01:02,2026-11-20 05:22:28,85
+url,https://cdn.876553.xyz/Q1fc8a9OCb7AsC6f/dl/5b5ca3cb-434f-4492-a0f7-11c0b2e0f358,threatfox,Unknown malware,"threatfox,CVE-2026-10520,Ivanti,TDGate",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,https://cdn.876553.xyz/Q1fc8a9OCb7AsC6f/dl/a855dd05-bc66-4c6a-bf00-2d817e006dde,threatfox,Unknown malware,"threatfox,CVE-2026-10520,Ivanti,TDGate",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,https://cdn.876553.xyz/Q1fc8a9OCb7AsC6f/dl/c059b6f8-fbbc-4e69-b0d9-b6e590c1a7a3,threatfox,Unknown malware,"threatfox,CVE-2026-10520,Ivanti,TDGate",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,https://cdn.876553.xyz/Q1fc8a9OCb7AsC6f/dl/c059b6f8-fbbc-4e69-b0d9-b6e590c1a7a3?a=arm64,threatfox,Unknown malware,"threatfox,CVE-2026-10520,Ivanti,TDGate",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,https://cdn.876553.xyz/Q1fc8a9OCb7AsC6f/dl/c9789d27-0a43-4347-917e-33e496ccb2f0,threatfox,Unknown malware,"threatfox,CVE-2026-10520,Ivanti,TDGate",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,https://cdn.876553.xyz/Q1fc8a9OCb7AsC6f/dl/de69f8c3-abe0-4f6c-b99b-307a189465ee,threatfox,Unknown malware,"threatfox,CVE-2026-10520,Ivanti,TDGate",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,https://cdn.876553.xyz/Q1fc8a9OCb7AsC6f/wsGate,threatfox,Unknown malware,"threatfox,CVE-2026-10520,Ivanti,TDGate",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,https://cdn.876553.xyz/Q1fc8a9OCb7AsC6f/wsTunnel,threatfox,Unknown malware,"threatfox,CVE-2026-10520,Ivanti,TDGate",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,https://laperoter.rest/,threatfox,WARDENStealer,threatfox,2026-11-20 04:01:02,2026-11-20 05:22:28,85
+url,https://miryyzajy.vip/,threatfox,WARDENStealer,threatfox,2026-11-20 04:01:02,2026-11-20 05:22:28,85
+url,https://morkovka.cn/qqkb/,threatfox,SalatStealer,"threatfox,quic,RAT,RUST,salat,stealer,upx,webrat",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,https://rezynjyy.vip/,threatfox,WARDENStealer,threatfox,2026-11-20 04:01:02,2026-11-20 05:22:28,85
+url,https://sa1atik.cn/qqkb/,threatfox,SalatStealer,"threatfox,quic,RAT,RUST,salat,stealer,upx,webrat",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+url,https://setorderta.rest/,threatfox,WARDENStealer,threatfox,2026-11-20 04:01:02,2026-11-20 05:22:28,85
+url,https://sigmon-zz.mom/,threatfox,WARDENStealer,threatfox,2026-11-20 04:01:02,2026-11-20 05:22:28,85
+url,https://tyroky.cc/,threatfox,WARDENStealer,threatfox,2026-11-20 04:01:02,2026-11-20 05:22:28,85
+url,https://www.dropbox.com/scl/fi/u1gx3ts243xxoya048jbr/bundle.zip?rlkey=3ronxf88is6brzcriugpat5ld&st=7wz97uxi&dl=1,threatfox,Unknown RAT,"threatfox,dropbox,ens,etherhiding,IRAHook,java,minecraft,RAT,stealer",2026-11-20 04:01:02,2026-11-20 17:30:20,85
+ssl_sha1,1fcc1376b18842bcd8ce9078371843dc9b55ea2b,sslbl,FunStealer C&C,"sslbl,2026-11-19",2026-11-20 04:00:59,2026-11-20 17:30:20,88
+ssl_sha1,46cd17fe66d9e90a333b3d8544ad6e1ac3ced580,sslbl,FunStealer C&C,"sslbl,2026-11-19",2026-11-20 04:00:59,2026-11-20 17:30:20,88
+ssl_sha1,47f4d9c4606c19ddd4c053e84b27e76965058fe8,sslbl,FunStealer C&C,"sslbl,2026-11-19",2026-11-20 04:00:59,2026-11-20 17:30:20,88
+hash_md5,046c0fb63826770ab7a28d5f6c5c078e,malwarebazaar,VShell,"exe,VShell",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,04dbdfe1e29217d2dad910d3a2256d39,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,0524dd42846931ab852b8b87fa3eeee7,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,055dc9023191a4b7366fce27a0fd4f3e,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,05f15ff777e21c2a692c23f1b08d6f18,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,0d35e8bad47a00bc15463dd796df98c2,malwarebazaar,Mirai,"elf,Gafgyt,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,0ddc8bf9d81278181a9559b9b08c8cad,malwarebazaar,VShell,"exe,VShell",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,0e8968ec52ebb0cf841f12a781ab760c,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,0f9a032d4b225e843bf5c786ce4a9c45,malwarebazaar,WARDENStealer,"divinex,exe,stealer,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,116838ca541879e0b563bae9273f6b91,malwarebazaar,RemusStealer,"exe,RemusStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,12345c22eda6bfeb707248d1ca49d70e,malwarebazaar,VShell,"exe,VShell",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,12bff3fbde2d8fff8e06f8069743fc91,malwarebazaar,WARDENStealer,"exe,stealer,upx,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,157dfd8df7fcccc68d4f121476522431,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,1595f6b60a877068daddc3b4f1d14b13,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,181ecfe759f48a8500f6c80a007ae126,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,18b92c8d87f358b921eedbf033283954,malwarebazaar,exe,exe,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,1b4b862e3c2ac0cbd73c4586d0c7b85c,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,1f3debd82ac078623a9373f93fbc0bfc,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,1f9f69678622ba6e8312afd4cae38e00,malwarebazaar,WARDENStealer,"exe,HYPERFINEX,stealer,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,21758c10704836f08c8b69aa029d8a47,malwarebazaar,WARDENStealer,"exe,upx-dec,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,22177419cea92540f41551edbd170892,malwarebazaar,ValleyRAT,"exe,RAT,ValleyRAT",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,22ae801b9aec8edc9920a35ebe612f75,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,24697de1f2a801ebf575b05bf07706dd,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,277c4a8812770ac8ad326eeee333aee7,malwarebazaar,ConnectWise,"ConnectWise,exe,rmm-abuse,ScreenConnect,signed",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,2ca8c05bc25ae0441c62078e037de0b7,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,2e746a9d9f788b9d05ad5a9b36f734e8,malwarebazaar,VShell,"exe,VShell",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,2e9cad46d59b35a6f4f6e6fb21c4a3e4,malwarebazaar,WARDENStealer,"exe,stealer,upx,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,322efbd52bed72b509e8e8030a0cce4f,malwarebazaar,VShell,"exe,VShell",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,32b9be4f19f223eeefda0ac209280fde,malwarebazaar,Prometei,"elf,Prometei",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,342e996c0c9982041b2905068c4dd587,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,358cb1d198c9370cc9bc5863baaed9d1,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,36ccafbcb9fb0389ddbcac68175130f2,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,427848a8d0350b4747b2425c2b4eba66,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,4479d955f4e5e356344da95ee43c04e8,malwarebazaar,RemcosRAT,"hta,RAT,RemcosRAT",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,5266cbfa5b41e228dac7809ebcfa776f,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,55fc7cdd8f7d7b5b214e1a76a768a254,malwarebazaar,RemusStealer,"remus,RemusStealer,signed,stealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,58820a1b72462764a0323939dabb2a99,malwarebazaar,exe,"exe,signed",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,59c3b93ae013b0ac73748d4e9525cb99,malwarebazaar,CoinMiner,"CoinMiner,exe",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,5a27c20afe7ac7c442aafb2ad9436f48,malwarebazaar,WARDENStealer,"exe,upx-dec,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,5ba5a8a98a0a94ad0e0f0a15fb1292f6,malwarebazaar,Prometei,"elf,Prometei",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,5cbb0eacb0daf8b5ae21af319372699b,malwarebazaar,WARDENStealer,"exe,HYPERFINEX,stealer,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,5d118c6d0d3b2d00a0c9e534112ebfc5,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,60e8a45500131b5a22e37d9bbff12109,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,61a42c03c4a20323bb1d504fe56b319e,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,62a5be761adc25255ae608a133162490,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,6521904a2eba91afcb70b275d4eb1065,malwarebazaar,WARDENStealer,"exe,stealer,upx,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,65e075869ead313e133338d6e937de3d,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,6779a54282679cd8930f7d6d3ed82625,malwarebazaar,exe,exe,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,68682cf64b5f9f1aa98538aaf3d064df,malwarebazaar,WARDENStealer,"divinex,exe,stealer,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,6a017395def8b91097c1edb934dd74b8,malwarebazaar,exe,exe,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,6bbb97d970596413ee3b473e9d6d925e,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,708a52388855ff618116cf9da88a6e68,malwarebazaar,JOMANGY,JOMANGY,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,734dcd5450c155914789682c4576002f,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,826731cc5ef5e1e4d9e70f651d644e12,malwarebazaar,elf,"cowrie,elf,honeypot",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,84563585801b854517857f14e266efaf,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,89496013939450cf92c4613dfcc56642,malwarebazaar,WARDENStealer,"exe,HYPERFINEX,stealer,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,8a2c0c7ec349d6c15928f4814a01dce5,malwarebazaar,Mirai,"elf,Gafgyt,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,8a8498364dee138d5770d3f189862881,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,8f657e196088bc9f0df438a887442da8,malwarebazaar,WARDENStealer,"exe,upx-dec,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,8f8bf8695da1a320c68f2d77c21f163d,malwarebazaar,Mirai,"elf,Mirai",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,95cdf4759684887b34ff76a44d73821c,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,96048715473369850198a1ee608b5bf6,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,96c0c960d32bff812ffc201b28ff28e1,malwarebazaar,exe,"exe,signed",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,9a809d824bcee2f42720fcb039ae0425,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,9a9c7994da9736f932c2f955b4e11105,malwarebazaar,exe,exe,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,9d1a95c0fa11c1442e3c8b0a53d428a1,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,9f8ec5c2f527c200b5daf4236ed0fa91,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,a05b80018ae3be30d3f492234b70e3ea,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,a13a4f9ead76114f297c12251dead222,malwarebazaar,exe,exe,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,a27d476dbd5e84dd2954f0f1774a79d6,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,a8ea9b7f48dced56751236c870d2036b,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,b4ab5643b09ce5777364f1874818afa3,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,bcf3dec967f4bc026bcc9ba5f75f6333,malwarebazaar,exe,exe,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,c1106fce75af3acb811217dc927ff98e,malwarebazaar,RemcosRAT,"hta,RAT,RemcosRAT",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,c2be3db6966bde84de9545d97669d36a,malwarebazaar,WARDENStealer,"exe,upx-dec,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,c4935d28d9e78a2a21823d83a4c9794b,malwarebazaar,exe,exe,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,c690a4913395980364328d6283ee0dca,malwarebazaar,WARDENStealer,"exe,upx-dec,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,ca2905113e74c51f463a8aef7d910848,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,cc93f5f7a322db1f3cac685047e2d46c,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,cdd1bf323f28af1618671ab825f1ab1f,malwarebazaar,AsyncRAT,"AsyncRAT,exe",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,cef25fc2a5677b209736c6a328763d88,malwarebazaar,exe,"exe,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,d131b97e45f0da56a98187ebc91b093e,malwarebazaar,exe,"exe,signed",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,d1c23949bf4ff61bfaef0a83fc4d39ad,malwarebazaar,RemusStealer,"remus,RemusStealer,stealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,d47d1dd2201fd1146973ff0d5645ea08,malwarebazaar,WARDENStealer,"exe,stealer,upx,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,d76e6031efe2aad7a5b3d65f671e1811,malwarebazaar,apk,apk,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,df87ba7751bef5ad406806ffafeb8c96,malwarebazaar,Vidar,"exe,upx,Vidar",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,e0e505505e18e8688552a77f0b68bc89,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,e2bca1efa19aa1232be98c616bcc50e9,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,e31b0f78e9c76504a51a9066c7415637,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,e403b4938d653a7ba00c6c00b48800cf,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,e4caa34707433092b061adcbf89bb2e5,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,e554d1c6610be5fac77ef0cece5dfff7,malwarebazaar,exe,"exe,signed",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,e8f83b7c3e9279fd85d5b626b597587a,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,ebb4dc8aa7f8280b402457e71d5cc195,malwarebazaar,WARDENStealer,"exe,stealer,upx,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,f1c62a0c04525312a06ce50a86cee2b1,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,f314d417424f53d06999bfd1ff378526,malwarebazaar,ConnectWise,"ConnectWise,msi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,f56e85c76121145fd7decefc472d2a9a,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,f623208a669875cbfe36c457001bd5e2,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,f623c5c9bb006fab52f764e482495146,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_md5,f7af8b23d07d50b501ca0e79d134891c,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,00d00d195b1223603d7946a7efdee62c2f23cf838dd1c8367e8df8274e44d0b1,malwarebazaar,WARDENStealer,"exe,upx-dec,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,050c3478d27d60e75a1d403c32ab1a1d5809c3f77bf9d898799f5aaead083686,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,06c9db8f18d7deeab189c2e5f0825761492c9640f1b65092418f1572b1ce813f,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,0abeb85a452add358af126dd87d1a38addd406e911905fbbe9a3856894c07bc8,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,0cdec30a34f3371414b2b2ff6526987fb4d7b28484eaf36e4a8b368b6d014ae0,malwarebazaar,WARDENStealer,"divinex,exe,stealer,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,0e75cbd2825e00c21c83af0624a1107a7fee00fa66c79418f1651d819fb26602,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,0f68bebc56a491a29e49ee246b0ac47fbe9092507fbd75fcfaed88d7854eaed5,malwarebazaar,RemusStealer,"remus,RemusStealer,stealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,11184d09fa9b8660dce759666b035a6bffa2c315608ad0e16cc0da4f7fea069f,malwarebazaar,VShell,"exe,VShell",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,12b4c693cd90a1b7fdacae55e0fe548b64a9f7c481c51e107a20c1139f612efa,malwarebazaar,WARDENStealer,"exe,HYPERFINEX,stealer,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,14670c087929c805d2920da16affe25175b27acfcffaee9a33faafde3d3d8a8a,malwarebazaar,WARDENStealer,"exe,upx-dec,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,18cad9bd6f9bbc0e5563a206f8afcef44529a8f294ac20b8eea050704b523cd4,malwarebazaar,RemcosRAT,"hta,RAT,RemcosRAT",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,2120cd6aae081063d7f2f3709feaaf9cfc594fb50d3c2cebd431f0b4a03212c4,malwarebazaar,AsyncRAT,"AsyncRAT,exe",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,24a9d2ff8b45f59fe61ae99c5fa7aba398234310603e9c754225a83c7985a16b,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,255c834be134ec714ec41b7b97d308019b31965e830eb3e66930ff1afca687d4,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,27a1cdd9653a11b8a79111da92a02b95afa146d1adf5b3387abe2a0d639a8e2b,malwarebazaar,JOMANGY,JOMANGY,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,2a6d8f9830694fb4aa8c43fee5ee7ba95b6f3614c04559a086ce8aacd5419156,malwarebazaar,exe,"exe,signed",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,2c02e45f7e49c56ae144b9f0609469965a4364f37455d459e36cafc4d979ca22,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,2c35267958bcb8aaeaf7c3794150b422a8229726247d0e2024951cbb3bfb4973,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,2c9c1762b78ce6fc6634277fe07ea16cffb6e8ba97b8574aa44fa74b7c4bb743,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,2cba4abda1cff59c1a41d302d0f9ecf0a358f1b00b1fd44c3b4705d0451b7b5f,malwarebazaar,Mirai,"elf,Mirai",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,2cf73d6ed481e65eb92080adeea4897f3bf402cab63455bc3ac4fdb6b9b975ef,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,2e83f442d6fc9debe2f26a0ed9c2b3b60a45c32395b52af712abb74a38f8fe53,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,3142666a0f535665d8da97fff23eb41b09c5b4d7614500a8fd684845740f4aad,malwarebazaar,WARDENStealer,"exe,upx-dec,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,31ee1518da5c18060dbcf259b6e19fc4a2821a8ab011f10f5f623ca3f8606bf5,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,32cd46ae69a4066019ca40ddb5839df70aeb702ab8591f98de18a0bd2005fa3d,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,3566e4ecfeeee68d884c602037d70c9570eb376846c2178f7594225267f8ecde,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,387a5539480bad993b4d12314f81c4f70288b5e524f2a151c8fa09a6aa77472f,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,39c7464e745fa846ddd0b386c6893c6ca34ba20a205856f61e055fcb6b0a825e,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,3b47193ffb34de4f7dd3a78eab3bf328705e1148621b014d424104337a161c1d,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,3dea5007fd46e506b489a919fa4d427d340c80ab43ac3ea18782bb4f2c438cdc,malwarebazaar,Prometei,"elf,Prometei",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,4184f003348387c3763d70caee2f39b953da386c159c444884eb7388f11a62d9,malwarebazaar,WARDENStealer,"exe,upx-dec,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,41c282a8c13276e670939eaaaa572e45e2607bb62cf2a94bc875963008805909,malwarebazaar,Mirai,"elf,Gafgyt,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,492785aa9581f5842a6478b16b216af3aa7207aaf3772fb09c9545e1da5eb0de,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,4bd8177d16a0ee6cc577433b6658fdf03b62b36c1196e9b2b9f871f0ed1cf4c1,malwarebazaar,VShell,"exe,VShell",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,4d92504e0218b627ae662a2bbb9bcebff7e6f5f05b0ff6a0dda2826608882e85,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,50f92ee9546fc51acb4fcfb2131eb6632325b687b4e0adbe42b28eaa1fb89329,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,56b6923c1da313b684dd9576e4cfa1d2177a7f0f5554d487991f40c3767e8883,malwarebazaar,WARDENStealer,"divinex,exe,stealer,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,5823324e906310a857a450a7675f5f3eba37b8381eac017f041c34e4e4d96c27,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,5b6d5d07fa787140e9721228eb615e2773030690b2286c5bcd3b626607f18e93,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,6020324c055308b0f31f92fbcd5b57bf1be8c817115b00037b3d9f2ebc39841a,malwarebazaar,VShell,"exe,VShell",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,60506893295413b2143b10066d30f9b8f3cb13eeb3f90e4702097c30c390bcf0,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,66058a5061f9c34ab7c2887b69041e3d1967006dd10b3b7987af02fa947e68f1,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,6c0d16da3fc1d1141c387494051d2c04d9cc15125c5c2f90ada9c6565fc22927,malwarebazaar,exe,exe,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,6c8e44422e6587609d25c38ee8faba86c69a80a68b7b558786c399cf51c5aaa9,malwarebazaar,exe,exe,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,6d4fd2ba4481a2c2422e85c577cb15c1f4216a3fd49eabb6fc1188cce9626c0e,malwarebazaar,exe,"exe,signed",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,6e3dd82e82b476fb2c7ab86e3c3d0a7281e0e12b6c210a233c4ae5dd9bb73e5f,malwarebazaar,exe,exe,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,711909b5378cbd9e662835fe21454ea5ecebda8e2b80820eb89d2b393f105d9e,malwarebazaar,exe,exe,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,71555c59b95d40d899cf05f548d8e0e3d6078f378466b3fa9dbc58cc705bb320,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,765d78be9c09d393f6fa2d4360f709dd0d14b8f653f9afa48f0cfba63b9bc402,malwarebazaar,Mirai,"elf,Gafgyt,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,7709f99b1eadd922e479d9a39933a46c5324f9619fae324a08fb127556206d44,malwarebazaar,elf,"cowrie,elf,honeypot",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,8031c08c888042399871e0cfa621715a40141baeda484a0d80e96d32d8390609,malwarebazaar,exe,exe,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,83acf273b7e1cf9a55cbf92054143906c6385d68abf79579147b201337bd65e8,malwarebazaar,WARDENStealer,"exe,HYPERFINEX,stealer,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,84eb16231866f4630eabb27ba35a9f5cfaf0027b4f53a7ba8065572ab62e55df,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,86b3e3ef50e962e7b91e4d77365f746e60140f8d9c31eee6672037cc8be31ffb,malwarebazaar,exe,exe,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,87c58d10b30ca81ee9a5b1fc504a9106dda6c2876661d739a2d8db3658a4c698,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,87ee5bb83257199c30758dd61e71ea8d32f4c2d972e56006482a34aa155b4a77,malwarebazaar,VShell,"exe,VShell",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,87f5ed0ef0755ad87223df1584c330d9be872cf9b559d5fdba5f2f3bfb2eedff,malwarebazaar,RemusStealer,"exe,RemusStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,8852e0016df9f90868ee23d2dfea87e49a0fb89cb925d9e8d9bc0988df819cbb,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,89c6202743cab0ce41c6b2a08481a1deac55945eadf2f626cd6b22ee030ecb81,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,8a75ab59cf7efbeb980c04db8b87483ed1b8043a6d7f600ad5e0e31608c43d13,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,9062a77124083a58f19fb6e37e8005f2e07794913607510e7206d4f3fffb6423,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,939bacb6e74b920b834f0e3564fcbe860aeabc48cb522d68f34607f656d41813,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,993bb703534d027dfe36933822562a15500d943a4a98582d869a7d6261c2749f,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,99acb253a5d5c4640fc0e75b5b1a15d31b78cfaea8c1761445b56eff533c6ad2,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,9ae0bfec6c4c501a05e942f45eb380f0dd2fde676743dd0004c82882c112635d,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,9e3ed84b69ab04fa39b8218997cc14c3d429c895f66fe4550487ec0ba289ce99,malwarebazaar,ValleyRAT,"exe,RAT,ValleyRAT",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,a02c0a7ce0ba7a6ebacc2297c89784b8acc1e9c43337ebb50bdbb4a95b150280,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,a0daf20329a0c9085a4d54b09737dea44535ee76f3e53530285bd3c509afb7b0,malwarebazaar,WARDENStealer,"exe,stealer,upx,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,a467eb16e45b76c6288cc504f08f7ce70ba6598448dfe4311a5d0dc45783d6e4,malwarebazaar,WARDENStealer,"exe,upx-dec,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,ab6d56fbb84f2a0ec4907c4ce75c5d5d79181c5a4a5554e5054460f826818bf2,malwarebazaar,CoinMiner,"CoinMiner,exe",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,b10f8397ef57e03d16f74cc271a020b08c930e35ff3f5a07ef35a6c209df1f6c,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,b248aa11697b6c978c8dfac8be9c441d6aec7f968af2a4c316780ccba96f584d,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,b2b7f9c8d0516445eb3bc934a034e326a09fa8108777bfa479ccb07ad2bb6d16,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,b5d26b8e0d13561a330ec71e2159ad1ae310b4d5269037f72380c06f718bf84a,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,b619b663dde2b68e2a7c407460f0aaa7eee96e84ccfa57a81830dc5079b07329,malwarebazaar,WARDENStealer,"exe,HYPERFINEX,stealer,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,bb8cc76e6d0066049a1bd78521a727964fc599f662c5e93b0d9107d14f46695f,malwarebazaar,Prometei,"elf,Prometei",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,bed457d40a5f0bce711b5764377e350c7f5550e30eb93f93ed3239c78280ecde,malwarebazaar,exe,"exe,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,c446c1b2e5c1e664c73bfff1bcf5615f1248a9bac28b4d9523adf1d005a62adb,malwarebazaar,WARDENStealer,"exe,stealer,upx,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,c4ce670cc1619043eb0a5e3557cf00487d892ea7976fc8febf95b0dfb10a2747,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,c6a9a7570e824d333a3296df86b22a81f38797a37c7b39ecff7a592090371d7c,malwarebazaar,WARDENStealer,"exe,stealer,upx,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,c8de2c9dad5ef83cf055fab9a7720f7fc838e94bf99d55152254152298857627,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,cacd3bcc5c397d82545b49c22f8f831aee6976893bd977d8a827a67e9781df9b,malwarebazaar,Vidar,"exe,upx,Vidar",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,cc14be93d074e6cb78d9703ea7982f673c89e6e62a4922a395c93978af707a34,malwarebazaar,RemusStealer,"remus,RemusStealer,signed,stealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,d1e1b6fd227bc6ae2c1e078b6daa3398723e0d086df52781226135027897dd7a,malwarebazaar,RemcosRAT,"hta,RAT,RemcosRAT",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,d22f2103a6d185572e4b4f71e7e8592aa4ee1ca18e40fd1bb1e3e0f24c1354e9,malwarebazaar,ConnectWise,"ConnectWise,exe,rmm-abuse,ScreenConnect,signed",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,de201f8341cb13889087ee3a8c233a6097b9773190ab87e30047fdf54ceb6289,malwarebazaar,WARDENStealer,"exe,stealer,upx,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,ded99954032a139212f19cc66fd170ea5266e5301b95abf4a4139a57f51a88ba,malwarebazaar,ConnectWise,"ConnectWise,msi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,dfa33d362a0ad5806ba23fe50d1864117b89ea5bb49a3334c12a6b0b082b6c68,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,e4acab671cc97ac869a974bc5972c98486403c20d35a8867ac69d6e099cc17b6,malwarebazaar,exe,exe,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,e708d2ae124ff86e4e4c8b8e9c5a0afc7dcdc94a1044bdc4ee7d4777109b1311,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,e83eb1fc0c4d2e1d3062c0e452c317392914acec5d7d9f88a491f001dc2884c1,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,eb43d51f20bf03349e97fdcc2d71e1f2962edc0d4c5b6bb280056d7783e27bc3,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,f006aaa1017115b9d41f28b3187671fabfbdbde131c75732348c4276e2f09373,malwarebazaar,Mirai,"elf,Mirai,Torii",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,f22bff576c142db971fa77d3424022a1678504834d62f12db4ff15b1ab691dda,malwarebazaar,WARDENStealer,"exe,stealer,upx,Warden,WARDENStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,f2741eff6f684b785ffc7af70dbda15e8382f1a46f58dd3c1037fdc2dae5e267,malwarebazaar,SalatStealer,"exe,SalatStealer,upx-dec",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,f40e983bcf353c867fe3eaafb71830ffa0ed23b287edeb9029316cb0e17b9f04,malwarebazaar,exe,"exe,signed",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,f447a35d784b31286c1e9f96794bb17b788b8219fc46f3fe237265426a5f1211,malwarebazaar,exe,"exe,signed",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,f92d40be3b56109901d1ba531783b061c62b03808203b609cc8c09e7c73cb177,malwarebazaar,apk,apk,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,fe6302bc130a052aaaacc015f6d2a27ac42b206ac2edc7df38fe952f95cf859b,malwarebazaar,VShell,"exe,VShell",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+hash_sha256,ffe6a805dd7dfb2ba4c5b4280c4971f258d047f11c9772f9eb015237f767bd4d,malwarebazaar,SalatStealer,"exe,salatstealer,upx",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,110.166.202.146,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,112.239.97.171,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,112.239.99.198,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,115.48.160.93,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,115.50.227.111,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,115.55.228.246,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,115.55.41.116,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 17:30:20,85
+ip,115.56.153.234,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,115.62.34.25,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 17:30:20,85
+ip,119.116.156.211,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,123.10.35.108,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,123.132.158.20,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,123.4.207.248,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,125.43.100.64,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,125.45.65.171,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,125.46.247.242,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,125.47.32.222,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,125.47.73.238,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,170.84.134.172,urlhaus,malware_download,"32-bit,arm,elf,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,175.147.93.67,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,182.113.7.131,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,182.123.193.45,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,182.124.151.210,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,182.235.148.10,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,198.2.110.105,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,219.155.14.191,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,219.155.201.40,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,220.198.115.149,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,220.245.186.23,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,221.1.227.97,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,221.13.244.12,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,221.15.5.174,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,222.138.102.209,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,222.138.109.47,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,222.141.82.244,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,27.215.215.163,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,27.36.153.78,urlhaus,malware_download,"32-bit,arm,elf,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,42.224.80.223,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,42.238.132.220,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,42.54.66.114,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,42.59.113.103,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,46.236.65.145,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,59.96.141.102,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+ip,72.38.28.73,urlhaus,malware_download,"32-bit,arm,elf,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://103.249.199.3:46549/bin.sh,urlhaus,malware_download,"32-bit,arm,elf,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://103.249.199.3:46549/i,urlhaus,malware_download,"32-bit,arm,elf,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://110.166.202.146:53235/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://110.166.202.146:53235/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://112.239.97.171:43531/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://112.239.97.171:43531/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://112.239.99.198:54580/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://115.197.65.155:60542/i,urlhaus,malware_download,"32-bit,arm,elf,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://115.48.160.93:33690/bin.sh,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://115.48.160.93:33690/i,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://115.50.227.111:36366/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://115.55.228.246:39242/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://115.55.41.116:39590/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://115.56.153.234:55570/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://115.56.153.234:55570/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://115.61.18.55:51737/i,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://117.199.74.85:58264/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://119.116.156.211:50240/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://123.10.35.108:59645/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://123.132.158.20:51469/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://123.4.207.248:42038/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://123.4.207.248:42038/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://124.6.167.113:34516/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://125.43.100.64:37279/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://125.45.65.171:53462/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://125.46.247.242:51919/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://125.47.32.222:54254/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://125.47.73.238:56294/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://138.255.178.214:44293/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://154.223.128.222:52966/bin.sh,urlhaus,malware_download,"32-bit,arm,elf,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://170.84.134.172:40620/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://170.84.134.172:40620/i,urlhaus,malware_download,"32-bit,arm,elf,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://175.147.93.67:45968/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://175.147.93.67:45968/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://182.113.7.131:36662/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://182.123.193.45:59985/bin.sh,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://182.124.151.210:59160/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://182.235.148.10:47710/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://187.62.243.142:52547/bin.sh,urlhaus,malware_download,"32-bit,arm,elf,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://196.189.101.82:44482/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://196.189.96.59:42454/bin.sh,urlhaus,malware_download,"32-bit,arm,elf,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://196.189.96.59:42454/i,urlhaus,malware_download,"32-bit,arm,elf,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://196.190.1.39:59599/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://196.190.105.170:59740/bin.sh,urlhaus,malware_download,elf,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://198.2.110.105:57419/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://198.2.110.105:57419/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://219.155.14.191:33881/bin.sh,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://219.155.14.191:33881/i,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://219.155.201.40:52899/bin.sh,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://219.155.201.40:52899/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://220.198.115.149:36474/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://220.245.186.23:35403/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://221.1.227.97:43407/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://221.13.244.12:42540/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://221.15.5.174:42663/bin.sh,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://222.138.102.209:55988/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://222.138.109.47:53447/bin.sh,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://222.138.109.47:53447/i,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://222.139.199.251:54687/bin.sh,urlhaus,malware_download,"32-bit,arm,elf,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://222.141.82.244:51742/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://27.215.215.163:59280/i,urlhaus,malware_download,"32-bit,elf,mips,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://27.36.153.78:43907/bin.sh,urlhaus,malware_download,"32-bit,arm,elf,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://39.74.88.250:34524/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://42.224.80.223:40596/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://42.238.132.220:45133/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://42.54.66.114:54476/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://42.59.113.103:48874/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://46.236.65.145:39933/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://59.96.141.102:47081/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://59.96.141.102:47081/i,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://61.53.121.121:32935/bin.sh,urlhaus,malware_download,,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://72.38.28.73:46167/bin.sh,urlhaus,malware_download,"32-bit,arm,elf,Mozi",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://cdn.discordapp.com/attachments/1572688525122347009/1572689475048570981/d717ab737d?ex=6b009a36&is=6aff48b6&hm=20d3dd27d1d0a4967c3cfd4c8df8a7f6b1e6cd8019aee34f9e0b22921eb89334&,urlhaus,malware_download,IRAHook,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://cdn.discordapp.com/attachments/695865424750837862/1573100523333226546/127b568e2a?ex=6b00c787&is=6aff7607&hm=ae3efbc2a90f27224c0a2b177d0f1044538e2514adba247c2eb6eef7fb95b5bc&,urlhaus,malware_download,IRAHook,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/Magentacluplay/TG-WS-Proxy-v1.11.4/releases/download/TG-WS-Proxy-v1.11.4/TgWsProxy_windows_arm64.exe,urlhaus,malware_download,"exe,github,SalatStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/Magentacluplay/Telegram-Fix/releases/download/Telegram-Fix/TgWsProxy_windows.exe,urlhaus,malware_download,"exe,github,SalatStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/Magentacluplay/Telegram-Fix/releases/download/Telegram-Fix/TgWsProxy_windows_7_32bit.exe,urlhaus,malware_download,"exe,github,SalatStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/Magentacluplay/Telegram-Fix/releases/download/Telegram-Fix/TgWsProxy_windows_arm64.exe,urlhaus,malware_download,"exe,github,SalatStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/Magentacluplay/Telegram-Zapret/releases/download/Telegram-Zapret/TgWsProxy_windows_7_64bit.exe,urlhaus,malware_download,"exe,github,SalatStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/Magentacluplay/TelegramFix/releases/download/TelegramFix/TgWsProxy_windows.exe,urlhaus,malware_download,"exe,github,SalatStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/Magentacluplay/TelegramFix/releases/download/TelegramFix/TgWsProxy_windows_7_64bit.exe,urlhaus,malware_download,"exe,github,SalatStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/Magentacluplay/TelegramFix/releases/download/TelegramFix/TgWsProxy_windows_arm64.exe,urlhaus,malware_download,"exe,github,SalatStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/Magentacluplay/TelegramZapret/releases/download/TelegramZapret/TgWsProxy_windows.exe,urlhaus,malware_download,"exe,github,SalatStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/Magentacluplay/TelegramZapret/releases/download/TelegramZapret/TgWsProxy_windows_7_32bit.exe,urlhaus,malware_download,"exe,github,SalatStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/Magentacluplay/TelegramZapret/releases/download/TelegramZapret/TgWsProxy_windows_7_64bit.exe,urlhaus,malware_download,"exe,github,SalatStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/Magentacluplay/Tg-Ws-Proxy/releases/download/Tg-Ws-Proxy/TgWsProxy_windows.exe,urlhaus,malware_download,"exe,github,SalatStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/Magentacluplay/TgWsProxy/releases/download/TgWsProxy/TgWsProxy_windows_7_32bit.exe,urlhaus,malware_download,"exe,github,SalatStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/Magentacluplay/TgWsProxy/releases/download/TgWsProxy/TgWsProxy_windows_arm64.exe,urlhaus,malware_download,"exe,github,SalatStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/Magentacluplay/tg-fix/releases/download/tg-fix/TgWsProxy_windows.exe,urlhaus,malware_download,"exe,github,SalatStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/Magentacluplay/tg-fix/releases/download/tg-fix/TgWsProxy_windows_7_32bit.exe,urlhaus,malware_download,"exe,github,SalatStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/Magentacluplay/tg-fix/releases/download/tg-fix/TgWsProxy_windows_7_64bit.exe,urlhaus,malware_download,"exe,github,SalatStealer",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/SomeDevNow/love2d-minesweeper/releases/download/1.1.1/Minesweeper-win32.zip,urlhaus,malware_download,"github,SmartLoader,zip",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/SomeDevNow/love2d-minesweeper/releases/download/1.1.1/Minesweeper-win64.zip,urlhaus,malware_download,"github,SmartLoader,zip",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/SomeDevNow/love2d-minesweeper/releases/download/1.1/Minesweeper-win32.zip,urlhaus,malware_download,"github,SmartLoader,zip",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://github.com/SomeDevNow/love2d-minesweeper/releases/download/1.1/Minesweeper-win64.zip,urlhaus,malware_download,"github,SmartLoader,zip",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://raw.githubusercontent.com/09121279023/proxmox-lxc-tailscale-injector/refs/heads/main/retrogress/lxc-injector-tailscale-proxmox-3.3-beta.4.zip,urlhaus,malware_download,"github,SmartLoader,zip",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://raw.githubusercontent.com/09121279023/proxmox-lxc-tailscale-injector/refs/heads/main/retrogress/proxmox-lxc-tailscale-injector.zip,urlhaus,malware_download,"github,SmartLoader,zip",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://raw.githubusercontent.com/Shoaibxaif/first-contributions/refs/heads/main/additional-material/translations/Ukrainian/first_contributions_v1.7-beta.1.zip,urlhaus,malware_download,"github,SmartLoader,zip",2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,https://www.dropbox.com/scl/fi/u1gx3ts243xxoya048jbr/bundle.zip?rlkey=3ronxf88is6brzcriugpat5ld&st=7wz97uxi&dl=1,urlhaus,malware_download,IRAHook,2026-11-20 04:00:06,2026-11-20 05:22:28,85
+url,http://115.62.34.25:42124/i,urlhaus,malware_download,elf,2026-11-20 04:00:05,2026-11-20 05:22:28,85
